@@ -6101,14 +6101,6 @@
   "notas": [],
   "servicos": [
     {
-      "id": null,
-      "cliente_id": "1",
-      "data": "2026-07-21",
-      "descricao": "teste",
-      "horas": 1,
-      "valor": 130
-    },
-    {
       "id": 1,
       "cliente_id": "1",
       "data": "2026-07-21",
@@ -6116,15 +6108,6 @@
       "horas": 3,
       "valor": 0,
       "origem_ag": 1
-    },
-    {
-      "id": 2,
-      "cliente_id": "1",
-      "data": "2026-07-20",
-      "descricao": "Acompanhamento Semanal",
-      "horas": 4,
-      "valor": 0,
-      "origem_ag": 2
     }
   ],
   "config": {
