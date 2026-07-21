@@ -6134,24 +6134,6 @@
       "horas": 4,
       "valor": 0,
       "origem_ag": 3
-    },
-    {
-      "id": 4,
-      "cliente_id": "1",
-      "data": "2026-07-27",
-      "descricao": "Acompanhamento Semanal",
-      "horas": 4,
-      "valor": 0,
-      "origem_ag": 4
-    },
-    {
-      "id": 5,
-      "cliente_id": "1",
-      "data": "2026-07-30",
-      "descricao": "Acompanhamento Semanal",
-      "horas": 4,
-      "valor": 0,
-      "origem_ag": 5
     }
   ],
   "config": {
