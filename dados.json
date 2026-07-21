@@ -6098,7 +6098,19 @@
       "recorrencia": "r1784658628069"
     }
   ],
-  "notas": [],
+  "notas": [
+    {
+      "id": 1,
+      "agendamento_id": 1,
+      "cliente_id": "1",
+      "numero_nfse": "",
+      "valor": 0,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CPF): \nNOME: PAFER\nVALOR: R$ 0.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-07-21"
+    }
+  ],
   "servicos": [
     {
       "id": 1,
@@ -6121,7 +6133,7 @@
   "seq": {
     "cli": 3,
     "ag": 467,
-    "nota": 1,
+    "nota": 2,
     "serv": 6
   }
 }
