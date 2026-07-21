@@ -20,7 +20,20 @@
       "id": 1
     }
   ],
-  "agendamentos": [],
+  "agendamentos": [
+    {
+      "titulo": "Serviço de desligamento do Servidor",
+      "cliente_id": "1",
+      "inicio": "2026-07-21T15:00",
+      "fim": "2026-07-21T18:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1,
+      "origem": "app"
+    }
+  ],
   "notas": [],
   "servicos": [
     {
@@ -42,7 +55,7 @@
   },
   "seq": {
     "cli": 2,
-    "ag": 1,
+    "ag": 2,
     "nota": 1,
     "serv": null
   }
