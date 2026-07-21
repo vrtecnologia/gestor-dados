@@ -1,7 +1,28 @@
 {
-  "clientes": [],
+  "clientes": [
+    {
+      "nome": "PAFER",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 1
+    }
+  ],
   "agendamentos": [],
   "notas": [],
+  "servicos": [],
   "config": {
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
@@ -11,7 +32,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 1,
+    "cli": 2,
     "ag": 1,
     "nota": 1
   }
