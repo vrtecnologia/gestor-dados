@@ -22,7 +22,16 @@
   ],
   "agendamentos": [],
   "notas": [],
-  "servicos": [],
+  "servicos": [
+    {
+      "id": null,
+      "cliente_id": "1",
+      "data": "2026-07-21",
+      "descricao": "teste",
+      "horas": 1,
+      "valor": 130
+    }
+  ],
   "config": {
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
@@ -34,6 +43,7 @@
   "seq": {
     "cli": 2,
     "ag": 1,
-    "nota": 1
+    "nota": 1,
+    "serv": null
   }
 }
