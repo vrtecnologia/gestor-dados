@@ -18,6 +18,25 @@
       "uf": "",
       "observacoes": "",
       "id": 1
+    },
+    {
+      "nome": "Xmarketing",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 2
     }
   ],
   "agendamentos": [
@@ -6108,7 +6127,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 2,
+    "cli": 3,
     "ag": 467,
     "nota": 1,
     "serv": 1
