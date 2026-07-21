@@ -6125,15 +6125,6 @@
       "horas": 4,
       "valor": 0,
       "origem_ag": 2
-    },
-    {
-      "id": 3,
-      "cliente_id": "1",
-      "data": "2026-07-23",
-      "descricao": "Acompanhamento Semanal",
-      "horas": 4,
-      "valor": 0,
-      "origem_ag": 3
     }
   ],
   "config": {
