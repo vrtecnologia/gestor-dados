@@ -6107,15 +6107,6 @@
       "descricao": "teste",
       "horas": 1,
       "valor": 130
-    },
-    {
-      "id": 0,
-      "cliente_id": "1",
-      "data": "2026-07-21",
-      "descricao": "Serviço de desligamento do Servidor",
-      "horas": 3,
-      "valor": 0,
-      "origem_ag": 1
     }
   ],
   "config": {
