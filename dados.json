@@ -6107,6 +6107,51 @@
       "descricao": "teste",
       "horas": 1,
       "valor": 130
+    },
+    {
+      "id": 1,
+      "cliente_id": "1",
+      "data": "2026-07-21",
+      "descricao": "Serviço de desligamento do Servidor",
+      "horas": 3,
+      "valor": 0,
+      "origem_ag": 1
+    },
+    {
+      "id": 2,
+      "cliente_id": "1",
+      "data": "2026-07-20",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 2
+    },
+    {
+      "id": 3,
+      "cliente_id": "1",
+      "data": "2026-07-23",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 3
+    },
+    {
+      "id": 4,
+      "cliente_id": "1",
+      "data": "2026-07-27",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 4
+    },
+    {
+      "id": 5,
+      "cliente_id": "1",
+      "data": "2026-07-30",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 5
     }
   ],
   "config": {
@@ -6121,6 +6166,6 @@
     "cli": 3,
     "ag": 467,
     "nota": 1,
-    "serv": 1
+    "serv": 6
   }
 }
