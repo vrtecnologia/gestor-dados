@@ -6183,6 +6183,14 @@
       "descricao": "CRIACAO DA CONTA DE EMAIL DA ESTELA",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 11,
+      "cliente_id": "3",
+      "data": "2026-07-22",
+      "descricao": "ATUALIZAÇÃO DO DRIVE DE SOM DA MAQUINA DA INGRID GUEDES",
+      "horas": 0,
+      "valor": 0
     }
   ],
   "config": {
@@ -6197,6 +6205,6 @@
     "cli": 4,
     "ag": 467,
     "nota": 2,
-    "serv": 11
+    "serv": 12
   }
 }
