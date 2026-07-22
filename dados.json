@@ -37,6 +37,25 @@
       "uf": "",
       "observacoes": "",
       "id": 2
+    },
+    {
+      "nome": "Rem Marketing",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 3
     }
   ],
   "agendamentos": [
@@ -6175,7 +6194,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 3,
+    "cli": 4,
     "ag": 467,
     "nota": 2,
     "serv": 11
