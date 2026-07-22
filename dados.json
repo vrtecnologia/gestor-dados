@@ -6156,6 +6156,14 @@
       "horas": 4,
       "valor": 0,
       "origem_ag": 5
+    },
+    {
+      "id": 10,
+      "cliente_id": "2",
+      "data": "2026-07-22",
+      "descricao": "CRIACAO DA CONTA DE EMAIL DA ESTELA",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "config": {
@@ -6170,6 +6178,6 @@
     "cli": 3,
     "ag": 467,
     "nota": 2,
-    "serv": 10
+    "serv": 11
   }
 }
