@@ -6120,6 +6120,42 @@
       "horas": 3,
       "valor": 0,
       "origem_ag": 1
+    },
+    {
+      "id": 6,
+      "cliente_id": "1",
+      "data": "2026-07-20",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 2
+    },
+    {
+      "id": 7,
+      "cliente_id": "1",
+      "data": "2026-07-23",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 3
+    },
+    {
+      "id": 8,
+      "cliente_id": "1",
+      "data": "2026-07-27",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 4
+    },
+    {
+      "id": 9,
+      "cliente_id": "1",
+      "data": "2026-07-30",
+      "descricao": "Acompanhamento Semanal",
+      "horas": 4,
+      "valor": 0,
+      "origem_ag": 5
     }
   ],
   "config": {
@@ -6134,6 +6170,6 @@
     "cli": 3,
     "ag": 467,
     "nota": 2,
-    "serv": 6
+    "serv": 10
   }
 }
