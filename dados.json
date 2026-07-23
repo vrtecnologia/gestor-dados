@@ -132,6 +132,25 @@
       "uf": "",
       "observacoes": "",
       "id": 8
+    },
+    {
+      "nome": "CEM SERVICOS LTDA",
+      "tipo_pessoa": "J",
+      "documento": "18.695.876/0001-65",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 9
     }
   ],
   "agendamentos": [
@@ -6333,7 +6352,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 9,
+    "cli": 10,
     "ag": 468,
     "nota": 3,
     "serv": 16
