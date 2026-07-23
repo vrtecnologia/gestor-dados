@@ -113,6 +113,25 @@
       "uf": "",
       "observacoes": "",
       "id": 7
+    },
+    {
+      "nome": "JORGE LUIZ GONCALVES BRAGA",
+      "tipo_pessoa": "F",
+      "documento": "412.719.807-97",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "15",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 8
     }
   ],
   "agendamentos": [
@@ -6314,7 +6333,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 8,
+    "cli": 9,
     "ag": 468,
     "nota": 3,
     "serv": 16
