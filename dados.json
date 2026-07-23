@@ -6276,6 +6276,14 @@
       "descricao": "ACESSO A MAQUINA DO THADEU PARA ATIVAÇÃO DO OFFICE / ANÁLISE PONTUAL DE INTEGRIDADE DE ACESSOS E LICENCIAMENTO NO GOOGLE WORKSPACE E MICROSOFT 365",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 15,
+      "cliente_id": "2",
+      "data": "2026-07-22",
+      "descricao": "- VERIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
+      "horas": 2,
+      "valor": 0
     }
   ],
   "config": {
@@ -6290,6 +6298,6 @@
     "cli": 6,
     "ag": 468,
     "nota": 3,
-    "serv": 15
+    "serv": 16
   }
 }
