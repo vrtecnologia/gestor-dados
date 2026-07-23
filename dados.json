@@ -6268,6 +6268,14 @@
       "descricao": "- LIMPEZA DA MAQUINA DA MARIA E INSTALAÇÃO DOS APLICATIVOS NA MAQUINA NOVA DO RICARDO",
       "horas": 4,
       "valor": 0
+    },
+    {
+      "id": 14,
+      "cliente_id": "2",
+      "data": "2026-07-09",
+      "descricao": "ACESSO A MAQUINA DO THADEU PARA ATIVAÇÃO DO OFFICE / ANÁLISE PONTUAL DE INTEGRIDADE DE ACESSOS E LICENCIAMENTO NO GOOGLE WORKSPACE E MICROSOFT 365",
+      "horas": 2,
+      "valor": 0
     }
   ],
   "config": {
@@ -6282,6 +6290,6 @@
     "cli": 6,
     "ag": 468,
     "nota": 3,
-    "serv": 14
+    "serv": 15
   }
 }
