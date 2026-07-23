@@ -26,7 +26,7 @@
       "email": "",
       "telefone": "",
       "inscricao_municipal": "",
-      "venc_dia": "",
+      "venc_dia": "05",
       "cep": "",
       "logradouro": "",
       "numero": "",
@@ -6189,23 +6189,6 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 40167546000156\nNOME: CLD ENGENHARIA LTDA\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-07-23"
-    },
-    {
-      "id": 3,
-      "servico_ids": [
-        12,
-        13,
-        14,
-        10,
-        15
-      ],
-      "cliente_id": "2",
-      "numero_nfse": "",
-      "valor": 0,
-      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
-      "resumo": "TOMADOR (CPF): \nNOME: XMARKETING\nVALOR: R$ 0.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (5):\n  03/07/2026 - IDA A XMARKETING PARA TROCAR MEMORIA DA MAQUINA DO FELIPE - R$ 0.00\n  08/07/2026 - - LIMPEZA DA MAQUINA DA MARIA E INSTALAÇÃO DOS APLICATIVOS NA MAQUINA NOVA DO RICARDO - R$ 0.00\n  09/07/2026 - ACESSO A MAQUINA DO THADEU PARA ATIVAÇÃO DO OFFICE / ANÁLISE PONTUAL DE INTEGRIDADE DE ACESSOS E LICENCIAMENTO NO GOOGLE WORKSPACE E MICROSOFT 365 - R$ 0.00\n  22/07/2026 - CRIACAO DA CONTA DE EMAIL DA ESTELA - R$ 0.00\n  22/07/2026 - - VERIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT - R$ 0.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
-      "emitida_em": "2026-07-23"
     }
   ],
   "servicos": [
@@ -6260,8 +6243,7 @@
       "data": "2026-07-22",
       "descricao": "CRIACAO DA CONTA DE EMAIL DA ESTELA",
       "horas": 1,
-      "valor": 0,
-      "nota_id": 3
+      "valor": 0
     },
     {
       "id": 11,
@@ -6277,8 +6259,7 @@
       "data": "2026-07-03",
       "descricao": "IDA A XMARKETING PARA TROCAR MEMORIA DA MAQUINA DO FELIPE",
       "horas": 1,
-      "valor": 0,
-      "nota_id": 3
+      "valor": 0
     },
     {
       "id": 13,
@@ -6286,8 +6267,7 @@
       "data": "2026-07-08",
       "descricao": "- LIMPEZA DA MAQUINA DA MARIA E INSTALAÇÃO DOS APLICATIVOS NA MAQUINA NOVA DO RICARDO",
       "horas": 4,
-      "valor": 0,
-      "nota_id": 3
+      "valor": 0
     },
     {
       "id": 14,
@@ -6295,8 +6275,7 @@
       "data": "2026-07-09",
       "descricao": "ACESSO A MAQUINA DO THADEU PARA ATIVAÇÃO DO OFFICE / ANÁLISE PONTUAL DE INTEGRIDADE DE ACESSOS E LICENCIAMENTO NO GOOGLE WORKSPACE E MICROSOFT 365",
       "horas": 2,
-      "valor": 0,
-      "nota_id": 3
+      "valor": 0
     },
     {
       "id": 15,
@@ -6304,15 +6283,6 @@
       "data": "2026-07-22",
       "descricao": "- VERIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
       "horas": 2,
-      "valor": 0,
-      "nota_id": 3
-    },
-    {
-      "id": 16,
-      "cliente_id": "2",
-      "data": "2026-07-23",
-      "descricao": "CONFIGURAÇÃO DO EMAIL DO FELIPE ALBO",
-      "horas": 1,
       "valor": 0
     }
   ],
@@ -6327,7 +6297,7 @@
   "seq": {
     "cli": 6,
     "ag": 468,
-    "nota": 4,
-    "serv": 17
+    "nota": 3,
+    "serv": 16
   }
 }
