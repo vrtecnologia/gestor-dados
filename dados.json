@@ -131,7 +131,7 @@
       "local": "Av Paris 549 - Bonsucesso",
       "descricao": "",
       "valor": 0,
-      "status": "agendado",
+      "status": "concluido",
       "origem": "app",
       "recorrencia": "r1784658628069"
     },
