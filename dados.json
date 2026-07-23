@@ -39,25 +39,6 @@
       "id": 2
     },
     {
-      "nome": "Rem Marketing",
-      "tipo_pessoa": "F",
-      "documento": "",
-      "email": "",
-      "telefone": "",
-      "inscricao_municipal": "",
-      "venc_dia": "",
-      "cep": "",
-      "logradouro": "",
-      "numero": "",
-      "complemento": "",
-      "bairro": "",
-      "municipio": "",
-      "codigo_municipio_ibge": "",
-      "uf": "",
-      "observacoes": "",
-      "id": 3
-    },
-    {
       "nome": "PETT CAPELLATO",
       "tipo_pessoa": "J",
       "documento": "05.292.903/0001-07",
