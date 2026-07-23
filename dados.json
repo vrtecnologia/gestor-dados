@@ -6183,10 +6183,10 @@
       "id": 2,
       "agendamento_id": 467,
       "cliente_id": "5",
-      "numero_nfse": "",
+      "numero_nfse": "434",
       "valor": 130,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 40167546000156\nNOME: CLD ENGENHARIA LTDA\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-07-23"
     }
