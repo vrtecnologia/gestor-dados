@@ -94,6 +94,25 @@
       "uf": "",
       "observacoes": "",
       "id": 6
+    },
+    {
+      "nome": "ELIZABETH",
+      "tipo_pessoa": "F",
+      "documento": "724.608.817-20",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "05",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 7
     }
   ],
   "agendamentos": [
@@ -6295,7 +6314,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 7,
+    "cli": 8,
     "ag": 468,
     "nota": 3,
     "serv": 16
