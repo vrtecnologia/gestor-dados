@@ -6153,6 +6153,18 @@
       "status": "agendado",
       "origem": "app",
       "recorrencia": "r1784658628069"
+    },
+    {
+      "titulo": "SERVIÇO REMOTO: REINICIALIZAÇÃO DO ROTEADOR E FLUSHDNS VIA CMD",
+      "cliente_id": "5",
+      "inicio": "2026-07-23T13:20",
+      "fim": "2026-07-23T13:32",
+      "valor": 130,
+      "status": "concluido",
+      "local": "",
+      "descricao": "",
+      "id": 467,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -6241,7 +6253,7 @@
   },
   "seq": {
     "cli": 6,
-    "ag": 467,
+    "ag": 468,
     "nota": 2,
     "serv": 12
   }
