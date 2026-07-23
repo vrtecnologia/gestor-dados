@@ -6252,6 +6252,14 @@
       "descricao": "ATUALIZAÇÃO DO DRIVE DE SOM DA MAQUINA DA INGRID GUEDES",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 12,
+      "cliente_id": "2",
+      "data": "2026-07-03",
+      "descricao": "IDA A XMARKETING PARA TROCAR MEMORIA DA MAQUINA DO FELIPE",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "config": {
@@ -6266,6 +6274,6 @@
     "cli": 6,
     "ag": 468,
     "nota": 3,
-    "serv": 12
+    "serv": 13
   }
 }
