@@ -75,6 +75,25 @@
       "uf": "",
       "observacoes": "",
       "id": 4
+    },
+    {
+      "nome": "CLD ENGENHARIA LTDA",
+      "tipo_pessoa": "J",
+      "documento": "40.167.546/0001-56",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 5
     }
   ],
   "agendamentos": [
@@ -6221,7 +6240,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 5,
+    "cli": 6,
     "ag": 467,
     "nota": 2,
     "serv": 12
