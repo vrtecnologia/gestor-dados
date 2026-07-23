@@ -94,6 +94,25 @@
       "uf": "",
       "observacoes": "",
       "id": 5
+    },
+    {
+      "nome": "REM MARKETING LTDA",
+      "tipo_pessoa": "J",
+      "documento": "41.191.027/0001-96",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "15",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 6
     }
   ],
   "agendamentos": [
@@ -6295,7 +6314,7 @@
     "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
-    "cli": 6,
+    "cli": 7,
     "ag": 468,
     "nota": 3,
     "serv": 16
