@@ -6343,18 +6343,50 @@
       "valor": 0
     }
   ],
+  "contratos": [],
+  "cobrancas": [],
+  "recibos": [
+    {
+      "tipo": "servico",
+      "data": "2026-07-23",
+      "numero": "23072026",
+      "cliente_id": "",
+      "pag_nome": "GUILHERME ROCHA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "RECEBI ESSA IMPORTANCIA ACIMA DO GUILHERME ROCHA NO DIA 23/07/2026",
+      "itens": [
+        {
+          "data": "2026-07-24",
+          "desc": "SERVIÇO REMOTO - VERIFICAÇÃO DO ADOBE E OFFICE",
+          "qtd": "1 HORA",
+          "valor": 130
+        }
+      ],
+      "id": 1
+    }
+  ],
   "config": {
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
     "cnpj": "42612058000136",
     "mun": "3304557",
     "razao": "",
-    "pix": "PIX CNPJ 42.612.058/0001-36"
+    "pix": "PIX CNPJ 42.612.058/0001-36",
+    "pix_cpf": "",
+    "banco": "",
+    "emit_nome": "",
+    "emit_cpf": ""
   },
   "seq": {
     "cli": 10,
     "ag": 468,
     "nota": 3,
-    "serv": 16
+    "serv": 16,
+    "ct": 1,
+    "cob": 1,
+    "rec": 2
   }
 }
