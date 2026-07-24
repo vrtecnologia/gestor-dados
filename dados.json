@@ -6417,7 +6417,7 @@
       "cliente_id": "10",
       "valor": 400,
       "venc_dia": 10,
-      "tipo": "nfse",
+      "tipo": "comunicado",
       "ativo": true,
       "descricao": "",
       "obs": "",
