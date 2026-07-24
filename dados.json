@@ -6343,7 +6343,18 @@
       "valor": 0
     }
   ],
-  "contratos": [],
+  "contratos": [
+    {
+      "cliente_id": "9",
+      "valor": 860,
+      "venc_dia": 20,
+      "tipo": "nfse",
+      "ativo": true,
+      "descricao": "",
+      "obs": "",
+      "id": 1
+    }
+  ],
   "cobrancas": [],
   "recibos": [
     {
@@ -6390,23 +6401,23 @@
     }
   ],
   "config": {
-    "banco": "Banco Itau:\nAG 2971\nConta Poupança 16877-4/500\nVinicius da Rocha Nascimento\nPix CPF 097.621.867-45\n",
-    "pix_cpf": "PIX CPF 097.621.867-45",
-    "emit_nome": "VINICIUS DA ROCHA NASCIMENTO",
-    "emit_cpf": "097.621.867-45",
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
     "cnpj": "42612058000136",
     "mun": "3304557",
     "razao": "",
-    "pix": "PIX CNPJ 42.612.058/0001-36"
+    "pix": "PIX CNPJ 42.612.058/0001-36",
+    "pix_cpf": "PIX CPF 097.621.867-45",
+    "banco": "Banco Itau:\nAG 2971\nConta Poupança 16877-4/500\nVinicius da Rocha Nascimento\nPix CPF 097.621.867-45\n",
+    "emit_nome": "VINICIUS DA ROCHA NASCIMENTO",
+    "emit_cpf": "097.621.867-45"
   },
   "seq": {
     "cli": 10,
     "ag": 468,
     "nota": 3,
     "serv": 16,
-    "ct": 1,
+    "ct": 2,
     "cob": 1,
     "rec": 3
   }
