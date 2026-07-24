@@ -6360,6 +6360,14 @@
       "descricao": "- VERIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 16,
+      "cliente_id": "2",
+      "data": "2026-07-24",
+      "descricao": "ACESSO A MAQUINA DA ESTELA PARA RECONFIGURAR O OUTLOOK",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -6485,7 +6493,7 @@
     "cli": 11,
     "ag": 468,
     "nota": 3,
-    "serv": 16,
+    "serv": 17,
     "ct": 7,
     "cob": 1,
     "rec": 3
