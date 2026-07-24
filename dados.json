@@ -6448,6 +6448,14 @@
       "valor": 0,
       "os_num": "22072026",
       "nota_id": null
+    },
+    {
+      "id": 25,
+      "cliente_id": "6",
+      "data": "2026-07-24",
+      "descricao": "ACESSO A MAQUINA DA INGRID PARA SOLUCIONAR FALHA NO ADOBE",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -6573,7 +6581,7 @@
     "cli": 11,
     "ag": 468,
     "nota": 3,
-    "serv": 25,
+    "serv": 26,
     "ct": 7,
     "cob": 1,
     "rec": 3
