@@ -6366,6 +6366,27 @@
         }
       ],
       "id": 1
+    },
+    {
+      "tipo": "venda",
+      "data": "2026-07-24",
+      "numero": "24072026",
+      "cliente_id": "9",
+      "pag_nome": "CEM SERVICOS LTDA",
+      "pag_doc": "18.695.876/0001-65",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "RECEBI A IMPORTANCIA ACIMA DO CEM SERVICOS LTDA DE CNPJ 18.695.876/0001-65",
+      "itens": [
+        {
+          "data": "2026-07-24",
+          "desc": "SSD 240GB",
+          "qtd": "1",
+          "valor": 300
+        }
+      ],
+      "id": 2
     }
   ],
   "config": {
@@ -6387,6 +6408,6 @@
     "serv": 16,
     "ct": 1,
     "cob": 1,
-    "rec": 2
+    "rec": 3
   }
 }
