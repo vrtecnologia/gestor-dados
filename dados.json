@@ -6368,6 +6368,86 @@
       "descricao": "ACESSO A MAQUINA DA ESTELA PARA RECONFIGURAR O OUTLOOK",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 17,
+      "cliente_id": "6",
+      "data": "2026-07-03",
+      "descricao": "- RETIRADA DO NOTEBOOK DO MAURICIO",
+      "horas": 1,
+      "valor": 0,
+      "os_num": "03072026",
+      "nota_id": null
+    },
+    {
+      "id": 18,
+      "cliente_id": "6",
+      "data": "2026-07-05",
+      "descricao": "MAQUINA DO MAURICIO\n- TESTE DE ABERTURA DO NOTEBOOK, AO DESLIGAR E LIGAR MAQUINA TRAVA E FOI DIAGNOSTICADO A\nNECESSIDADE DE FORMATAÇÃO\n- FORMATAÇÃO DO NOTEBOOK COM WINDOWS DE FABRICA DA DELL\n- INSTALAÇAO DO PACOTE ADOBE\n- ATUALIZAÇÃO DE FIRMWARE\n- ENTREGA DO NOTEBOOK PARA O MAURICIO",
+      "horas": 5,
+      "valor": 0,
+      "os_num": "05072026",
+      "nota_id": null
+    },
+    {
+      "id": 19,
+      "cliente_id": "6",
+      "data": "2026-07-09",
+      "descricao": "- ACESSO A MAQUINA DO MICHEL PARA ATUALIZAÇÃO DO ACROBAT E ALTERAÇÃO NO MODO DE\nABERTURA DOS APLICATIVOS DE IA",
+      "horas": 1,
+      "valor": 0,
+      "os_num": "09072026",
+      "nota_id": null
+    },
+    {
+      "id": 20,
+      "cliente_id": "6",
+      "data": "2026-07-10",
+      "descricao": "- ACESSO A MAQUINA DO MICHEL PARA SOLUCIONAR ACESSO AO ATENDIMENTO E ATIVAÇÃO DO\nACROBAT",
+      "horas": 1,
+      "valor": 0,
+      "os_num": "10072026",
+      "nota_id": null
+    },
+    {
+      "id": 21,
+      "cliente_id": "6",
+      "data": "2026-07-13",
+      "descricao": "- ACESSO A MAQUINA DO CAMILA PARA SOLUCIONAR FALHA NO MICROFONE",
+      "horas": 1,
+      "valor": 0,
+      "os_num": "13072026",
+      "nota_id": null
+    },
+    {
+      "id": 22,
+      "cliente_id": "6",
+      "data": "2026-07-15",
+      "descricao": "- ACESSO A MAQUINA DO RAMON PARA VERIFICAR LOCALIZAÇÃO DE CERTIFICADO DIGITAL",
+      "horas": 1,
+      "valor": 0,
+      "os_num": "15072026",
+      "nota_id": null
+    },
+    {
+      "id": 23,
+      "cliente_id": "6",
+      "data": "2026-07-15",
+      "descricao": "- ACESSO A MAQUINA DA INDARA PARA LIMPEZA DE DISCO",
+      "horas": 1,
+      "valor": 0,
+      "os_num": "15072026",
+      "nota_id": null
+    },
+    {
+      "id": 24,
+      "cliente_id": "6",
+      "data": "2026-07-22",
+      "descricao": "ATUALIZAÇÃO DO DRIVE DE SOM DA MAQUINA DA INGRID\nGUEDES",
+      "horas": 1,
+      "valor": 0,
+      "os_num": "22072026",
+      "nota_id": null
     }
   ],
   "contratos": [
@@ -6493,7 +6573,7 @@
     "cli": 11,
     "ag": 468,
     "nota": 3,
-    "serv": 17,
+    "serv": 25,
     "ct": 7,
     "cob": 1,
     "rec": 3
