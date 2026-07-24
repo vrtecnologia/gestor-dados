@@ -6369,16 +6369,16 @@
     }
   ],
   "config": {
+    "banco": "Banco Itau:\nAG 2971\nConta Poupança 16877-4/500\nVinicius da Rocha Nascimento\nPix CPF 097.621.867-45\n",
+    "pix_cpf": "097.621.867-45",
+    "emit_nome": "VINICIUS DA ROCHA NASCIMENTO",
+    "emit_cpf": "097.621.867-45",
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
     "cnpj": "42612058000136",
     "mun": "3304557",
     "razao": "",
-    "pix": "PIX CNPJ 42.612.058/0001-36",
-    "pix_cpf": "",
-    "banco": "",
-    "emit_nome": "",
-    "emit_cpf": ""
+    "pix": "PIX CNPJ 42.612.058/0001-36"
   },
   "seq": {
     "cli": 10,
