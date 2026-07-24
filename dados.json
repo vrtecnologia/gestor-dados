@@ -6363,6 +6363,16 @@
       "descricao": "",
       "obs": "",
       "id": 2
+    },
+    {
+      "cliente_id": "8",
+      "valor": 430.5,
+      "venc_dia": 15,
+      "tipo": "nfse",
+      "ativo": true,
+      "descricao": "",
+      "obs": "",
+      "id": 3
     }
   ],
   "cobrancas": [],
@@ -6427,7 +6437,7 @@
     "ag": 468,
     "nota": 3,
     "serv": 16,
-    "ct": 3,
+    "ct": 4,
     "cob": 1,
     "rec": 3
   }
