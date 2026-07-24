@@ -6383,6 +6383,16 @@
       "descricao": "",
       "obs": "",
       "id": 4
+    },
+    {
+      "cliente_id": "2",
+      "valor": 825,
+      "venc_dia": 5,
+      "tipo": "comunicado",
+      "ativo": true,
+      "descricao": "",
+      "obs": "",
+      "id": 5
     }
   ],
   "cobrancas": [],
@@ -6447,7 +6457,7 @@
     "ag": 468,
     "nota": 3,
     "serv": 16,
-    "ct": 5,
+    "ct": 6,
     "cob": 1,
     "rec": 3
   }
