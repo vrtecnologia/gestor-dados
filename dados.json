@@ -151,6 +151,25 @@
       "uf": "",
       "observacoes": "",
       "id": 9
+    },
+    {
+      "nome": "CRYSTAL CONTABILIDADE",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "10",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 10
     }
   ],
   "agendamentos": [
@@ -6453,7 +6472,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 10,
+    "cli": 11,
     "ag": 468,
     "nota": 3,
     "serv": 16,
