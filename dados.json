@@ -6456,6 +6456,14 @@
       "descricao": "ACESSO A MAQUINA DA INGRID PARA SOLUCIONAR FALHA NO ADOBE",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 26,
+      "cliente_id": "2",
+      "data": "2026-07-27",
+      "descricao": "- ACESSO A MAQUINA DA ESTELA PARA LIBERAR PASTA PRODUÇÃO DO GOOGLE DRIVE",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -6581,7 +6589,7 @@
     "cli": 11,
     "ag": 468,
     "nota": 3,
-    "serv": 26,
+    "serv": 27,
     "ct": 7,
     "cob": 1,
     "rec": 3
