@@ -6265,6 +6265,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 40167546000156\nNOME: CLD ENGENHARIA LTDA\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-07-23"
+    },
+    {
+      "id": 3,
+      "servico_ids": [
+        27
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 510,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 510.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  28/07/2026 - FORMATAÇÃO DA MAQUINA NOVA DA PATRICIA E COPIA DE TODOS OS ARQUIVOS DA ANTIGA PARA A NOVA - R$ 510.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-07-28"
     }
   ],
   "servicos": [
@@ -6471,7 +6484,8 @@
       "data": "2026-07-28",
       "descricao": "FORMATAÇÃO DA MAQUINA NOVA DA PATRICIA E COPIA DE TODOS OS ARQUIVOS DA ANTIGA PARA A NOVA",
       "horas": 3,
-      "valor": 510
+      "valor": 510,
+      "nota_id": 3
     }
   ],
   "contratos": [
@@ -6596,7 +6610,7 @@
   "seq": {
     "cli": 11,
     "ag": 468,
-    "nota": 3,
+    "nota": 4,
     "serv": 28,
     "ct": 7,
     "cob": 1,
