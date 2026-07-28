@@ -6464,6 +6464,14 @@
       "descricao": "- ACESSO A MAQUINA DA ESTELA PARA LIBERAR PASTA PRODUÇÃO DO GOOGLE DRIVE",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 27,
+      "cliente_id": "4",
+      "data": "2026-07-28",
+      "descricao": "FORMATAÇÃO DA MAQUINA NOVA DA PATRICIA E COPIA DE TODOS OS ARQUIVOS DA ANTIGA PARA A NOVA",
+      "horas": 3,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -6589,7 +6597,7 @@
     "cli": 11,
     "ag": 468,
     "nota": 3,
-    "serv": 27,
+    "serv": 28,
     "ct": 7,
     "cob": 1,
     "rec": 3
