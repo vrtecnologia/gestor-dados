@@ -6272,10 +6272,10 @@
         27
       ],
       "cliente_id": "4",
-      "numero_nfse": "",
+      "numero_nfse": "435",
       "valor": 510,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 510.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  28/07/2026 - FORMATAÇÃO DA MAQUINA NOVA DA PATRICIA E COPIA DE TODOS OS ARQUIVOS DA ANTIGA PARA A NOVA - R$ 510.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-07-28"
     }
