@@ -6486,6 +6486,14 @@
       "horas": 3,
       "valor": 510,
       "nota_id": 3
+    },
+    {
+      "id": 28,
+      "cliente_id": "6",
+      "data": "2026-07-29",
+      "descricao": "- ACESSO A MAQUINA DO JEAN PARA CONFIGURAÇÃO DE ACESSO FREELA PARA REDE GDRIVE E OPERAND",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -6611,7 +6619,7 @@
     "cli": 11,
     "ag": 468,
     "nota": 4,
-    "serv": 28,
+    "serv": 29,
     "ct": 7,
     "cob": 1,
     "rec": 3
