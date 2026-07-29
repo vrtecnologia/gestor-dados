@@ -6494,6 +6494,14 @@
       "descricao": "- ACESSO A MAQUINA DO JEAN PARA CONFIGURAÇÃO DE ACESSO FREELA PARA REDE GDRIVE E OPERAND",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 29,
+      "cliente_id": "4",
+      "data": "2026-07-29",
+      "descricao": "ACESSO A MAQUINA DA DJEANE PARA SOLUCIONAR LENTIDAO NA MAQUINA - EFETUEI LIMPEZA DO SSD E ATUALIZAÇÃO DO WINDOWS",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -6619,7 +6627,7 @@
     "cli": 11,
     "ag": 468,
     "nota": 4,
-    "serv": 29,
+    "serv": 30,
     "ct": 7,
     "cob": 1,
     "rec": 3
