@@ -6298,10 +6298,10 @@
         29
       ],
       "cliente_id": "4",
-      "numero_nfse": "",
+      "numero_nfse": "436",
       "valor": 130,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  29/07/2026 - ACESSO A MAQUINA DA DJEANE PARA SOLUCIONAR LENTIDAO NA MAQUINA - EFETUEI LIMPEZA DO SSD E ATUALIZAÇÃO DO WINDOWS - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-07-29"
     }
