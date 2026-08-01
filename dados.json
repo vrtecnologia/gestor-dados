@@ -6322,10 +6322,10 @@
       "contrato_id": 4,
       "competencia": "2026-08",
       "cliente_id": "6",
-      "numero_nfse": "",
+      "numero_nfse": "440",
       "valor": 2167.1,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 41191027000196\nNOME: REM MARKETING LTDA\nVALOR: R$ 2167.10\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: 15/08/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-08-01"
     }
@@ -6656,9 +6656,9 @@
       "contrato_id": 4,
       "competencia": "2026-08",
       "tipo": "nfse",
-      "status": "portal",
+      "status": "autorizada",
       "nota_id": 9,
-      "numero_nfse": "",
+      "numero_nfse": "440",
       "valor": 2167.1,
       "gerado_em": "2026-08-01"
     }
