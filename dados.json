@@ -6661,6 +6661,24 @@
       "numero_nfse": "440",
       "valor": 2167.1,
       "gerado_em": "2026-08-01"
+    },
+    {
+      "id": 5,
+      "contrato_id": 5,
+      "competencia": "2026-08",
+      "tipo": "comunicado",
+      "status": "enviado",
+      "valor": 825,
+      "gerado_em": "2026-08-01"
+    },
+    {
+      "id": 6,
+      "contrato_id": 6,
+      "competencia": "2026-08",
+      "tipo": "comunicado",
+      "status": "enviado",
+      "valor": 400,
+      "gerado_em": "2026-08-01"
     }
   ],
   "recibos": [
@@ -6725,7 +6743,7 @@
     "nota": 10,
     "serv": 30,
     "ct": 7,
-    "cob": 5,
+    "cob": 7,
     "rec": 3
   }
 }
