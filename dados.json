@@ -6304,6 +6304,54 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  29/07/2026 - ACESSO A MAQUINA DA DJEANE PARA SOLUCIONAR LENTIDAO NA MAQUINA - EFETUEI LIMPEZA DO SSD E ATUALIZAÇÃO DO WINDOWS - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-07-29"
+    },
+    {
+      "id": 6,
+      "contrato_id": 1,
+      "competencia": "2026-08",
+      "cliente_id": "9",
+      "numero_nfse": "",
+      "valor": 860,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 18695876000165\nNOME: CEM SERVICOS LTDA\nVALOR: R$ 860.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: 20/08/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-08-01"
+    },
+    {
+      "id": 7,
+      "contrato_id": 2,
+      "competencia": "2026-08",
+      "cliente_id": "7",
+      "numero_nfse": "",
+      "valor": 468.8,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CPF): 72460881720\nNOME: ELIZABETH\nVALOR: R$ 468.80\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: 05/08/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-08-01"
+    },
+    {
+      "id": 8,
+      "contrato_id": 3,
+      "competencia": "2026-08",
+      "cliente_id": "8",
+      "numero_nfse": "",
+      "valor": 430.5,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CPF): 41271980797\nNOME: JORGE LUIZ GONCALVES BRAGA\nVALOR: R$ 430.50\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: 15/08/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-08-01"
+    },
+    {
+      "id": 9,
+      "contrato_id": 4,
+      "competencia": "2026-08",
+      "cliente_id": "6",
+      "numero_nfse": "",
+      "valor": 2167.1,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 41191027000196\nNOME: REM MARKETING LTDA\nVALOR: R$ 2167.10\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: 15/08/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-08-01"
     }
   ],
   "servicos": [
@@ -6593,7 +6641,52 @@
       "id": 6
     }
   ],
-  "cobrancas": [],
+  "cobrancas": [
+    {
+      "id": 1,
+      "contrato_id": 1,
+      "competencia": "2026-08",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 6,
+      "numero_nfse": "",
+      "valor": 860,
+      "gerado_em": "2026-08-01"
+    },
+    {
+      "id": 2,
+      "contrato_id": 2,
+      "competencia": "2026-08",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 7,
+      "numero_nfse": "",
+      "valor": 468.8,
+      "gerado_em": "2026-08-01"
+    },
+    {
+      "id": 3,
+      "contrato_id": 3,
+      "competencia": "2026-08",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 8,
+      "numero_nfse": "",
+      "valor": 430.5,
+      "gerado_em": "2026-08-01"
+    },
+    {
+      "id": 4,
+      "contrato_id": 4,
+      "competencia": "2026-08",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 9,
+      "numero_nfse": "",
+      "valor": 2167.1,
+      "gerado_em": "2026-08-01"
+    }
+  ],
   "recibos": [
     {
       "tipo": "servico",
@@ -6653,10 +6746,10 @@
   "seq": {
     "cli": 11,
     "ag": 468,
-    "nota": 6,
+    "nota": 10,
     "serv": 30,
     "ct": 7,
-    "cob": 1,
+    "cob": 5,
     "rec": 3
   }
 }
