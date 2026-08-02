@@ -6264,8 +6264,8 @@
     {
       "titulo": "ANDRE MORAGAS",
       "cliente_id": "11",
-      "inicio": "2026-08-07T14:00",
-      "fim": "2026-08-07T16:00",
+      "inicio": "2026-08-05T16:00",
+      "fim": "2026-08-05T16:00",
       "valor": 0,
       "status": "agendado",
       "local": "",
