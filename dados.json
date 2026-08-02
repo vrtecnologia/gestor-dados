@@ -6260,6 +6260,18 @@
       "descricao": "",
       "id": 467,
       "origem": "app"
+    },
+    {
+      "titulo": "ANDRE MORAGAS",
+      "cliente_id": "11",
+      "inicio": "2026-08-07T14:00",
+      "fim": "2026-08-07T16:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 468,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -6758,7 +6770,7 @@
   },
   "seq": {
     "cli": 12,
-    "ag": 468,
+    "ag": 469,
     "nota": 10,
     "serv": 30,
     "ct": 7,
