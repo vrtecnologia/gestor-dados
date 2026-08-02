@@ -170,6 +170,25 @@
       "uf": "",
       "observacoes": "",
       "id": 10
+    },
+    {
+      "nome": "ANDRE MORAGAS",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 11
     }
   ],
   "agendamentos": [
@@ -6738,7 +6757,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 11,
+    "cli": 12,
     "ag": 468,
     "nota": 10,
     "serv": 30,
