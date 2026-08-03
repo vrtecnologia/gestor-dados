@@ -208,6 +208,25 @@
       "uf": "",
       "observacoes": "",
       "id": 12
+    },
+    {
+      "nome": "CLARA JACQUES",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "Rua Pontes Correia ",
+      "numero": "146",
+      "complemento": "804",
+      "bairro": "TIJUCA",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 13
     }
   ],
   "agendamentos": [
@@ -1338,7 +1357,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 13,
+    "cli": 14,
     "ag": 515,
     "nota": 10,
     "serv": 30,
