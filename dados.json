@@ -817,6 +817,18 @@
       "descricao": "",
       "id": 512,
       "origem": "app"
+    },
+    {
+      "titulo": "MEXER NO NOTE DO RODRIGO",
+      "cliente_id": "6",
+      "inicio": "2026-08-04T14:00",
+      "fim": "2026-08-04T17:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 513,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -1315,7 +1327,7 @@
   },
   "seq": {
     "cli": 13,
-    "ag": 513,
+    "ag": 514,
     "nota": 10,
     "serv": 30,
     "ct": 7,
