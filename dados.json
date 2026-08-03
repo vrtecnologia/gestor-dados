@@ -805,6 +805,18 @@
       "status": "agendado",
       "origem": "app",
       "recorrencia": "r1785714508285"
+    },
+    {
+      "titulo": "FERNANDO GARCIS - RECREIO",
+      "cliente_id": "12",
+      "inicio": "2026-08-05T09:00",
+      "fim": "2026-08-05T10:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "Avenida das Américas 16400, apto 205 prédio Versailles",
+      "descricao": "",
+      "id": 512,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -1303,7 +1315,7 @@
   },
   "seq": {
     "cli": 13,
-    "ag": 512,
+    "ag": 513,
     "nota": 10,
     "serv": 30,
     "ct": 7,
