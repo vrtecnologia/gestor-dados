@@ -189,6 +189,25 @@
       "uf": "",
       "observacoes": "",
       "id": 11
+    },
+    {
+      "nome": "FERNANDO GARCIS",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "Avenida das Américas",
+      "numero": "16400",
+      "complemento": "Versailles ap 205",
+      "bairro": "Recreio",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 12
     }
   ],
   "agendamentos": [
@@ -1283,7 +1302,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 12,
+    "cli": 13,
     "ag": 512,
     "nota": 10,
     "serv": 30,
