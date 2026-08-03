@@ -829,6 +829,18 @@
       "descricao": "",
       "id": 513,
       "origem": "app"
+    },
+    {
+      "titulo": "CLARA JACQUES",
+      "cliente_id": null,
+      "inicio": "2026-08-03T15:00",
+      "fim": "2026-08-03T16:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "Rua Pontes Correia 146",
+      "descricao": "AP 804",
+      "id": 514,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -1327,7 +1339,7 @@
   },
   "seq": {
     "cli": 13,
-    "ag": 514,
+    "ag": 515,
     "nota": 10,
     "serv": 30,
     "ct": 7,
