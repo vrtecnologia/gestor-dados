@@ -860,6 +860,18 @@
       "descricao": "AP 804",
       "id": 514,
       "origem": "app"
+    },
+    {
+      "titulo": "Sarah",
+      "cliente_id": null,
+      "inicio": "2026-08-07T14:00",
+      "fim": "2026-08-07T15:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 515,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -1366,7 +1378,7 @@
   },
   "seq": {
     "cli": 14,
-    "ag": 515,
+    "ag": 516,
     "nota": 10,
     "serv": 31,
     "ct": 7,
