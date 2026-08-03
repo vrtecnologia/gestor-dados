@@ -1172,6 +1172,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 5
+    },
+    {
+      "id": 30,
+      "cliente_id": "13",
+      "data": "2026-08-03",
+      "descricao": "- Remoção do ssd da maquina antiga E instalação na nova/ configuração do Photoshop para consumir menos memoria / configuracao de salvamento do steam no ssd secundario",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -1360,7 +1368,7 @@
     "cli": 14,
     "ag": 515,
     "nota": 10,
-    "serv": 30,
+    "serv": 31,
     "ct": 7,
     "cob": 7,
     "rec": 3
