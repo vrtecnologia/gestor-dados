@@ -1192,6 +1192,14 @@
       "descricao": "- Remoção do ssd da maquina antiga E instalação na nova/ configuração do Photoshop para consumir menos memoria / configuracao de salvamento do steam no ssd secundario",
       "horas": 2,
       "valor": 340
+    },
+    {
+      "id": 31,
+      "cliente_id": "4",
+      "data": "2026-08-03",
+      "descricao": "- LIMPEZA DO IMAP DA PATRICIA COPIANDO OS EMAILS ANTIGOS PARA PST LOCAL",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -1380,7 +1388,7 @@
     "cli": 14,
     "ag": 516,
     "nota": 10,
-    "serv": 31,
+    "serv": 32,
     "ct": 7,
     "cob": 7,
     "rec": 3
