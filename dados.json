@@ -227,25 +227,6 @@
       "uf": "",
       "observacoes": "",
       "id": 13
-    },
-    {
-      "nome": "FARMERS GROUP",
-      "tipo_pessoa": "F",
-      "documento": "",
-      "email": "",
-      "telefone": "",
-      "inscricao_municipal": "",
-      "venc_dia": "30",
-      "cep": "",
-      "logradouro": "",
-      "numero": "",
-      "complemento": "",
-      "bairro": "",
-      "municipio": "",
-      "codigo_municipio_ibge": "",
-      "uf": "",
-      "observacoes": "",
-      "id": 14
     }
   ],
   "agendamentos": [
@@ -891,6 +872,18 @@
       "descricao": "",
       "id": 515,
       "origem": "app"
+    },
+    {
+      "titulo": "Maquina Maria",
+      "cliente_id": "2",
+      "inicio": "2026-08-05T11:00",
+      "fim": "2026-08-05T12:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 516,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -1227,14 +1220,6 @@
       "descricao": "ACESSO A MAQUINA DO CELSO PARA AUXILIAR ELE A CONFIGURAR O ACESSO PESSOAL DO IPHONE NO COMPUTADOR",
       "horas": 1,
       "valor": 130
-    },
-    {
-      "id": 34,
-      "cliente_id": "14",
-      "data": "2026-08-04",
-      "descricao": "CONFIGURAÇÃO DO MAC DO RODRIGO / COPIA DOS ARQUIVOS DO WINDOWS PARA O MAC / INSTALAÇÃO DOS PROGRAMAS E DO CLAUDE CODE",
-      "horas": 5,
-      "valor": 600
     }
   ],
   "contratos": [
@@ -1420,10 +1405,10 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 15,
-    "ag": 516,
+    "cli": 14,
+    "ag": 517,
     "nota": 10,
-    "serv": 35,
+    "serv": 34,
     "ct": 7,
     "cob": 7,
     "rec": 3
