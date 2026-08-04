@@ -884,6 +884,18 @@
       "descricao": "",
       "id": 516,
       "origem": "app"
+    },
+    {
+      "titulo": "Mauricio",
+      "cliente_id": "4",
+      "inicio": "2026-08-05T12:00",
+      "fim": "2026-08-05T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 517,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -1406,7 +1418,7 @@
   },
   "seq": {
     "cli": 14,
-    "ag": 517,
+    "ag": 518,
     "nota": 10,
     "serv": 34,
     "ct": 7,
