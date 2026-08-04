@@ -1208,6 +1208,14 @@
       "descricao": "ACESSO A MAQUINA DO CELSO PARA AUXILIAR ELE A CONFIGURAR O ACESSO PESSOAL DO IPHONE NO COMPUTADOR",
       "horas": 1,
       "valor": 130
+    },
+    {
+      "id": 33,
+      "cliente_id": "4",
+      "data": "2026-08-04",
+      "descricao": "ACESSO A MAQUINA DO LEANDRO PARA SOLUCIONAR FALHA NA ABERTURA DOS APLICATIVOS",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -1396,7 +1404,7 @@
     "cli": 14,
     "ag": 516,
     "nota": 10,
-    "serv": 33,
+    "serv": 34,
     "ct": 7,
     "cob": 7,
     "rec": 3
