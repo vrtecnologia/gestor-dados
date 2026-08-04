@@ -227,6 +227,25 @@
       "uf": "",
       "observacoes": "",
       "id": 13
+    },
+    {
+      "nome": "FARMERS GROUP",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "30",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 14
     }
   ],
   "agendamentos": [
@@ -1393,7 +1412,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 14,
+    "cli": 15,
     "ag": 516,
     "nota": 10,
     "serv": 34,
