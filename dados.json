@@ -1227,6 +1227,14 @@
       "descricao": "ACESSO A MAQUINA DO CELSO PARA AUXILIAR ELE A CONFIGURAR O ACESSO PESSOAL DO IPHONE NO COMPUTADOR",
       "horas": 1,
       "valor": 130
+    },
+    {
+      "id": 34,
+      "cliente_id": "14",
+      "data": "2026-08-04",
+      "descricao": "CONFIGURAÇÃO DO MAC DO RODRIGO / COPIA DOS ARQUIVOS DO WINDOWS PARA O MAC / INSTALAÇÃO DOS PROGRAMAS E DO CLAUDE CODE",
+      "horas": 5,
+      "valor": 600
     }
   ],
   "contratos": [
@@ -1415,7 +1423,7 @@
     "cli": 15,
     "ag": 516,
     "nota": 10,
-    "serv": 34,
+    "serv": 35,
     "ct": 7,
     "cob": 7,
     "rec": 3
