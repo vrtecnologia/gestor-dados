@@ -983,6 +983,21 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 41191027000196\nNOME: REM MARKETING LTDA\nVALOR: R$ 2167.10\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: 15/08/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-08-01"
+    },
+    {
+      "id": 10,
+      "servico_ids": [
+        31,
+        32,
+        35
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 730,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 730.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (3):\n  03/08/2026 - - LIMPEZA DO IMAP DA PATRICIA COPIANDO OS EMAILS ANTIGOS PARA PST LOCAL - R$ 260.00\n  04/08/2026 - ACESSO A MAQUINA DO CELSO PARA AUXILIAR ELE A CONFIGURAR O ACESSO PESSOAL DO IPHONE NO COMPUTADOR - R$ 130.00\n  05/08/2026 - TROCA DAS MEMORIAS DO MAURICIO/ CONFIGURAÇÃO DA TELA DO SHOWROOM/ ACESSO A MAQUINA DA PATRICIA PARA REMANEJAR EMAIL E CONFIGURAÇÃO DO ADOBE PDF - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-08-05"
     }
   ],
   "servicos": [
@@ -1223,7 +1238,8 @@
       "data": "2026-08-03",
       "descricao": "- LIMPEZA DO IMAP DA PATRICIA COPIANDO OS EMAILS ANTIGOS PARA PST LOCAL",
       "horas": 2,
-      "valor": 260
+      "valor": 260,
+      "nota_id": 10
     },
     {
       "id": 32,
@@ -1231,7 +1247,8 @@
       "data": "2026-08-04",
       "descricao": "ACESSO A MAQUINA DO CELSO PARA AUXILIAR ELE A CONFIGURAR O ACESSO PESSOAL DO IPHONE NO COMPUTADOR",
       "horas": 1,
-      "valor": 130
+      "valor": 130,
+      "nota_id": 10
     },
     {
       "id": 34,
@@ -1247,7 +1264,8 @@
       "data": "2026-08-05",
       "descricao": "TROCA DAS MEMORIAS DO MAURICIO/ CONFIGURAÇÃO DA TELA DO SHOWROOM/ ACESSO A MAQUINA DA PATRICIA PARA REMANEJAR EMAIL E CONFIGURAÇÃO DO ADOBE PDF",
       "horas": 2,
-      "valor": 340
+      "valor": 340,
+      "nota_id": 10
     }
   ],
   "contratos": [
@@ -1435,7 +1453,7 @@
   "seq": {
     "cli": 14,
     "ag": 518,
-    "nota": 10,
+    "nota": 11,
     "serv": 36,
     "ct": 7,
     "cob": 7,
