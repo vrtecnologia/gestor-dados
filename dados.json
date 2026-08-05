@@ -1232,6 +1232,14 @@
       "descricao": "ACESSO A MAQUINA DO CELSO PARA AUXILIAR ELE A CONFIGURAR O ACESSO PESSOAL DO IPHONE NO COMPUTADOR",
       "horas": 1,
       "valor": 130
+    },
+    {
+      "id": 34,
+      "cliente_id": "2",
+      "data": "2026-08-05",
+      "descricao": "TENTATIVA DE TROCA DO COOLER DA MARIA[SEM SUCESSO DEVIDO A INCOMPATIBILIDADE]/ INSTALAÇÃO DA TV NO PEDESTAL MOVEL",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -1420,7 +1428,7 @@
     "cli": 14,
     "ag": 518,
     "nota": 10,
-    "serv": 34,
+    "serv": 35,
     "ct": 7,
     "cob": 7,
     "rec": 3
