@@ -1240,6 +1240,14 @@
       "descricao": "TENTATIVA DE TROCA DO COOLER DA MARIA[SEM SUCESSO DEVIDO A INCOMPATIBILIDADE]/ INSTALAÇÃO DA TV NO PEDESTAL MOVEL",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 35,
+      "cliente_id": "4",
+      "data": "2026-08-05",
+      "descricao": "TROCA DAS MEMORIAS DO MAURICIO/ CONFIGURAÇÃO DA TELA DO SHOWROOM/ ACESSO A MAQUINA DA PATRICIA PARA REMANEJAR EMAIL E CONFIGURAÇÃO DO ADOBE PDF",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -1428,7 +1436,7 @@
     "cli": 14,
     "ag": 518,
     "nota": 10,
-    "serv": 35,
+    "serv": 36,
     "ct": 7,
     "cob": 7,
     "rec": 3
