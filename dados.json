@@ -1266,6 +1266,14 @@
       "horas": 2,
       "valor": 340,
       "nota_id": 10
+    },
+    {
+      "id": 36,
+      "cliente_id": "6",
+      "data": "2026-08-06",
+      "descricao": "BLOQUEIO DE TODOS OS COMPUTADORES QUE NAO UTILIZAM MAIS O GOOGLE DRIVE A MAIS DE 90 DIAS",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -1454,7 +1462,7 @@
     "cli": 14,
     "ag": 518,
     "nota": 11,
-    "serv": 36,
+    "serv": 37,
     "ct": 7,
     "cob": 7,
     "rec": 3
