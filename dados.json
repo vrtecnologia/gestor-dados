@@ -1274,6 +1274,14 @@
       "descricao": "BLOQUEIO DE TODOS OS COMPUTADORES QUE NAO UTILIZAM MAIS O GOOGLE DRIVE A MAIS DE 90 DIAS",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 37,
+      "cliente_id": "6",
+      "data": "2026-08-06",
+      "descricao": "DESBLOQUEIO DA MAQUINA DO SADON",
+      "horas": 0,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -1462,7 +1470,7 @@
     "cli": 14,
     "ag": 518,
     "nota": 11,
-    "serv": 37,
+    "serv": 38,
     "ct": 7,
     "cob": 7,
     "rec": 3
