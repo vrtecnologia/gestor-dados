@@ -229,17 +229,6 @@
       "id": 13
     },
     {
-      "id": 14,
-      "nome": "REM MARKETING",
-      "tipo_pessoa": "F",
-      "documento": "",
-      "telefone": "",
-      "email": "",
-      "municipio": "",
-      "logradouro": "",
-      "numero": ""
-    },
-    {
       "id": 15,
       "nome": "RED-SALES",
       "tipo_pessoa": "F",
