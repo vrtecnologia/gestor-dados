@@ -1351,6 +1351,14 @@
       "descricao": "RETIRADA DA MAQUINA ANTIGA DO RODRIGO(NOVA DO NICOLAS)",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 41,
+      "cliente_id": "6",
+      "data": "2026-08-09",
+      "descricao": "FORMATAÇÃO DA MAQUINA NOVA DO NICOLAS / INSTALAÇÃO DO OFFICE/TEAMS/GDRIVE E ETC",
+      "horas": 4,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -1831,7 +1839,7 @@
     "cli": 18,
     "ag": 519,
     "nota": 11,
-    "serv": 41,
+    "serv": 42,
     "ct": 7,
     "cob": 7,
     "rec": 3,
