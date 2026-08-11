@@ -933,8 +933,8 @@
     {
       "titulo": "Formatar maquina do Leandro",
       "cliente_id": "4",
-      "inicio": "2026-08-10T11:00",
-      "fim": "2026-08-10T15:00",
+      "inicio": "2026-08-17T09:00",
+      "fim": "2026-08-17T15:00",
       "valor": 0,
       "status": "agendado",
       "local": "",
