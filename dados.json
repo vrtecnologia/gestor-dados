@@ -260,17 +260,6 @@
       "municipio": "",
       "logradouro": "",
       "numero": ""
-    },
-    {
-      "id": 18,
-      "nome": "REM MARKETING",
-      "tipo_pessoa": "F",
-      "documento": "",
-      "telefone": "",
-      "email": "",
-      "municipio": "",
-      "logradouro": "",
-      "numero": ""
     }
   ],
   "agendamentos": [
