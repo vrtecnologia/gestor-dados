@@ -1335,6 +1335,14 @@
       "descricao": "DESBLOQUEIO DA MAQUINA DO PEDRO",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 39,
+      "cliente_id": "6",
+      "data": "2026-08-07",
+      "descricao": "DESBLOQUEIO DA MAQUINA DO ROBERTO",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -1815,7 +1823,7 @@
     "cli": 18,
     "ag": 519,
     "nota": 11,
-    "serv": 39,
+    "serv": 40,
     "ct": 7,
     "cob": 7,
     "rec": 3,
