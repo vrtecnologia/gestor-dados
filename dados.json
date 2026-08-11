@@ -260,6 +260,17 @@
       "municipio": "",
       "logradouro": "",
       "numero": ""
+    },
+    {
+      "id": 18,
+      "nome": "REM MARKETING",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "telefone": "",
+      "email": "",
+      "municipio": "",
+      "logradouro": "",
+      "numero": ""
     }
   ],
   "agendamentos": [
@@ -1829,6 +1840,276 @@
       "usuario": "JOAO MARCELO",
       "obs": "",
       "mp": false
+    },
+    {
+      "id": 30,
+      "cliente_id": "18",
+      "codigo": "REMMKT001",
+      "equipamento": "NOTEBOOK ACER ASPIRE 5 I7-13620H 16GB E 512 SSD",
+      "so": "WINDOWS 11 PRO",
+      "usuario": "MAYOHANA",
+      "obs": "ADQUIRIDA EM JUNHO/2025",
+      "mp": false
+    },
+    {
+      "id": 31,
+      "cliente_id": "18",
+      "codigo": "REMMKT002",
+      "equipamento": "NOTEBOOK ACER I3 5005 COM 8GB DE RAM E 480GB DE SSD",
+      "so": "WINDOWS 10 HOME",
+      "usuario": "ANTONIO",
+      "obs": "OK",
+      "mp": false
+    },
+    {
+      "id": 32,
+      "cliente_id": "18",
+      "codigo": "REMMKT004",
+      "equipamento": "NOTEBOOK ACER SWIFT SF314-511 16GB SSD 480GB INTEL CORE I7-1165G7",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "NICOLAS SOARES",
+      "obs": "OK",
+      "mp": false
+    },
+    {
+      "id": 33,
+      "cliente_id": "18",
+      "codigo": "REMMKT005",
+      "equipamento": "NOTEBOOK LENOVO S145 i5 1035G1 COM 20GB DE RAM 256GB SSD NVME",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "SADON",
+      "obs": "MAQUINA ADQUIRIDA MÊS 05/2021",
+      "mp": true
+    },
+    {
+      "id": 34,
+      "cliente_id": "18",
+      "codigo": "REMMKT006",
+      "equipamento": "NOTEBOOK LENOVO S145 I5 1035G1 COM 20GB DE RAM 256 SSD NVME",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "CAROL SOUZA",
+      "obs": "MAQUINA ADQUIRIDA MÊS 05/2021",
+      "mp": true
+    },
+    {
+      "id": 35,
+      "cliente_id": "18",
+      "codigo": "REMMKT007",
+      "equipamento": "NOTEBOOK LENOVO S145 I5 1035G1 COM 20GB DE RAM 256 SSD NVME",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "ROBERTO",
+      "obs": "MAQUINA ADQUIRIDA MÊS 05/2021",
+      "mp": true
+    },
+    {
+      "id": 36,
+      "cliente_id": "18",
+      "codigo": "REMMKT008",
+      "equipamento": "NOTEBOOK SAMSUNG I7 150U 16GB DE RAM E 512GB SSD",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "MARCO SIQUEIRA",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 37,
+      "cliente_id": "18",
+      "codigo": "REMMKT009",
+      "equipamento": "NOTEBOOK LENOVO I5 8250U 20GB DE RAM E SSD DE 480GB",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "LORENA THAINA",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 38,
+      "cliente_id": "18",
+      "codigo": "REMMKT010",
+      "equipamento": "NOTEBOOK ACER I3 5005 COM 8GB DE RAM E 480GB DE SSD",
+      "so": "WINDOWS 10 HOME",
+      "usuario": "RESERVA",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 39,
+      "cliente_id": "18",
+      "codigo": "REMMKT011",
+      "equipamento": "NOTEBOOK SAMSUNG I7 150U 16GB DE RAM E 512GB SSD",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "FULVIA",
+      "obs": "ADQUIRIDA 04/2025",
+      "mp": true
+    },
+    {
+      "id": 40,
+      "cliente_id": "18",
+      "codigo": "REMMKT012",
+      "equipamento": "",
+      "so": "",
+      "usuario": "",
+      "obs": "ADQUIRIDA 04/2025",
+      "mp": true
+    },
+    {
+      "id": 41,
+      "cliente_id": "18",
+      "codigo": "REMMKT013",
+      "equipamento": "NOTEBOOK ACER ASPIRE 16-71M -ULTRA5 16gb Ram ssd 512gb",
+      "so": "WINDOWS 11",
+      "usuario": "MYRNA",
+      "obs": "ADQUIRIDA 03/2026",
+      "mp": false
+    },
+    {
+      "id": 42,
+      "cliente_id": "18",
+      "codigo": "REMMKT014",
+      "equipamento": "NOTEBOOK ACER I5 10210U COM 20GB DE RAM E SSD NVME DE 256GB",
+      "so": "WINDOWS 11",
+      "usuario": "JULIANO FORTALEZA",
+      "obs": "FULVIA",
+      "mp": true
+    },
+    {
+      "id": 43,
+      "cliente_id": "18",
+      "codigo": "REMMKT015",
+      "equipamento": "NOTEBOOK ACER I5 10210U COM 8GB DE RAM E SSD NVME DE 256GB",
+      "so": "WINDOWS 11",
+      "usuario": "INDARA COSTA",
+      "obs": "ADQUIRIDA EM MAIO DE 2022",
+      "mp": false
+    },
+    {
+      "id": 44,
+      "cliente_id": "18",
+      "codigo": "REMMKT017",
+      "equipamento": "NOTEBOOK ACER I5-1135G7 20GB DE RAM E NVME DE 256GB",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "CLARA VIDAL",
+      "obs": "ADQUIRIDA EM JULHO DE 2023",
+      "mp": true
+    },
+    {
+      "id": 45,
+      "cliente_id": "18",
+      "codigo": "REMMKT018",
+      "equipamento": "NOTEBOOK ACER ASPIRE A515-57 I5 12450H 20GB DE RAM E 256GB DE NVME",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "INGRID GUEDES",
+      "obs": "ADQUIRIDA EM DEZEMBRO DE 2023",
+      "mp": true
+    },
+    {
+      "id": 46,
+      "cliente_id": "18",
+      "codigo": "REMMKT019",
+      "equipamento": "NOTEBOOK ACER ASPIRE 16-71M -ULTRA5 16gb Ram ssd 512gb",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "ANA MOREIRA",
+      "obs": "ADQUIRIDA EM MARÇO DE 2026",
+      "mp": false
+    },
+    {
+      "id": 47,
+      "cliente_id": "18",
+      "codigo": "REMMKT020",
+      "equipamento": "NOTEBOOK ACER ASPIRE A515-57 I5 12450H 20GB DE RAM E 256GB DE NVME",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "CAMILA",
+      "obs": "ADQUIRIDA EM JANEIRO DE 2024",
+      "mp": false
+    },
+    {
+      "id": 48,
+      "cliente_id": "18",
+      "codigo": "REMMKT021",
+      "equipamento": "NOTEBOOK ACER NITRO 5 AN515-58  I5 12450H 32GB DE RAM E 1X SSD NVME 512GB E 1X SSD SATA 480GB",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "PEDRO IGOR",
+      "obs": "ADQUIRIDA EM FEVEREIRO DE 2024",
+      "mp": false
+    },
+    {
+      "id": 49,
+      "cliente_id": "18",
+      "codigo": "REMMKT022",
+      "equipamento": "NOTEBOOK ACER ASPIRE 5 A515-57 I5 12450H 32GB DE RAM E 1 SSD NVME 256GB",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "RAMON",
+      "obs": "ADQUIRIDA EM FEVEREIRO DE 2024",
+      "mp": false
+    },
+    {
+      "id": 50,
+      "cliente_id": "18",
+      "codigo": "REMMKT023",
+      "equipamento": "NOTEBOOK DELL GAMER 32GB DE RAM E 1TB SSD",
+      "so": "WINDOWS 11 HOME",
+      "usuario": "MICHEL DIAS",
+      "obs": "ADQUIRIDA EM DEZEMBRO DE 2024",
+      "mp": false
+    },
+    {
+      "id": 51,
+      "cliente_id": "18",
+      "codigo": "REMMKTMAC008",
+      "equipamento": "IMAC 27 I5 3.3GHZ 500GB SSD 24GB DE RAM PLACA DE VIDEO AMD RADEON PRO 5300 4GB",
+      "so": "MAC OS BIGSUR",
+      "usuario": "JORDAN",
+      "obs": "IMAC 27 5K RETINA 2020",
+      "mp": false
+    },
+    {
+      "id": 52,
+      "cliente_id": "18",
+      "codigo": "REMMKTMAC009",
+      "equipamento": "IMAC 27 I5 3.3GHZ 256GB SSD 24GB DE RAM PLACA DE VIDEO AMD RADEON PRO 5300 4GB",
+      "so": "MAC OS BIGSUR",
+      "usuario": "FABIANA-SP",
+      "obs": "IMAC 27 5K RETINA 2020",
+      "mp": false
+    },
+    {
+      "id": 53,
+      "cliente_id": "18",
+      "codigo": "REMMKTMAC010",
+      "equipamento": "MACBOOK M2 PRO 16gb de ram e 500gb de SSD",
+      "so": "MACOS VENTURA",
+      "usuario": "RENATO ROCHA",
+      "obs": "MACBOOK PRO M2 NOVO ADQUIRIDO EM 02-2023",
+      "mp": false
+    },
+    {
+      "id": 54,
+      "cliente_id": "18",
+      "codigo": "REMMKTMAC011",
+      "equipamento": "MAC MINI M2 16GB SSD 512",
+      "so": "MACOS",
+      "usuario": "ANDRE BATATA",
+      "obs": "MAC MINI ADQUIRIDO EM 03-2023",
+      "mp": false
+    },
+    {
+      "id": 55,
+      "cliente_id": "18",
+      "codigo": "REMMKTMAC012",
+      "equipamento": "MAC MINI M4 16GB SSD512",
+      "so": "MAC OS",
+      "usuario": "JEFFERSON ROMAO",
+      "obs": "MAC MINI ADQUIRIDO EM 07-2025",
+      "mp": false
+    },
+    {
+      "id": 56,
+      "cliente_id": "18",
+      "codigo": "REMMKT016",
+      "equipamento": "NOTEBOOK ACER I5 10210U COM 20GB DE RAM E SSD NVME DE 256GB",
+      "so": "WINDOWS 11",
+      "usuario": "FERNANDO IAM",
+      "obs": "ADQUIRIDA EM AGOSTO DE 2022",
+      "mp": false
     }
   ],
   "config": {
@@ -1844,13 +2125,13 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 18,
+    "cli": 19,
     "ag": 519,
     "nota": 11,
     "serv": 43,
     "ct": 7,
     "cob": 7,
     "rec": 3,
-    "eq": 30
+    "eq": 57
   }
 }
