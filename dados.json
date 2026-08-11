@@ -1359,6 +1359,14 @@
       "descricao": "FORMATAÇÃO DA MAQUINA NOVA DO NICOLAS / INSTALAÇÃO DO OFFICE/TEAMS/GDRIVE E ETC",
       "horas": 4,
       "valor": 0
+    },
+    {
+      "id": 42,
+      "cliente_id": "6",
+      "data": "2026-08-10",
+      "descricao": "ENTREGA DA MAQUINA DO NICOLAS PARA O RODRIGO",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -1839,7 +1847,7 @@
     "cli": 18,
     "ag": 519,
     "nota": 11,
-    "serv": 42,
+    "serv": 43,
     "ct": 7,
     "cob": 7,
     "rec": 3,
