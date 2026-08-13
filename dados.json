@@ -268,6 +268,25 @@
       "municipio": "",
       "logradouro": "",
       "numero": ""
+    },
+    {
+      "nome": "FARMERSGROUP",
+      "tipo_pessoa": "J",
+      "documento": "40587886000136",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 19
     }
   ],
   "agendamentos": [
@@ -2158,7 +2177,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 19,
+    "cli": 20,
     "ag": 522,
     "nota": 11,
     "serv": 43,
