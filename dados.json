@@ -1430,6 +1430,14 @@
       "descricao": "ENTREGA DA MAQUINA DO NICOLAS PARA O RODRIGO",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 43,
+      "cliente_id": "19",
+      "data": "2026-08-13",
+      "descricao": "ACESSO A MAQUINA DO MARCO SIQUEIRA PARA SOLUCIONAR FALHA NOS BANCOS C6 E ITAU",
+      "horas": 1,
+      "valor": 120
     }
   ],
   "contratos": [
@@ -2180,7 +2188,7 @@
     "cli": 20,
     "ag": 522,
     "nota": 11,
-    "serv": 43,
+    "serv": 44,
     "ct": 7,
     "cob": 7,
     "rec": 3,
