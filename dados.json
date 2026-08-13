@@ -1438,6 +1438,14 @@
       "descricao": "ACESSO A MAQUINA DO MARCO SIQUEIRA PARA SOLUCIONAR FALHA NOS BANCOS C6 E ITAU",
       "horas": 1,
       "valor": 120
+    },
+    {
+      "id": 44,
+      "cliente_id": "19",
+      "data": "2026-08-04",
+      "descricao": "IDA AO ESCRITORIO PARA INSTALAÇAO DO MACBOOK DO RODRIGO - CONFIGURAÇÃO DE TODO AMBIENTE MICROSOFT E CONFIGURAÇÃO DO CLAUDE",
+      "horas": 4,
+      "valor": 480
     }
   ],
   "contratos": [
@@ -2188,7 +2196,7 @@
     "cli": 20,
     "ag": 522,
     "nota": 11,
-    "serv": 44,
+    "serv": 45,
     "ct": 7,
     "cob": 7,
     "rec": 3,
