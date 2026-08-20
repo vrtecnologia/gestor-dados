@@ -1474,6 +1474,14 @@
       "horas": 5,
       "valor": 600,
       "nota_id": 11
+    },
+    {
+      "id": 45,
+      "cliente_id": "6",
+      "data": "2026-08-19",
+      "descricao": "ACESSO A MAQUINA DA INGRID PARA SOLUCIONAR FALHA NA ABERTURA DE PDF",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -2224,7 +2232,7 @@
     "cli": 20,
     "ag": 523,
     "nota": 12,
-    "serv": 45,
+    "serv": 46,
     "ct": 7,
     "cob": 7,
     "rec": 3,
