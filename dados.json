@@ -1150,10 +1150,10 @@
         43
       ],
       "cliente_id": "19",
-      "numero_nfse": "",
+      "numero_nfse": "442",
       "valor": 720,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 40587886000136\nNOME: FARMERSGROUP\nVALOR: R$ 720.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  04/08/2026 - IDA AO ESCRITORIO PARA INSTALAÇAO DO MACBOOK DO RODRIGO - CONFIGURAÇÃO DE TODO AMBIENTE MICROSOFT E CONFIGURAÇÃO DO CLAUDE - R$ 600.00\n  13/08/2026 - ACESSO A MAQUINA DO MARCO SIQUEIRA PARA SOLUCIONAR FALHA NOS BANCOS C6 E ITAU - R$ 120.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-08-15"
     }
