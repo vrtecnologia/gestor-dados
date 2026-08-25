@@ -1028,6 +1028,18 @@
       "descricao": "",
       "id": 523,
       "origem": "app"
+    },
+    {
+      "titulo": "Andreia Pett",
+      "cliente_id": "4",
+      "inicio": "2026-08-26T09:00",
+      "fim": "2026-08-26T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 524,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -2242,7 +2254,7 @@
   },
   "seq": {
     "cli": 20,
-    "ag": 524,
+    "ag": 525,
     "nota": 12,
     "serv": 46,
     "ct": 7,
