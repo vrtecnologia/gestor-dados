@@ -1040,6 +1040,18 @@
       "descricao": "",
       "id": 524,
       "origem": "app"
+    },
+    {
+      "titulo": "Leao - Entregar maquina",
+      "cliente_id": "9",
+      "inicio": "2026-08-27T13:00",
+      "fim": "2026-08-27T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 525,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -2286,7 +2298,7 @@
   },
   "seq": {
     "cli": 20,
-    "ag": 525,
+    "ag": 526,
     "nota": 13,
     "serv": 48,
     "ct": 7,
