@@ -1156,6 +1156,20 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 40587886000136\nNOME: FARMERSGROUP\nVALOR: R$ 720.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  04/08/2026 - IDA AO ESCRITORIO PARA INSTALAÇAO DO MACBOOK DO RODRIGO - CONFIGURAÇÃO DE TODO AMBIENTE MICROSOFT E CONFIGURAÇÃO DO CLAUDE - R$ 600.00\n  13/08/2026 - ACESSO A MAQUINA DO MARCO SIQUEIRA PARA SOLUCIONAR FALHA NOS BANCOS C6 E ITAU - R$ 120.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-08-15"
+    },
+    {
+      "id": 12,
+      "servico_ids": [
+        46,
+        47
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 510,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 510.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  26/08/2026 - - Troca do monitor da Andreia e do Pett e Configuracao do notebook da Juliana - R$ 340.00\n  26/08/2026 - Configuracao do computador novo para Djeane - R$ 170.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 08/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-08-26"
     }
   ],
   "servicos": [
@@ -1513,7 +1527,8 @@
       "data": "2026-08-26",
       "descricao": "- Troca do monitor da Andreia e do Pett e Configuracao do notebook da Juliana",
       "horas": 2,
-      "valor": 340
+      "valor": 340,
+      "nota_id": 12
     },
     {
       "id": 47,
@@ -1521,7 +1536,8 @@
       "data": "2026-08-26",
       "descricao": "Configuracao do computador novo para Djeane",
       "horas": 1,
-      "valor": 170
+      "valor": 170,
+      "nota_id": 12
     }
   ],
   "contratos": [
@@ -2271,7 +2287,7 @@
   "seq": {
     "cli": 20,
     "ag": 525,
-    "nota": 12,
+    "nota": 13,
     "serv": 48,
     "ct": 7,
     "cob": 7,
