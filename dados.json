@@ -1506,6 +1506,14 @@
       "descricao": "ACESSO A MAQUINA DA INGRID PARA SOLUCIONAR FALHA NA ABERTURA DE PDF",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 46,
+      "cliente_id": "4",
+      "data": "2026-08-26",
+      "descricao": "- Troca do monitor da Andreia e do Pett e Configuracao do notebook da Juliana",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -2256,7 +2264,7 @@
     "cli": 20,
     "ag": 525,
     "nota": 12,
-    "serv": 46,
+    "serv": 47,
     "ct": 7,
     "cob": 7,
     "rec": 3,
