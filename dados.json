@@ -1052,6 +1052,18 @@
       "descricao": "",
       "id": 525,
       "origem": "app"
+    },
+    {
+      "titulo": "JUMP",
+      "cliente_id": null,
+      "inicio": "2026-08-27T14:30",
+      "fim": "2026-08-27T18:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 526,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -2298,7 +2310,7 @@
   },
   "seq": {
     "cli": 20,
-    "ag": 526,
+    "ag": 527,
     "nota": 13,
     "serv": 48,
     "ct": 7,
