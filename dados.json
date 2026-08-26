@@ -1692,33 +1692,6 @@
         }
       ],
       "id": 2
-    },
-    {
-      "tipo": "servico",
-      "data": "2026-08-26",
-      "numero": "26082026",
-      "cliente_id": "4",
-      "pag_nome": "PETT CAPELLATO",
-      "pag_doc": "05.292.903/0001-07",
-      "pag_end": "",
-      "prep": "DO",
-      "pix": false,
-      "decl": "",
-      "itens": [
-        {
-          "data": "2026-08-26",
-          "desc": "- Troca do monitor da Andreia e do Pett e Configuracao do notebook da Juliana",
-          "qtd": "2 HORAS",
-          "valor": 340
-        },
-        {
-          "data": "2026-08-26",
-          "desc": "Configuracao do computador novo para Djeane",
-          "qtd": "1 HORA",
-          "valor": 170
-        }
-      ],
-      "id": 3
     }
   ],
   "equipamentos": [
