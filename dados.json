@@ -1514,6 +1514,14 @@
       "descricao": "- Troca do monitor da Andreia e do Pett e Configuracao do notebook da Juliana",
       "horas": 2,
       "valor": 340
+    },
+    {
+      "id": 47,
+      "cliente_id": "4",
+      "data": "2026-08-26",
+      "descricao": "Configuracao do computador novo para Djeane",
+      "horas": 0,
+      "valor": 170
     }
   ],
   "contratos": [
@@ -2264,7 +2272,7 @@
     "cli": 20,
     "ag": 525,
     "nota": 12,
-    "serv": 47,
+    "serv": 48,
     "ct": 7,
     "cob": 7,
     "rec": 3,
