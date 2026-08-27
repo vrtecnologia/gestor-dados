@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 32,
-      "cliente_id": "18",
-      "codigo": "REMMKT004",
-      "equipamento": "NOTEBOOK ACER SWIFT SF314-511 16GB SSD 480GB INTEL CORE I7-1165G7",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "NICOLAS SOARES",
-      "obs": "OK",
-      "mp": false
-    },
-    {
       "id": 33,
       "cliente_id": "18",
       "codigo": "REMMKT005",
