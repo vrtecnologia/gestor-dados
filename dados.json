@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 42,
-      "cliente_id": "18",
-      "codigo": "REMMKT014",
-      "equipamento": "NOTEBOOK ACER I5 10210U COM 20GB DE RAM E SSD NVME DE 256GB",
-      "so": "WINDOWS 11",
-      "usuario": "JULIANO FORTALEZA",
-      "obs": "FULVIA",
-      "mp": true
-    },
-    {
       "id": 43,
       "cliente_id": "18",
       "codigo": "REMMKT015",
