@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 35,
-      "cliente_id": "18",
-      "codigo": "REMMKT007",
-      "equipamento": "NOTEBOOK LENOVO S145 I5 1035G1 COM 20GB DE RAM 256 SSD NVME",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "ROBERTO",
-      "obs": "MAQUINA ADQUIRIDA MÊS 05/2021",
-      "mp": true
-    },
-    {
       "id": 36,
       "cliente_id": "18",
       "codigo": "REMMKT008",
