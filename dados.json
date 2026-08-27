@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 44,
-      "cliente_id": "18",
-      "codigo": "REMMKT017",
-      "equipamento": "NOTEBOOK ACER I5-1135G7 20GB DE RAM E NVME DE 256GB",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "CLARA VIDAL",
-      "obs": "ADQUIRIDA EM JULHO DE 2023",
-      "mp": true
-    },
-    {
       "id": 45,
       "cliente_id": "18",
       "codigo": "REMMKT018",
