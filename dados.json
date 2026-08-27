@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 41,
-      "cliente_id": "18",
-      "codigo": "REMMKT013",
-      "equipamento": "NOTEBOOK ACER ASPIRE 16-71M -ULTRA5 16gb Ram ssd 512gb",
-      "so": "WINDOWS 11",
-      "usuario": "MYRNA",
-      "obs": "ADQUIRIDA 03/2026",
-      "mp": false
-    },
-    {
       "id": 42,
       "cliente_id": "18",
       "codigo": "REMMKT014",
