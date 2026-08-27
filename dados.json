@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 48,
-      "cliente_id": "18",
-      "codigo": "REMMKT021",
-      "equipamento": "NOTEBOOK ACER NITRO 5 AN515-58  I5 12450H 32GB DE RAM E 1X SSD NVME 512GB E 1X SSD SATA 480GB",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "PEDRO IGOR",
-      "obs": "ADQUIRIDA EM FEVEREIRO DE 2024",
-      "mp": false
-    },
-    {
       "id": 49,
       "cliente_id": "18",
       "codigo": "REMMKT022",
