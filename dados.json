@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 47,
-      "cliente_id": "18",
-      "codigo": "REMMKT020",
-      "equipamento": "NOTEBOOK ACER ASPIRE A515-57 I5 12450H 20GB DE RAM E 256GB DE NVME",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "CAMILA",
-      "obs": "ADQUIRIDA EM JANEIRO DE 2024",
-      "mp": false
-    },
-    {
       "id": 48,
       "cliente_id": "18",
       "codigo": "REMMKT021",
