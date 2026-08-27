@@ -2044,26 +2044,6 @@
       "mp": false
     },
     {
-      "id": 53,
-      "cliente_id": "18",
-      "codigo": "REMMKTMAC010",
-      "equipamento": "MACBOOK M2 PRO 16gb de ram e 500gb de SSD",
-      "so": "MACOS VENTURA",
-      "usuario": "RENATO ROCHA",
-      "obs": "MACBOOK PRO M2 NOVO ADQUIRIDO EM 02-2023",
-      "mp": false
-    },
-    {
-      "id": 54,
-      "cliente_id": "18",
-      "codigo": "REMMKTMAC011",
-      "equipamento": "MAC MINI M2 16GB SSD 512",
-      "so": "MACOS",
-      "usuario": "ANDRE BATATA",
-      "obs": "MAC MINI ADQUIRIDO EM 03-2023",
-      "mp": false
-    },
-    {
       "id": 55,
       "cliente_id": "18",
       "codigo": "REMMKTMAC012",
