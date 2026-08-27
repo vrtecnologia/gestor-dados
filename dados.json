@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 40,
-      "cliente_id": "18",
-      "codigo": "REMMKT012",
-      "equipamento": "",
-      "so": "",
-      "usuario": "",
-      "obs": "ADQUIRIDA 04/2025",
-      "mp": true
-    },
-    {
       "id": 41,
       "cliente_id": "18",
       "codigo": "REMMKT013",
