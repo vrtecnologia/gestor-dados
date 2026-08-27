@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 43,
-      "cliente_id": "18",
-      "codigo": "REMMKT015",
-      "equipamento": "NOTEBOOK ACER I5 10210U COM 8GB DE RAM E SSD NVME DE 256GB",
-      "so": "WINDOWS 11",
-      "usuario": "INDARA COSTA",
-      "obs": "ADQUIRIDA EM MAIO DE 2022",
-      "mp": false
-    },
-    {
       "id": 44,
       "cliente_id": "18",
       "codigo": "REMMKT017",
