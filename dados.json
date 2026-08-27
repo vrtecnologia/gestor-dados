@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 39,
-      "cliente_id": "18",
-      "codigo": "REMMKT011",
-      "equipamento": "NOTEBOOK SAMSUNG I7 150U 16GB DE RAM E 512GB SSD",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "FULVIA",
-      "obs": "ADQUIRIDA 04/2025",
-      "mp": true
-    },
-    {
       "id": 40,
       "cliente_id": "18",
       "codigo": "REMMKT012",
