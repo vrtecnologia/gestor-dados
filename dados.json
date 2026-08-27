@@ -2044,16 +2044,6 @@
       "mp": false
     },
     {
-      "id": 51,
-      "cliente_id": "18",
-      "codigo": "REMMKTMAC008",
-      "equipamento": "IMAC 27 I5 3.3GHZ 500GB SSD 24GB DE RAM PLACA DE VIDEO AMD RADEON PRO 5300 4GB",
-      "so": "MAC OS BIGSUR",
-      "usuario": "JORDAN",
-      "obs": "IMAC 27 5K RETINA 2020",
-      "mp": false
-    },
-    {
       "id": 52,
       "cliente_id": "18",
       "codigo": "REMMKTMAC009",
