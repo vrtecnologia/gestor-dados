@@ -2152,16 +2152,6 @@
       "usuario": "JEFFERSON ROMAO",
       "obs": "MAC MINI ADQUIRIDO EM 07-2025",
       "mp": false
-    },
-    {
-      "id": 56,
-      "cliente_id": "18",
-      "codigo": "REMMKT016",
-      "equipamento": "NOTEBOOK ACER I5 10210U COM 20GB DE RAM E SSD NVME DE 256GB",
-      "so": "WINDOWS 11",
-      "usuario": "FERNANDO IAM",
-      "obs": "ADQUIRIDA EM AGOSTO DE 2022",
-      "mp": false
     }
   ],
   "config": {
