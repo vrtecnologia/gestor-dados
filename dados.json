@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 37,
-      "cliente_id": "18",
-      "codigo": "REMMKT009",
-      "equipamento": "NOTEBOOK LENOVO I5 8250U 20GB DE RAM E SSD DE 480GB",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "LORENA THAINA",
-      "obs": "",
-      "mp": false
-    },
-    {
       "id": 38,
       "cliente_id": "18",
       "codigo": "REMMKT010",
