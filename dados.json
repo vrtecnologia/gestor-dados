@@ -2042,16 +2042,6 @@
       "usuario": "MICHEL DIAS",
       "obs": "ADQUIRIDA EM DEZEMBRO DE 2024",
       "mp": false
-    },
-    {
-      "id": 55,
-      "cliente_id": "18",
-      "codigo": "REMMKTMAC012",
-      "equipamento": "MAC MINI M4 16GB SSD512",
-      "so": "MAC OS",
-      "usuario": "JEFFERSON ROMAO",
-      "obs": "MAC MINI ADQUIRIDO EM 07-2025",
-      "mp": false
     }
   ],
   "config": {
