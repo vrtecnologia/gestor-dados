@@ -2034,16 +2034,6 @@
       "mp": false
     },
     {
-      "id": 49,
-      "cliente_id": "18",
-      "codigo": "REMMKT022",
-      "equipamento": "NOTEBOOK ACER ASPIRE 5 A515-57 I5 12450H 32GB DE RAM E 1 SSD NVME 256GB",
-      "so": "WINDOWS 11 HOME",
-      "usuario": "RAMON",
-      "obs": "ADQUIRIDA EM FEVEREIRO DE 2024",
-      "mp": false
-    },
-    {
       "id": 50,
       "cliente_id": "6",
       "codigo": "REMMKT023",
