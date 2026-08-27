@@ -1745,7 +1745,7 @@
   "equipamentos": [
     {
       "id": 1,
-      "cliente_id": "14",
+      "cliente_id": "6",
       "codigo": "REMMKT001",
       "equipamento": "NOTEBOOK ACER ASPIRE 5 I7-13620H 16GB E 512 SSD",
       "so": "WINDOWS 11 PRO",
