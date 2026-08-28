@@ -1064,6 +1064,18 @@
       "descricao": "",
       "id": 526,
       "origem": "app"
+    },
+    {
+      "titulo": "Marilanda",
+      "cliente_id": null,
+      "inicio": "2026-09-01T13:00",
+      "fim": "2026-09-01T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 527,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -2516,7 +2528,7 @@
   },
   "seq": {
     "cli": 20,
-    "ag": 527,
+    "ag": 528,
     "nota": 14,
     "serv": 52,
     "ct": 7,
