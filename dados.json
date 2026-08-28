@@ -1578,6 +1578,14 @@
       "descricao": "VERIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 50,
+      "cliente_id": "2",
+      "data": "2026-08-15",
+      "descricao": "ANÁLISE PONTUAL DE INTEGRIDADE DE ACESSOS E LICENCIAMENTO NO GOOGLE WORKSPACE E MICROSOFT 365",
+      "horas": 2,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -2318,7 +2326,7 @@
     "cli": 20,
     "ag": 527,
     "nota": 13,
-    "serv": 50,
+    "serv": 51,
     "ct": 7,
     "cob": 7,
     "rec": 4,
