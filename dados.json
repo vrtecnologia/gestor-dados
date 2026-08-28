@@ -2042,6 +2042,16 @@
       "obs": "",
       "mp": true,
       "id": 84
+    },
+    {
+      "cliente_id": "1",
+      "codigo": "GALPAO - MACHFUSO",
+      "usuario": "PAFER",
+      "equipamento": "DELL INSPIRON 3470 - INTEL CORE I5 9400 8GB RAM SSD 240GB SATA",
+      "so": "",
+      "obs": "",
+      "mp": true,
+      "id": 85
     }
   ],
   "config": {
@@ -2064,6 +2074,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 85
+    "eq": 86
   }
 }
