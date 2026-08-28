@@ -2418,6 +2418,16 @@
       "obs": "",
       "mp": true,
       "id": 121
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "EVELYN",
+      "usuario": "EVELYN",
+      "equipamento": "NOTEBOOK LENOVO - INTEL CORE I5 12450HX 16GB RAM SSD NVME 512GB",
+      "so": "WINDOWS 11",
+      "obs": "",
+      "mp": false,
+      "id": 122
     }
   ],
   "config": {
@@ -2440,6 +2450,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 122
+    "eq": 123
   }
 }
