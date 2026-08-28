@@ -2236,10 +2236,10 @@
     {
       "id": 104,
       "cliente_id": "1",
-      "codigo": "KK",
+      "codigo": "CACA",
       "equipamento": "Dell Vostro 3681 - 8GB - SSD NVMe 256GB",
       "so": "Windows 11 Pro",
-      "usuario": "KK",
+      "usuario": "CACA",
       "obs": "",
       "mp": false
     },
