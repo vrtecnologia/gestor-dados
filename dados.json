@@ -2343,10 +2343,10 @@
       "cliente_id": "4",
       "codigo": "JULIANA CAROLINO",
       "usuario": "JULIANA CAROLINO",
-      "equipamento": "NOTEBOOK ACER ASPIRE GO",
-      "so": "",
-      "obs": "",
-      "mp": false,
+      "equipamento": "NOTEBOOK ACER ASPIRE GO 15 - INTEL CORE I5 13450 16GB RAM 512GB SSD",
+      "so": "WINDOWS 11",
+      "obs": "ADQUIRIDA EM 08/2026",
+      "mp": true,
       "id": 114
     },
     {
