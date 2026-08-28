@@ -2052,6 +2052,256 @@
       "obs": "",
       "mp": true,
       "id": 85
+    },
+    {
+      "id": 86,
+      "cliente_id": "1",
+      "codigo": "FINANCEIRO 02-RESERVA",
+      "equipamento": "Dell Vostro 3681 - Intel Core i5-10400 - 8GB - SSD NVMe 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Financeiro",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 87,
+      "cliente_id": "1",
+      "codigo": "JENNIFER-PC",
+      "equipamento": "Dell OptiPlex QCM1250 - Intel Core i5-14500T - 16GB - SSD NVMe 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Financeiro",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 88,
+      "cliente_id": "1",
+      "codigo": "PAFER BANCOS",
+      "equipamento": "Dell Pro Micro QCM1250 - Intel Core i5-14500T - 16GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Bancos",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 89,
+      "cliente_id": "1",
+      "codigo": "VENDAS-MICHELE",
+      "equipamento": "Dell Vostro 3681 - Intel Core i5-10400 - 8GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Michele",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 90,
+      "cliente_id": "1",
+      "codigo": "PAFER BOM DIA",
+      "equipamento": "Dell OptiPlex 7010 - Intel Core i7-3770 - 8GB - SSD SATA 240GB",
+      "so": "Windows 11",
+      "usuario": "Bia Barra Janie L.",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 91,
+      "cliente_id": "1",
+      "codigo": "COMERCIAL 3",
+      "equipamento": "Dell Vostro 3710 - Intel Core i5-12400 - 8GB - SSD NVMe 512GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Breno",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 92,
+      "cliente_id": "1",
+      "codigo": "COMERCIAL 4-PC",
+      "equipamento": "Dell Inspiron 3268 - Intel Core i5-7400 - 8GB - SSD SATA 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Jefferson",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 93,
+      "cliente_id": "1",
+      "codigo": "VENDAS01",
+      "equipamento": "Dell Vostro 3710 - Intel Core i5-12400 - 8GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Alessandro",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 94,
+      "cliente_id": "1",
+      "codigo": "BOLIVAR",
+      "equipamento": "Dell Vostro 3681 - Intel Core i5-10400 - 8GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Bolívar",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 95,
+      "cliente_id": "1",
+      "codigo": "LAURENTINO-PC",
+      "equipamento": "Dell Vostro 3470 - Intel Core i5-9400 - 8GB - SSD SATA 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Laurentino",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 96,
+      "cliente_id": "1",
+      "codigo": "PH-DELL",
+      "equipamento": "Dell Inspiron 3501 Notebook - Intel Core i7-1165G7 - 20GB - SSD NVMe 250GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Paulo Henrique",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 97,
+      "cliente_id": "1",
+      "codigo": "RUBENS",
+      "equipamento": "Dell Vostro 5320 Notebook - Intel Core i5-1240P - 8GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Rubens",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 98,
+      "cliente_id": "1",
+      "codigo": "VICTOR",
+      "equipamento": "Dell Latitude 5450 Notebook - 16GB - SSD 512GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Victor",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 99,
+      "cliente_id": "1",
+      "codigo": "RAFAEL-NTB",
+      "equipamento": "Dell Latitude 5450 - Intel Core Ultra 5-135U - 16GB - SSD 512GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Rafael",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 100,
+      "cliente_id": "1",
+      "codigo": "QUALIDADE 01",
+      "equipamento": "Dell Vostro 3710 - Intel Core i5-12400 - 8GB - SSD NVMe 512GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Tio",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 101,
+      "cliente_id": "1",
+      "codigo": "COMERCIAL 02",
+      "equipamento": "Dell OptiPlex 7020 - Intel Core i5-14500 - 16GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Danilo",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 102,
+      "cliente_id": "1",
+      "codigo": "BALCÃO 01",
+      "equipamento": "Dell OptiPlex 7010 - Intel Core i7-3770 - 8GB - SSD SATA 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Balcão",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 103,
+      "cliente_id": "1",
+      "codigo": "ESTOQUE02",
+      "equipamento": "Dell Inspiron 3470 - Intel Core i5-9400 - 16GB - SSD SATA 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Estoque",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 104,
+      "cliente_id": "1",
+      "codigo": "KK",
+      "equipamento": "Dell Vostro 3681 - 8GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "KK",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 105,
+      "cliente_id": "1",
+      "codigo": "ESTOQUE01",
+      "equipamento": "Dell OptiPlex 390 - Intel Core i3-2120 - 4GB - SSD SATA 240GB",
+      "so": "Windows 10 Pro",
+      "usuario": "Estoque",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 106,
+      "cliente_id": "1",
+      "codigo": "NOTA FISCAL 01",
+      "equipamento": "Dell OptiPlex SFF 7020 - Intel Core i5-14500 - 16GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Ivan",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 107,
+      "cliente_id": "1",
+      "codigo": "NOTA FISCAL 03",
+      "equipamento": "Dell Vostro 3710 - Intel Core i5-12400 - 8GB - SSD NVMe 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Janiele",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 108,
+      "cliente_id": "1",
+      "codigo": "NOTA FISCAL 02",
+      "equipamento": "Dell Pro Micro QCM1250 - Intel Core i5-14500T - 16GB - SSD SATA 256GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Nota Fiscal",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 109,
+      "cliente_id": "1",
+      "codigo": "GALPÃO",
+      "equipamento": "Dell Inspiron 3470 - Intel Core i5-9400 - 8GB - SSD SATA 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Galpão",
+      "obs": "",
+      "mp": false
+    },
+    {
+      "id": 110,
+      "cliente_id": "1",
+      "codigo": "MACFUSO ESTOQUE",
+      "equipamento": "Dell OptiPlex 7010 - Intel Core i7-3770 - 8GB - SSD SATA 240GB",
+      "so": "Windows 11 Pro",
+      "usuario": "Estoque",
+      "obs": "",
+      "mp": false
     }
   ],
   "config": {
@@ -2074,6 +2324,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 86
+    "eq": 111
   }
 }
