@@ -2388,6 +2388,16 @@
       "obs": "ADQUIRIDA EM ABRIL 2026",
       "mp": true,
       "id": 118
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "LEANDRO",
+      "usuario": "LEANDRO",
+      "equipamento": "NOTEBOOK ACER NITRO AN517-52 INTEL CORE I5 10750H 24GB RAM SSD 512 NVME E SSD 1TB SATA",
+      "so": "WINDOWS 11",
+      "obs": "",
+      "mp": true,
+      "id": 119
     }
   ],
   "config": {
@@ -2410,6 +2420,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 119
+    "eq": 120
   }
 }
