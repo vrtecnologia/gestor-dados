@@ -2466,6 +2466,16 @@
       "obs": "",
       "mp": true,
       "id": 125
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "NATALIA",
+      "usuario": "NATALIA",
+      "equipamento": "NOTEBOOK ACER ASPIRE 5 A515-57 - INTEL CORE I5 12450H 8GB RAM SSD 512GB NVME",
+      "so": "WINDOWS 11",
+      "obs": "",
+      "mp": true,
+      "id": 126
     }
   ],
   "config": {
@@ -2488,6 +2498,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 126
+    "eq": 127
   }
 }
