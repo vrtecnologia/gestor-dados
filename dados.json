@@ -2308,6 +2308,16 @@
       "usuario": "Estoque",
       "obs": "",
       "mp": true
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "DJEANE",
+      "usuario": "DJEANE",
+      "equipamento": "DELL INSPIRON 5400 AIO - INTEL CORE I7 1165G7 32GB RAM SSD 256GB",
+      "so": "",
+      "obs": "",
+      "mp": true,
+      "id": 111
     }
   ],
   "config": {
@@ -2330,6 +2340,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 111
+    "eq": 112
   }
 }
