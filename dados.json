@@ -2328,6 +2328,16 @@
       "obs": "",
       "mp": true,
       "id": 112
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "ISABELA",
+      "usuario": "ISABELA",
+      "equipamento": "DELL INSPIRON 7010 - INTEL CORE I5-3570 8GB RAM SSD 240GB SATA E HD 500GB SATA",
+      "so": "WINDOWS 10 PRO",
+      "obs": "",
+      "mp": true,
+      "id": 113
     }
   ],
   "config": {
@@ -2350,6 +2360,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 113
+    "eq": 114
   }
 }
