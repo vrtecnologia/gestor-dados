@@ -2485,10 +2485,10 @@
       "cliente_id": "4",
       "codigo": "DAN",
       "usuario": "DAN",
-      "equipamento": "",
-      "so": "",
+      "equipamento": "NOTEBOOK ACER NITRO ANV15-31 INTEL CORE I5-13450H 24GB RAM E SSD DE  512GB NVME",
+      "so": "WINDOWS 11",
       "obs": "",
-      "mp": false,
+      "mp": true,
       "id": 127
     },
     {
