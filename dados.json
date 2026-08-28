@@ -2348,6 +2348,16 @@
       "obs": "",
       "mp": false,
       "id": 114
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "PETTLENOVO02",
+      "usuario": "JULIANA BRANDAO",
+      "equipamento": "NOTEBOOK LENOVO - INTEL CORE I5 12450HX 16GB RAM SSD NVME 512GB",
+      "so": "WINDOWS 11",
+      "obs": "",
+      "mp": true,
+      "id": 115
     }
   ],
   "config": {
@@ -2370,6 +2380,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 115
+    "eq": 116
   }
 }
