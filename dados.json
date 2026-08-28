@@ -2428,6 +2428,16 @@
       "obs": "",
       "mp": false,
       "id": 122
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "LEANDRO CASA",
+      "usuario": "LEANDRO CASA",
+      "equipamento": "AIO LG V320-M.BG33P1 - INTEL CORE I5 3210M 16GB RAM SSD SATA 1TB",
+      "so": "WINDOWS 10",
+      "obs": "PRECISA TROCAR",
+      "mp": true,
+      "id": 123
     }
   ],
   "config": {
@@ -2450,6 +2460,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 123
+    "eq": 124
   }
 }
