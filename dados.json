@@ -2446,6 +2446,16 @@
       "obs": "PRECISA TROCAR",
       "mp": true,
       "id": 123
+    },
+    {
+      "cliente_id": "1",
+      "codigo": "PSERVER",
+      "usuario": "LOGOS",
+      "equipamento": "SERVIDOR DELL POWEREDGE T350 - INTEL XEON E-2324G 16GB RAM SSD 4TB NVME",
+      "so": "WINDOWS 2022 SERVER",
+      "obs": "",
+      "mp": true,
+      "id": 124
     }
   ],
   "config": {
@@ -2468,6 +2478,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 124
+    "eq": 125
   }
 }
