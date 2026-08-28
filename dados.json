@@ -2398,6 +2398,16 @@
       "obs": "",
       "mp": true,
       "id": 119
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "ANDREIA",
+      "usuario": "ANDREIA",
+      "equipamento": "NOTEBOOK LENOVO LEGION SLIM 5 - INTEL I5-13420H SSD NVME 512GB E NVME 1000GB NVME",
+      "so": "WINDOWS 11",
+      "obs": "",
+      "mp": true,
+      "id": 120
     }
   ],
   "config": {
@@ -2420,6 +2430,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 120
+    "eq": 121
   }
 }
