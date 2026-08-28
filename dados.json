@@ -2408,6 +2408,16 @@
       "obs": "",
       "mp": true,
       "id": 120
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "TANIA",
+      "usuario": "TANIA",
+      "equipamento": "AIO LG 24V550 - INTEL CORE I5 5200U 12GB RAM SSD 480GB SATA",
+      "so": "WINDOWS 11",
+      "obs": "",
+      "mp": true,
+      "id": 121
     }
   ],
   "config": {
@@ -2430,6 +2440,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 121
+    "eq": 122
   }
 }
