@@ -2318,6 +2318,16 @@
       "obs": "",
       "mp": true,
       "id": 111
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "CAROLINA",
+      "usuario": "CAROLINA",
+      "equipamento": "NOTEBOOK DELL INSPIRON 15 3511 - INTEL PENTIUM GOLD 7505 12GB DE RAM E SSD DE 500GB NVME",
+      "so": "",
+      "obs": "",
+      "mp": true,
+      "id": 112
     }
   ],
   "config": {
@@ -2340,6 +2350,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 112
+    "eq": 113
   }
 }
