@@ -2456,6 +2456,16 @@
       "obs": "",
       "mp": true,
       "id": 124
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "MARELLISERVER",
+      "usuario": "ADMINISTRATOR",
+      "equipamento": "SERVIDOR DELL POWEREDGE T130  - INTEL XEON E3-1220 8GB RAM SSD 4TB",
+      "so": "WINDOWS SERVER 2016",
+      "obs": "",
+      "mp": true,
+      "id": 125
     }
   ],
   "config": {
@@ -2478,6 +2488,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 125
+    "eq": 126
   }
 }
