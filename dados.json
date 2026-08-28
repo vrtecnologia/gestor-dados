@@ -2368,6 +2368,16 @@
       "obs": "",
       "mp": true,
       "id": 116
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "PATRICIA",
+      "usuario": "PATRICIA",
+      "equipamento": "NOTEBOOK ACER ASPIRE GO 15 - INTEL CORE I5 13450 16GB RAM 512GB SSD",
+      "so": "WINDOWS 11 PRO",
+      "obs": "ADQUIRIDA EM ABRIL 2026",
+      "mp": true,
+      "id": 117
     }
   ],
   "config": {
@@ -2390,6 +2400,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 117
+    "eq": 118
   }
 }
