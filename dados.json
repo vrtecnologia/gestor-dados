@@ -2338,6 +2338,16 @@
       "obs": "",
       "mp": true,
       "id": 113
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "JULIANA CAROLINO",
+      "usuario": "JULIANA CAROLINO",
+      "equipamento": "NOTEBOOK ACER ASPIRE GO",
+      "so": "",
+      "obs": "",
+      "mp": false,
+      "id": 114
     }
   ],
   "config": {
@@ -2360,6 +2370,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 114
+    "eq": 115
   }
 }
