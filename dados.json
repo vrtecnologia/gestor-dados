@@ -2032,6 +2032,16 @@
       "usuario": "FERNANDO IAM",
       "obs": "ADQUIRIDA EM AGOSTO DE 2022",
       "mp": false
+    },
+    {
+      "cliente_id": "1",
+      "codigo": "FINANCEIRO/WILSON",
+      "usuario": "WILSON",
+      "equipamento": "DELL VOSTRO 3470 - INTEL CORE I5 9400 16GB - SSD 240GB SATA",
+      "so": "",
+      "obs": "",
+      "mp": true,
+      "id": 84
     }
   ],
   "config": {
@@ -2054,6 +2064,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 84
+    "eq": 85
   }
 }
