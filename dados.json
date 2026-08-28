@@ -2490,6 +2490,16 @@
       "obs": "",
       "mp": false,
       "id": 127
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "CELSO",
+      "usuario": "CELSO",
+      "equipamento": "",
+      "so": "",
+      "obs": "",
+      "mp": false,
+      "id": 128
     }
   ],
   "config": {
@@ -2512,6 +2522,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 128
+    "eq": 129
   }
 }
