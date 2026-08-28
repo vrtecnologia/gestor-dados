@@ -1586,6 +1586,14 @@
       "descricao": "ANÁLISE PONTUAL DE INTEGRIDADE DE ACESSOS E LICENCIAMENTO NO GOOGLE WORKSPACE E MICROSOFT 365",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 51,
+      "cliente_id": "4",
+      "data": "2026-08-28",
+      "descricao": "LEVANTAMENTO DAS MAQUINAS DA PETT E GERAÇÃO DE RELATORIO PARA ANDREIA",
+      "horas": 2,
+      "valor": 260
     }
   ],
   "contratos": [
@@ -2456,7 +2464,7 @@
     "cli": 20,
     "ag": 527,
     "nota": 13,
-    "serv": 51,
+    "serv": 52,
     "ct": 7,
     "cob": 7,
     "rec": 4,
