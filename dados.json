@@ -2505,16 +2505,6 @@
     },
     {
       "cliente_id": "4",
-      "codigo": "CELSO",
-      "usuario": "CELSO",
-      "equipamento": "",
-      "so": "",
-      "obs": "",
-      "mp": false,
-      "id": 128
-    },
-    {
-      "cliente_id": "4",
       "codigo": "CLAUDIA",
       "usuario": "CLAUDIA",
       "equipamento": "NOTEBOOK ASUS VIVOBOOK X513 - INTEL CORE I5 1135G7 12GB RAM SSD NVME 256GB",
