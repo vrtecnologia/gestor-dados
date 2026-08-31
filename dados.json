@@ -2384,7 +2384,8 @@
       "so": "WINDOWS 11",
       "obs": "ADQUIRIDA EM 08/2026",
       "mp": true,
-      "id": 114
+      "id": 114,
+      "backup": "ARQUITETURA@PETTDRIVE.COM.BR"
     },
     {
       "cliente_id": "4",
