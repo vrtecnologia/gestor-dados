@@ -1620,6 +1620,14 @@
       "horas": 2,
       "valor": 260,
       "nota_id": 13
+    },
+    {
+      "id": 52,
+      "cliente_id": "6",
+      "data": "2026-08-31",
+      "descricao": "LIBERAÇAO DE ACESSO A BANCO DE LOGOS DO JEAN",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -2556,7 +2564,7 @@
     "cli": 20,
     "ag": 528,
     "nota": 14,
-    "serv": 52,
+    "serv": 53,
     "ct": 7,
     "cob": 7,
     "rec": 4,
