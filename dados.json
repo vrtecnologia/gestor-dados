@@ -2522,6 +2522,16 @@
       "obs": "",
       "mp": true,
       "id": 129
+    },
+    {
+      "cliente_id": "4",
+      "codigo": "CELSO",
+      "usuario": "CELSO",
+      "equipamento": "NOTEBOOK DELL INSPIRON 15 3567 - INTEL CORE I5 7200U - 8GB RAM SSD SATA 240GB",
+      "so": "WINDOWS 10",
+      "obs": "",
+      "mp": true,
+      "id": 130
     }
   ],
   "config": {
@@ -2544,6 +2554,6 @@
     "ct": 7,
     "cob": 7,
     "rec": 4,
-    "eq": 130
+    "eq": 131
   }
 }
