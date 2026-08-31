@@ -2467,7 +2467,8 @@
       "so": "WINDOWS 10",
       "obs": "PRECISA TROCAR",
       "mp": true,
-      "id": 123
+      "id": 123,
+      "backup": "ARQUITETURA@PETTDRIVE.COM.BR"
     },
     {
       "cliente_id": "1",
