@@ -2427,7 +2427,8 @@
       "so": "WINDOWS 11",
       "obs": "ADQUIRIDA EM ABRIL 2026",
       "mp": true,
-      "id": 118
+      "id": 118,
+      "backup": "DIRETORIA@PETTDRIVE.COM.BR"
     },
     {
       "cliente_id": "4",
