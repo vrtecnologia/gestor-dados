@@ -2450,7 +2450,8 @@
       "so": "WINDOWS 10",
       "obs": "",
       "mp": true,
-      "id": 121
+      "id": 121,
+      "backup": "DIRETORIA@PETTDRIVE.COM.BR"
     },
     {
       "cliente_id": "4",
