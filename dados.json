@@ -1274,10 +1274,10 @@
         54
       ],
       "cliente_id": "4",
-      "numero_nfse": "",
+      "numero_nfse": "449",
       "valor": 130,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  01/09/2026 - AUXILIANDO A JULIANA A CRIAR NOVA PASTA NO OUTLOOK E APROVEITANDO O ACESSO REMOTO PARA CRIAR PST 2026 PARA ARMAZENAMENTO FUTURO - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-01"
     }
