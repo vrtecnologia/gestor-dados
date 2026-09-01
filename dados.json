@@ -1688,6 +1688,14 @@
       "descricao": "LIBERAÇAO DE ACESSO A BANCO DE LOGOS DO JEAN",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 53,
+      "cliente_id": "2",
+      "data": "2026-09-01",
+      "descricao": "SOLUCIONANDO FALHA DO MFA DA TAINAH",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -2624,7 +2632,7 @@
     "cli": 20,
     "ag": 529,
     "nota": 18,
-    "serv": 53,
+    "serv": 54,
     "ct": 7,
     "cob": 7,
     "rec": 4,
