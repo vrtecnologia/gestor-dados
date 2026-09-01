@@ -1076,6 +1076,18 @@
       "descricao": "",
       "id": 527,
       "origem": "app"
+    },
+    {
+      "titulo": "Flavio Cunha",
+      "cliente_id": null,
+      "inicio": "2026-09-02T09:00",
+      "fim": "2026-09-02T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 528,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -2610,7 +2622,7 @@
   },
   "seq": {
     "cli": 20,
-    "ag": 528,
+    "ag": 529,
     "nota": 18,
     "serv": 53,
     "ct": 7,
