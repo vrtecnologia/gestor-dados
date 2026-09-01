@@ -1080,8 +1080,8 @@
     {
       "titulo": "Flavio Cunha",
       "cliente_id": null,
-      "inicio": "2026-09-02T09:00",
-      "fim": "2026-09-02T10:00",
+      "inicio": "2026-09-01T13:00",
+      "fim": "2026-09-01T14:00",
       "valor": 0,
       "status": "agendado",
       "local": "",
