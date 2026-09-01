@@ -1684,6 +1684,14 @@
       "descricao": "SOLUCIONANDO FALHA DO MFA DA TAINAH",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 54,
+      "cliente_id": "4",
+      "data": "2026-09-01",
+      "descricao": "AUXILIANDO A JULIANA A CRIAR NOVA PASTA NO OUTLOOK E APROVEITANDO O ACESSO REMOTO PARA CRIAR PST 2026 PARA ARMAZENAMENTO FUTURO",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -2620,7 +2628,7 @@
     "cli": 20,
     "ag": 529,
     "nota": 18,
-    "serv": 54,
+    "serv": 55,
     "ct": 7,
     "cob": 7,
     "rec": 4,
