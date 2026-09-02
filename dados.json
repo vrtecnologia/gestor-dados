@@ -1299,6 +1299,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  01/09/2026 - AUXILIANDO A JULIANA A CRIAR NOVA PASTA NO OUTLOOK E APROVEITANDO O ACESSO REMOTO PARA CRIAR PST 2026 PARA ARMAZENAMENTO FUTURO - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-01"
+    },
+    {
+      "id": 19,
+      "servico_ids": [
+        55
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 170,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 170.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  02/09/2026 - IDA A CASA DA DJEANE PARA VERIFICAR PROBLEMAS AO LIGAR O COMPUTADOR(REMOÇÃO DE MEMORIA DANIFICADA) E ATUALIZAÇÃO DE TODO O SISTEMA PARA TESTAR - R$ 170.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-02"
     }
   ],
   "servicos": [
@@ -1732,7 +1745,8 @@
       "data": "2026-09-02",
       "descricao": "IDA A CASA DA DJEANE PARA VERIFICAR PROBLEMAS AO LIGAR O COMPUTADOR(REMOÇÃO DE MEMORIA DANIFICADA) E ATUALIZAÇÃO DE TODO O SISTEMA PARA TESTAR",
       "horas": 1,
-      "valor": 170
+      "valor": 170,
+      "nota_id": 19
     }
   ],
   "contratos": [
@@ -2689,7 +2703,7 @@
   "seq": {
     "cli": 21,
     "ag": 529,
-    "nota": 19,
+    "nota": 20,
     "serv": 56,
     "ct": 7,
     "cob": 7,
