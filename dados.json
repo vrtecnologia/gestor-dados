@@ -287,6 +287,25 @@
       "uf": "",
       "observacoes": "",
       "id": 19
+    },
+    {
+      "nome": "CONDOMINIO DO EDIFICIO PALACIO DI RIETI",
+      "tipo_pessoa": "J",
+      "documento": "40.257.024/0001-45",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 20
     }
   ],
   "agendamentos": [
@@ -2639,7 +2658,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 20,
+    "cli": 21,
     "ag": 529,
     "nota": 19,
     "serv": 55,
