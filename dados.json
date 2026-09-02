@@ -1725,6 +1725,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 18
+    },
+    {
+      "id": 55,
+      "cliente_id": "4",
+      "data": "2026-09-02",
+      "descricao": "IDA A CASA DA DJEANE PARA VERIFICAR PROBLEMAS AO LIGAR O COMPUTADOR(REMOÇÃO DE MEMORIA DANIFICADA) E ATUALIZAÇÃO DE TODO O SISTEMA PARA TESTAR",
+      "horas": 1,
+      "valor": 170
     }
   ],
   "contratos": [
@@ -2682,7 +2690,7 @@
     "cli": 21,
     "ag": 529,
     "nota": 19,
-    "serv": 55,
+    "serv": 56,
     "ct": 7,
     "cob": 7,
     "rec": 5,
