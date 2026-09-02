@@ -1895,6 +1895,27 @@
         }
       ],
       "id": 2
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-02",
+      "numero": "02092026",
+      "cliente_id": "20",
+      "pag_nome": "CONDOMINIO DO EDIFICIO PALACIO DI RIETI",
+      "pag_doc": "40.257.024/0001-45",
+      "pag_end": "RUA VILELA TAVARES 302",
+      "prep": "DO",
+      "pix": true,
+      "decl": "RECEBI A IMPORTANCIA ACIMA DO CONDOMINIO DO EDIFICIO PALACIO DI RIETI DE CNPJ 40.257.024/0001-45 SITUADO NA RUA VILELA TAVARES 302",
+      "itens": [
+        {
+          "data": "2026-09-02",
+          "desc": "- SERVIÇO DE INFORMATICA PRESTADO - REMOÇÃO DE VIRUS E AJUSTES NA PLACA DE REDE",
+          "qtd": "1 HORA",
+          "valor": 170
+        }
+      ],
+      "id": 4
     }
   ],
   "equipamentos": [
@@ -2664,7 +2685,7 @@
     "serv": 55,
     "ct": 7,
     "cob": 7,
-    "rec": 4,
+    "rec": 5,
     "eq": 131
   }
 }
