@@ -1312,6 +1312,71 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 170.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  02/09/2026 - IDA A CASA DA DJEANE PARA VERIFICAR PROBLEMAS AO LIGAR O COMPUTADOR(REMOÇÃO DE MEMORIA DANIFICADA) E ATUALIZAÇÃO DE TODO O SISTEMA PARA TESTAR - R$ 170.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-02"
+    },
+    {
+      "id": 20,
+      "cliente_id": "",
+      "cliente_nome_xml": "VINHEDOS PRIVADOS PATRIMONIAL E SERVICOS LTDA",
+      "cliente_doc_xml": "55975043000184",
+      "competencia": "2026-07",
+      "numero_nfse": "433",
+      "valor": 120,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/2026\r\n\r\nVENCIMENTO: 31/07/2026\r\n\r\nDADOS PARA PAGAMENTO:\r\nPIX CNPJ 42.612.0580001-36",
+      "status": "autorizada",
+      "origem": "xml",
+      "emitida_em": "15/07/2026"
+    },
+    {
+      "id": 21,
+      "cliente_id": 4,
+      "cliente_nome_xml": "PETT &amp; CAPELLATO REPRESENTACOES LTDA",
+      "cliente_doc_xml": "05292903000107",
+      "competencia": "2026-07",
+      "numero_nfse": "429",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/07/2026\r\n- SERVIÇO DE INSTALAÇÃO DO JAVA ATUALIZADO NA MAQUINA DA CAROL\r\nVENCIMENTO:\r\n\r\nDADOS PARA PAGAMENTO:\r\nPIX CNPJ 42.612.0580001-36",
+      "status": "autorizada",
+      "origem": "xml",
+      "emitida_em": "07/07/2026"
+    },
+    {
+      "id": 22,
+      "cliente_id": 4,
+      "cliente_nome_xml": "PETT &amp; CAPELLATO REPRESENTACOES LTDA",
+      "cliente_doc_xml": "05292903000107",
+      "competencia": "2026-07",
+      "numero_nfse": "432",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 15/07/2026\r\n- CONFIGURAÇÃO PARA ABERTURA DE ARQUIVOS EML PELO OUTLOOK CLASSICO NA MAQUINA DA TANIA\r\nVENCIMENTO:\r\n\r\nDADOS PARA PAGAMENTO:\r\nPIX CNPJ 42.612.0580001-36",
+      "status": "autorizada",
+      "origem": "xml",
+      "emitida_em": "15/07/2026"
+    },
+    {
+      "id": 23,
+      "cliente_id": 4,
+      "cliente_nome_xml": "PETT &amp; CAPELLATO REPRESENTACOES LTDA",
+      "cliente_doc_xml": "05292903000107",
+      "competencia": "2026-07",
+      "numero_nfse": "431",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 14/07/2026\r\n- ACESSO A MAQUINA DA ANDREIA PARA SOLUCIONAR BARRA DE ABAS DO CHROME\r\n- ACESSO A MAQUINA DA DJEANE PARA LIBERAR O ADM E O GOOGLE DRIVE PRA ELA\r\nTOTAL DE 1 HORA REMOTA\r\n\r\nVENCIMENTO:\r\n\r\nDADOS PARA PAGAMENTO:\r\nPIX CNPJ 42.612.0580001-36",
+      "status": "autorizada",
+      "origem": "xml",
+      "emitida_em": "14/07/2026"
+    },
+    {
+      "id": 24,
+      "cliente_id": "",
+      "cliente_nome_xml": "CELY SERRA LIRA DA COSTA",
+      "cliente_doc_xml": "93195990768",
+      "competencia": "2026-07",
+      "numero_nfse": "430",
+      "valor": 220,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 07/07/2026\r\n- 1 HORA PRESENCIAL TOTALIZANDO R$170,00 E COMPRA DE BLUETOOTH TOTALIZANDO R$50,00\r\nVENCIMENTO:\r\n\r\nDADOS PARA PAGAMENTO:\r\nPIX CNPJ 42.612.0580001-36",
+      "status": "autorizada",
+      "origem": "xml",
+      "emitida_em": "07/07/2026"
     }
   ],
   "servicos": [
@@ -2703,7 +2768,7 @@
   "seq": {
     "cli": 21,
     "ag": 529,
-    "nota": 20,
+    "nota": 25,
     "serv": 56,
     "ct": 7,
     "cob": 7,
