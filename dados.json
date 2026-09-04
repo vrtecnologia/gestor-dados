@@ -2352,6 +2352,19 @@
       "status": "portal",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  04/09/2026 - ACESSO A MAQUINA DA JULIANA CAROLINO PARA ACERTAR PST 2026 QUE SUMIU - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-04"
+    },
+    {
+      "id": 100,
+      "servico_ids": [
+        56
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  04/09/2026 - ACESSO A MAQUINA DA JULIANA CAROLINO PARA ACERTAR PST 2026 QUE SUMIU - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-04"
     }
   ],
   "servicos": [
@@ -2795,7 +2808,7 @@
       "descricao": "ACESSO A MAQUINA DA JULIANA CAROLINO PARA ACERTAR PST 2026 QUE SUMIU",
       "horas": 1,
       "valor": 130,
-      "nota_id": 99
+      "nota_id": 100
     }
   ],
   "contratos": [
@@ -3752,7 +3765,7 @@
   "seq": {
     "cli": 21,
     "ag": 529,
-    "nota": 100,
+    "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
