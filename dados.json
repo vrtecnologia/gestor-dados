@@ -2774,6 +2774,14 @@
       "horas": 1,
       "valor": 170,
       "nota_id": 19
+    },
+    {
+      "id": 56,
+      "cliente_id": "4",
+      "data": "2026-09-04",
+      "descricao": "ACESSO A MAQUINA DA JULIANA CAROLINO PARA ACERTAR PST 2026 QUE SUMIU",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -3731,7 +3739,7 @@
     "cli": 21,
     "ag": 529,
     "nota": 99,
-    "serv": 56,
+    "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 5,
