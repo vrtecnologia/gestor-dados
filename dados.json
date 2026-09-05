@@ -1095,6 +1095,18 @@
       "descricao": "",
       "id": 528,
       "origem": "app"
+    },
+    {
+      "titulo": "PAFER",
+      "cliente_id": "1",
+      "inicio": "2026-09-09T08:00",
+      "fim": "2026-09-09T12:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 529,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -3764,7 +3776,7 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 529,
+    "ag": 530,
     "nota": 101,
     "serv": 57,
     "ct": 7,
