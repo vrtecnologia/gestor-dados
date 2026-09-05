@@ -3078,6 +3078,27 @@
         }
       ],
       "id": 6
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-05",
+      "numero": "05092026",
+      "cliente_id": "",
+      "pag_nome": "CLAUDIA PETT",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO CLAUDIA PETT NO DIA 05/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-03",
+          "desc": "SERVIÇO REMOTO NO NOTEBOOK DA CLAUDIA",
+          "qtd": "1",
+          "valor": 130
+        }
+      ],
+      "id": 7
     }
   ],
   "equipamentos": [
@@ -3847,7 +3868,7 @@
     "serv": 57,
     "ct": 7,
     "cob": 7,
-    "rec": 7,
+    "rec": 8,
     "eq": 131
   }
 }
