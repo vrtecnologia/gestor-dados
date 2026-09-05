@@ -1119,6 +1119,18 @@
       "descricao": "",
       "id": 530,
       "origem": "app"
+    },
+    {
+      "titulo": "MARIA TERESA",
+      "cliente_id": null,
+      "inicio": "2026-09-10T09:00",
+      "fim": "2026-09-10T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 531,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -3788,7 +3800,7 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 531,
+    "ag": 532,
     "nota": 101,
     "serv": 57,
     "ct": 7,
