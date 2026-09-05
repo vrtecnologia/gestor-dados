@@ -1107,6 +1107,18 @@
       "descricao": "",
       "id": 529,
       "origem": "app"
+    },
+    {
+      "titulo": "Marilanda",
+      "cliente_id": null,
+      "inicio": "2026-09-09T13:00",
+      "fim": "2026-09-09T14:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "NOVA AMERICA",
+      "descricao": "",
+      "id": 530,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -3776,7 +3788,7 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 530,
+    "ag": 531,
     "nota": 101,
     "serv": 57,
     "ct": 7,
