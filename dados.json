@@ -3036,6 +3036,27 @@
         }
       ],
       "id": 4
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-05",
+      "numero": "05092026",
+      "cliente_id": "",
+      "pag_nome": "CARINA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO CARINA NO DIA 05/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-01",
+          "desc": "SERVIÇO REMOTO",
+          "qtd": "1",
+          "valor": 130
+        }
+      ],
+      "id": 5
     }
   ],
   "equipamentos": [
@@ -3805,7 +3826,7 @@
     "serv": 57,
     "ct": 7,
     "cob": 7,
-    "rec": 5,
+    "rec": 6,
     "eq": 131
   }
 }
