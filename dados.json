@@ -3057,6 +3057,27 @@
         }
       ],
       "id": 5
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-01",
+      "numero": "01092026-2",
+      "cliente_id": "",
+      "pag_nome": "DR FLAVIO",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO DR FLAVIO NO DIA 01/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-05",
+          "desc": "SERVIÇO PRESENCIAL",
+          "qtd": "2",
+          "valor": 340
+        }
+      ],
+      "id": 6
     }
   ],
   "equipamentos": [
@@ -3826,7 +3847,7 @@
     "serv": 57,
     "ct": 7,
     "cob": 7,
-    "rec": 6,
+    "rec": 7,
     "eq": 131
   }
 }
