@@ -2377,19 +2377,6 @@
       "emitida_em": "22/01/2026"
     },
     {
-      "id": 99,
-      "servico_ids": [
-        56
-      ],
-      "cliente_id": "4",
-      "numero_nfse": "",
-      "valor": 130,
-      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
-      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  04/09/2026 - ACESSO A MAQUINA DA JULIANA CAROLINO PARA ACERTAR PST 2026 QUE SUMIU - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
-      "emitida_em": "2026-09-04"
-    },
-    {
       "id": 100,
       "servico_ids": [
         56
