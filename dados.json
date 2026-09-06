@@ -3667,10 +3667,10 @@
       "usuario": "ISABELA",
       "equipamento": "DELL INSPIRON 7010 - INTEL CORE I5-3570 8GB RAM SSD 240GB SATA E HD 500GB SATA",
       "so": "WINDOWS 10 PRO",
-      "obs": "LOGISTICA  / ORÇAMENTOS / PUBLICO / ADM / FATURAMENTO",
+      "obs": "LOGISTICA / COMERCIAL / ARQUITETURA / ORÇAMENTOS / PUBLICO / ADM / APOIO / FATURAMENTO",
       "mp": true,
       "id": 113,
-      "backup": "COMERCIAL@PETTDRIVE.COM.BR"
+      "backup": "FATURAMENTO@PETTDRIVE.COM.BR"
     },
     {
       "cliente_id": "4",
