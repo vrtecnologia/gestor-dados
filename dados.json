@@ -8061,6 +8061,16 @@
       "descricao": "",
       "obs": "",
       "id": 6
+    },
+    {
+      "cliente_id": "21",
+      "valor": 2750,
+      "venc_dia": 5,
+      "tipo": "comunicado",
+      "ativo": true,
+      "descricao": "",
+      "obs": "",
+      "id": 7
     }
   ],
   "cobrancas": [
@@ -14458,7 +14468,7 @@
     "ag": 1000,
     "nota": 101,
     "serv": 57,
-    "ct": 7,
+    "ct": 8,
     "cob": 7,
     "rec": 9,
     "eq": 131,
