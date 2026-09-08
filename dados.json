@@ -6147,6 +6147,138 @@
       "fim": "2026-12-10T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 988,
+      "tipo": "conta",
+      "conta_id": 457,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2026-10-09T09:00",
+      "fim": "2026-10-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 989,
+      "tipo": "conta",
+      "conta_id": 458,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2026-11-09T09:00",
+      "fim": "2026-11-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 990,
+      "tipo": "conta",
+      "conta_id": 459,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2026-12-09T09:00",
+      "fim": "2026-12-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 991,
+      "tipo": "conta",
+      "conta_id": 460,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-01-09T09:00",
+      "fim": "2027-01-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 992,
+      "tipo": "conta",
+      "conta_id": 461,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-02-09T09:00",
+      "fim": "2027-02-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 993,
+      "tipo": "conta",
+      "conta_id": 462,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-03-09T09:00",
+      "fim": "2027-03-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 994,
+      "tipo": "conta",
+      "conta_id": 463,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-04-09T09:00",
+      "fim": "2027-04-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 995,
+      "tipo": "conta",
+      "conta_id": 464,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-05-09T09:00",
+      "fim": "2027-05-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 996,
+      "tipo": "conta",
+      "conta_id": 465,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-06-09T09:00",
+      "fim": "2027-06-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 997,
+      "tipo": "conta",
+      "conta_id": 466,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-07-09T09:00",
+      "fim": "2027-07-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 998,
+      "tipo": "conta",
+      "conta_id": 467,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-08-09T09:00",
+      "fim": "2027-08-09T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 999,
+      "tipo": "conta",
+      "conta_id": 468,
+      "titulo": "ACORDO PICPAY – R$ 305.43",
+      "cliente_id": "",
+      "inicio": "2027-09-09T09:00",
+      "fim": "2027-09-09T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -14144,6 +14276,150 @@
       "obs": "",
       "agendamento_id": 987,
       "categoria": "CARTAO"
+    },
+    {
+      "id": 457,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2026-10-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 988
+    },
+    {
+      "id": 458,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2026-11-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 989
+    },
+    {
+      "id": 459,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2026-12-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 990
+    },
+    {
+      "id": 460,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-01-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 991
+    },
+    {
+      "id": 461,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-02-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 992
+    },
+    {
+      "id": 462,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-03-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 993
+    },
+    {
+      "id": 463,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-04-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 994
+    },
+    {
+      "id": 464,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-05-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 995
+    },
+    {
+      "id": 465,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-06-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 996
+    },
+    {
+      "id": 466,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-07-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 997
+    },
+    {
+      "id": 467,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-08-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 998
+    },
+    {
+      "id": 468,
+      "grupo": "g1788894122036",
+      "eterna": false,
+      "nome": "ACORDO PICPAY",
+      "valor": 305.43,
+      "venc": "2027-09-09",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "ACORDO",
+      "agendamento_id": 999
     }
   ],
   "config": {
@@ -14160,13 +14436,13 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 988,
+    "ag": 1000,
     "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 9,
     "eq": 131,
-    "ca": 457
+    "ca": 469
   }
 }
