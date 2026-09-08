@@ -5245,6 +5245,28 @@
       "fim": "2026-10-15T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 906,
+      "tipo": "conta",
+      "conta_id": 375,
+      "titulo": "EMPRESTIMO ML – R$ 202.52",
+      "cliente_id": "",
+      "inicio": "2026-09-16T09:00",
+      "fim": "2026-09-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 907,
+      "tipo": "conta",
+      "conta_id": 376,
+      "titulo": "EMPRESTIMO ML – R$ 202.52",
+      "cliente_id": "",
+      "inicio": "2026-10-16T09:00",
+      "fim": "2026-10-16T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -12064,6 +12086,28 @@
       "status": "pendente",
       "obs": "",
       "agendamento_id": 905
+    },
+    {
+      "id": 375,
+      "grupo": "g1788883003626",
+      "eterna": false,
+      "nome": "EMPRESTIMO ML",
+      "valor": 202.52,
+      "venc": "2026-09-16",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 906
+    },
+    {
+      "id": 376,
+      "grupo": "g1788883003626",
+      "eterna": false,
+      "nome": "EMPRESTIMO ML",
+      "valor": 202.52,
+      "venc": "2026-10-16",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 907
     }
   ],
   "config": {
@@ -12080,13 +12124,13 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 906,
+    "ag": 908,
     "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 8,
     "eq": 131,
-    "ca": 375
+    "ca": 377
   }
 }
