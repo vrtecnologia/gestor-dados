@@ -1635,7 +1635,7 @@
       "cliente_id": "",
       "inicio": "2026-09-10T09:00",
       "fim": "2026-09-10T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -8519,7 +8519,7 @@
       "nome": "SAVECAR - SEGURO FORD KA",
       "valor": 268.54,
       "venc": "2026-09-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "agendamento_id": 577
     },
