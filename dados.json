@@ -8058,6 +8058,27 @@
         }
       ],
       "id": 7
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-08",
+      "numero": "08092026",
+      "cliente_id": "",
+      "pag_nome": "DR RODRIGO",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO DR RODRIGO NO DIA 08/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-08",
+          "desc": "SERVIÇO REMOTO REALIZADO",
+          "qtd": "1",
+          "valor": 129.69
+        }
+      ],
+      "id": 8
     }
   ],
   "equipamentos": [
@@ -13801,7 +13822,7 @@
     "serv": 57,
     "ct": 7,
     "cob": 7,
-    "rec": 8,
+    "rec": 9,
     "eq": 131,
     "ca": 453
   }
