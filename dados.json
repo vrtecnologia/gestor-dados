@@ -13123,7 +13123,8 @@
       "venc": "2026-09-15",
       "status": "pendente",
       "obs": "",
-      "agendamento_id": 904
+      "agendamento_id": 904,
+      "categoria": "EMPRESTIMO"
     },
     {
       "id": 374,
@@ -13134,7 +13135,8 @@
       "venc": "2026-10-15",
       "status": "pendente",
       "obs": "",
-      "agendamento_id": 905
+      "agendamento_id": 905,
+      "categoria": "EMPRESTIMO"
     },
     {
       "id": 375,
