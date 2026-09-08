@@ -11127,7 +11127,8 @@
       "venc": "2026-09-05",
       "status": "pago",
       "obs": "VARIAVEL",
-      "agendamento_id": 736
+      "agendamento_id": 736,
+      "categoria": "CARTAO"
     },
     {
       "id": 206,
@@ -11138,7 +11139,8 @@
       "venc": "2026-10-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 737
+      "agendamento_id": 737,
+      "categoria": "CARTAO"
     },
     {
       "id": 207,
@@ -11149,7 +11151,8 @@
       "venc": "2026-11-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 738
+      "agendamento_id": 738,
+      "categoria": "CARTAO"
     },
     {
       "id": 208,
@@ -11160,7 +11163,8 @@
       "venc": "2026-12-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 739
+      "agendamento_id": 739,
+      "categoria": "CARTAO"
     },
     {
       "id": 209,
@@ -11171,7 +11175,8 @@
       "venc": "2027-01-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 740
+      "agendamento_id": 740,
+      "categoria": "CARTAO"
     },
     {
       "id": 210,
@@ -11182,7 +11187,8 @@
       "venc": "2027-02-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 741
+      "agendamento_id": 741,
+      "categoria": "CARTAO"
     },
     {
       "id": 211,
@@ -11193,7 +11199,8 @@
       "venc": "2027-03-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 742
+      "agendamento_id": 742,
+      "categoria": "CARTAO"
     },
     {
       "id": 212,
@@ -11204,7 +11211,8 @@
       "venc": "2027-04-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 743
+      "agendamento_id": 743,
+      "categoria": "CARTAO"
     },
     {
       "id": 213,
@@ -11215,7 +11223,8 @@
       "venc": "2027-05-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 744
+      "agendamento_id": 744,
+      "categoria": "CARTAO"
     },
     {
       "id": 214,
@@ -11226,7 +11235,8 @@
       "venc": "2027-06-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 745
+      "agendamento_id": 745,
+      "categoria": "CARTAO"
     },
     {
       "id": 215,
@@ -11237,7 +11247,8 @@
       "venc": "2027-07-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 746
+      "agendamento_id": 746,
+      "categoria": "CARTAO"
     },
     {
       "id": 216,
@@ -11248,7 +11259,8 @@
       "venc": "2027-08-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 747
+      "agendamento_id": 747,
+      "categoria": "CARTAO"
     },
     {
       "id": 217,
@@ -11259,7 +11271,8 @@
       "venc": "2027-09-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 748
+      "agendamento_id": 748,
+      "categoria": "CARTAO"
     },
     {
       "id": 218,
@@ -11270,7 +11283,8 @@
       "venc": "2027-10-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 749
+      "agendamento_id": 749,
+      "categoria": "CARTAO"
     },
     {
       "id": 219,
@@ -11281,7 +11295,8 @@
       "venc": "2027-11-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 750
+      "agendamento_id": 750,
+      "categoria": "CARTAO"
     },
     {
       "id": 220,
@@ -11292,7 +11307,8 @@
       "venc": "2027-12-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 751
+      "agendamento_id": 751,
+      "categoria": "CARTAO"
     },
     {
       "id": 221,
@@ -11303,7 +11319,8 @@
       "venc": "2028-01-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 752
+      "agendamento_id": 752,
+      "categoria": "CARTAO"
     },
     {
       "id": 222,
@@ -11314,7 +11331,8 @@
       "venc": "2028-02-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 753
+      "agendamento_id": 753,
+      "categoria": "CARTAO"
     },
     {
       "id": 223,
@@ -11325,7 +11343,8 @@
       "venc": "2028-03-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 754
+      "agendamento_id": 754,
+      "categoria": "CARTAO"
     },
     {
       "id": 224,
@@ -11336,7 +11355,8 @@
       "venc": "2028-04-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 755
+      "agendamento_id": 755,
+      "categoria": "CARTAO"
     },
     {
       "id": 225,
@@ -11347,7 +11367,8 @@
       "venc": "2028-05-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 756
+      "agendamento_id": 756,
+      "categoria": "CARTAO"
     },
     {
       "id": 226,
@@ -11358,7 +11379,8 @@
       "venc": "2028-06-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 757
+      "agendamento_id": 757,
+      "categoria": "CARTAO"
     },
     {
       "id": 227,
@@ -11369,7 +11391,8 @@
       "venc": "2028-07-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 758
+      "agendamento_id": 758,
+      "categoria": "CARTAO"
     },
     {
       "id": 228,
@@ -11380,7 +11403,8 @@
       "venc": "2028-08-05",
       "status": "pendente",
       "obs": "VARIAVEL",
-      "agendamento_id": 759
+      "agendamento_id": 759,
+      "categoria": "CARTAO"
     },
     {
       "id": 229,
