@@ -2482,7 +2482,7 @@
       "cliente_id": "",
       "inicio": "2026-09-12T09:00",
       "fim": "2026-09-12T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -10277,7 +10277,7 @@
       "nome": "ACORDO NEON - SERASA",
       "valor": 131.94,
       "venc": "2026-09-12",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "agendamento_id": 654,
       "categoria": "ACORDO"
