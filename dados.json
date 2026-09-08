@@ -1131,6 +1131,237 @@
       "descricao": "",
       "id": 531,
       "origem": "app"
+    },
+    {
+      "id": 532,
+      "tipo": "conta",
+      "conta_id": 1,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2026-09-15T09:00",
+      "fim": "2026-09-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 533,
+      "tipo": "conta",
+      "conta_id": 2,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2026-10-15T09:00",
+      "fim": "2026-10-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 534,
+      "tipo": "conta",
+      "conta_id": 3,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2026-11-15T09:00",
+      "fim": "2026-11-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 535,
+      "tipo": "conta",
+      "conta_id": 4,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2026-12-15T09:00",
+      "fim": "2026-12-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 536,
+      "tipo": "conta",
+      "conta_id": 5,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-01-15T09:00",
+      "fim": "2027-01-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 537,
+      "tipo": "conta",
+      "conta_id": 6,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-02-15T09:00",
+      "fim": "2027-02-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 538,
+      "tipo": "conta",
+      "conta_id": 7,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-03-15T09:00",
+      "fim": "2027-03-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 539,
+      "tipo": "conta",
+      "conta_id": 8,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-04-15T09:00",
+      "fim": "2027-04-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 540,
+      "tipo": "conta",
+      "conta_id": 9,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-05-15T09:00",
+      "fim": "2027-05-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 541,
+      "tipo": "conta",
+      "conta_id": 10,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-06-15T09:00",
+      "fim": "2027-06-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 542,
+      "tipo": "conta",
+      "conta_id": 11,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-07-15T09:00",
+      "fim": "2027-07-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 543,
+      "tipo": "conta",
+      "conta_id": 12,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-08-15T09:00",
+      "fim": "2027-08-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 544,
+      "tipo": "conta",
+      "conta_id": 13,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-09-15T09:00",
+      "fim": "2027-09-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 545,
+      "tipo": "conta",
+      "conta_id": 14,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-10-15T09:00",
+      "fim": "2027-10-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 546,
+      "tipo": "conta",
+      "conta_id": 15,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-11-15T09:00",
+      "fim": "2027-11-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 547,
+      "tipo": "conta",
+      "conta_id": 16,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2027-12-15T09:00",
+      "fim": "2027-12-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 548,
+      "tipo": "conta",
+      "conta_id": 17,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2028-01-15T09:00",
+      "fim": "2028-01-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 549,
+      "tipo": "conta",
+      "conta_id": 18,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2028-02-15T09:00",
+      "fim": "2028-02-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 550,
+      "tipo": "conta",
+      "conta_id": 19,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2028-03-15T09:00",
+      "fim": "2028-03-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 551,
+      "tipo": "conta",
+      "conta_id": 20,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2028-04-15T09:00",
+      "fim": "2028-04-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 552,
+      "tipo": "conta",
+      "conta_id": 21,
+      "titulo": "ACORDO SANTANDER – R$ 220.96",
+      "cliente_id": "",
+      "inicio": "2028-05-15T09:00",
+      "fim": "2028-05-15T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -3836,6 +4067,239 @@
       "backup": "ARQUETETURA@PETTDRIVE.COM.BR"
     }
   ],
+  "contas": [
+    {
+      "id": 1,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2026-09-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 532
+    },
+    {
+      "id": 2,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2026-10-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 533
+    },
+    {
+      "id": 3,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2026-11-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 534
+    },
+    {
+      "id": 4,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2026-12-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 535
+    },
+    {
+      "id": 5,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-01-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 536
+    },
+    {
+      "id": 6,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-02-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 537
+    },
+    {
+      "id": 7,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-03-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 538
+    },
+    {
+      "id": 8,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-04-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 539
+    },
+    {
+      "id": 9,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-05-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 540
+    },
+    {
+      "id": 10,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-06-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 541
+    },
+    {
+      "id": 11,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-07-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 542
+    },
+    {
+      "id": 12,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-08-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 543
+    },
+    {
+      "id": 13,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-09-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 544
+    },
+    {
+      "id": 14,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-10-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 545
+    },
+    {
+      "id": 15,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-11-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 546
+    },
+    {
+      "id": 16,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2027-12-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 547
+    },
+    {
+      "id": 17,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2028-01-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 548
+    },
+    {
+      "id": 18,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2028-02-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 549
+    },
+    {
+      "id": 19,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2028-03-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 550
+    },
+    {
+      "id": 20,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2028-04-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 551
+    },
+    {
+      "id": 21,
+      "grupo": "g1788870960058",
+      "eterna": false,
+      "nome": "ACORDO SANTANDER",
+      "valor": 220.96,
+      "venc": "2028-05-15",
+      "status": "pendente",
+      "obs": "ACORDO FEITO EM JULHO DE 2026",
+      "agendamento_id": 552
+    }
+  ],
   "config": {
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
@@ -3850,12 +4314,13 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 532,
+    "ag": 553,
     "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 8,
-    "eq": 131
+    "eq": 131,
+    "ca": 22
   }
 }
