@@ -5223,6 +5223,28 @@
       "fim": "2028-08-21T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 904,
+      "tipo": "conta",
+      "conta_id": 373,
+      "titulo": "EMPRESTIMO 99 – R$ 759.81",
+      "cliente_id": "",
+      "inicio": "2026-09-15T09:00",
+      "fim": "2026-09-15T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 905,
+      "tipo": "conta",
+      "conta_id": 374,
+      "titulo": "EMPRESTIMO 99 – R$ 759.81",
+      "cliente_id": "",
+      "inicio": "2026-10-15T09:00",
+      "fim": "2026-10-15T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -12020,6 +12042,28 @@
       "status": "pendente",
       "obs": "",
       "agendamento_id": 903
+    },
+    {
+      "id": 373,
+      "grupo": "g1788882909821",
+      "eterna": false,
+      "nome": "EMPRESTIMO 99",
+      "valor": 759.81,
+      "venc": "2026-09-15",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 904
+    },
+    {
+      "id": 374,
+      "grupo": "g1788882909821",
+      "eterna": false,
+      "nome": "EMPRESTIMO 99",
+      "valor": 759.81,
+      "venc": "2026-10-15",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 905
     }
   ],
   "config": {
@@ -12036,13 +12080,13 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 904,
+    "ag": 906,
     "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 8,
     "eq": 131,
-    "ca": 373
+    "ca": 375
   }
 }
