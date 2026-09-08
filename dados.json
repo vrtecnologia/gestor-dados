@@ -306,6 +306,25 @@
       "uf": "",
       "observacoes": "",
       "id": 20
+    },
+    {
+      "nome": "KAMILLE CHOLODOVSKIS - LOGOS",
+      "tipo_pessoa": "F",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "5",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 21
     }
   ],
   "agendamentos": [
@@ -14435,7 +14454,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 21,
+    "cli": 22,
     "ag": 1000,
     "nota": 101,
     "serv": 57,
