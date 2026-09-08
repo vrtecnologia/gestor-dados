@@ -8839,7 +8839,8 @@
       "venc": "2026-09-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 532
+      "agendamento_id": 532,
+      "categoria": "ACORDO"
     },
     {
       "id": 2,
@@ -8850,7 +8851,8 @@
       "venc": "2026-10-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 533
+      "agendamento_id": 533,
+      "categoria": "ACORDO"
     },
     {
       "id": 3,
@@ -8861,7 +8863,8 @@
       "venc": "2026-11-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 534
+      "agendamento_id": 534,
+      "categoria": "ACORDO"
     },
     {
       "id": 4,
@@ -8872,7 +8875,8 @@
       "venc": "2026-12-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 535
+      "agendamento_id": 535,
+      "categoria": "ACORDO"
     },
     {
       "id": 5,
@@ -8883,7 +8887,8 @@
       "venc": "2027-01-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 536
+      "agendamento_id": 536,
+      "categoria": "ACORDO"
     },
     {
       "id": 6,
@@ -8894,7 +8899,8 @@
       "venc": "2027-02-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 537
+      "agendamento_id": 537,
+      "categoria": "ACORDO"
     },
     {
       "id": 7,
@@ -8905,7 +8911,8 @@
       "venc": "2027-03-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 538
+      "agendamento_id": 538,
+      "categoria": "ACORDO"
     },
     {
       "id": 8,
@@ -8916,7 +8923,8 @@
       "venc": "2027-04-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 539
+      "agendamento_id": 539,
+      "categoria": "ACORDO"
     },
     {
       "id": 9,
@@ -8927,7 +8935,8 @@
       "venc": "2027-05-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 540
+      "agendamento_id": 540,
+      "categoria": "ACORDO"
     },
     {
       "id": 10,
@@ -8938,7 +8947,8 @@
       "venc": "2027-06-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 541
+      "agendamento_id": 541,
+      "categoria": "ACORDO"
     },
     {
       "id": 11,
@@ -8949,7 +8959,8 @@
       "venc": "2027-07-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 542
+      "agendamento_id": 542,
+      "categoria": "ACORDO"
     },
     {
       "id": 12,
@@ -8960,7 +8971,8 @@
       "venc": "2027-08-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 543
+      "agendamento_id": 543,
+      "categoria": "ACORDO"
     },
     {
       "id": 13,
@@ -8971,7 +8983,8 @@
       "venc": "2027-09-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 544
+      "agendamento_id": 544,
+      "categoria": "ACORDO"
     },
     {
       "id": 14,
@@ -8982,7 +8995,8 @@
       "venc": "2027-10-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 545
+      "agendamento_id": 545,
+      "categoria": "ACORDO"
     },
     {
       "id": 15,
@@ -8993,7 +9007,8 @@
       "venc": "2027-11-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 546
+      "agendamento_id": 546,
+      "categoria": "ACORDO"
     },
     {
       "id": 16,
@@ -9004,7 +9019,8 @@
       "venc": "2027-12-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 547
+      "agendamento_id": 547,
+      "categoria": "ACORDO"
     },
     {
       "id": 17,
@@ -9015,7 +9031,8 @@
       "venc": "2028-01-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 548
+      "agendamento_id": 548,
+      "categoria": "ACORDO"
     },
     {
       "id": 18,
@@ -9026,7 +9043,8 @@
       "venc": "2028-02-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 549
+      "agendamento_id": 549,
+      "categoria": "ACORDO"
     },
     {
       "id": 19,
@@ -9037,7 +9055,8 @@
       "venc": "2028-03-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 550
+      "agendamento_id": 550,
+      "categoria": "ACORDO"
     },
     {
       "id": 20,
@@ -9048,7 +9067,8 @@
       "venc": "2028-04-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 551
+      "agendamento_id": 551,
+      "categoria": "ACORDO"
     },
     {
       "id": 21,
@@ -9059,7 +9079,8 @@
       "venc": "2028-05-15",
       "status": "pendente",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 552
+      "agendamento_id": 552,
+      "categoria": "ACORDO"
     },
     {
       "id": 22,
