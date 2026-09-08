@@ -5300,6 +5300,17 @@
       "fim": "2026-11-16T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 911,
+      "tipo": "conta",
+      "conta_id": 380,
+      "titulo": "EMPRESTIMO ML2 – R$ 24.56",
+      "cliente_id": "",
+      "inicio": "2026-12-16T09:00",
+      "fim": "2026-12-16T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -12174,6 +12185,17 @@
       "status": "pendente",
       "obs": "",
       "agendamento_id": 910
+    },
+    {
+      "id": 380,
+      "grupo": "",
+      "eterna": false,
+      "nome": "EMPRESTIMO ML2",
+      "valor": 24.56,
+      "venc": "2026-12-16",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 911
     }
   ],
   "config": {
@@ -12190,13 +12212,13 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 911,
+    "ag": 912,
     "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 8,
     "eq": 131,
-    "ca": 380
+    "ca": 381
   }
 }
