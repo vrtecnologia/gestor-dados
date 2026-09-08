@@ -6103,6 +6103,50 @@
       "fim": "2028-08-20T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 984,
+      "tipo": "conta",
+      "conta_id": 453,
+      "titulo": "CARTAO C&A PAY – R$ 180.52",
+      "cliente_id": "",
+      "inicio": "2026-09-10T09:00",
+      "fim": "2026-09-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 985,
+      "tipo": "conta",
+      "conta_id": 454,
+      "titulo": "CARTAO C&A PAY – R$ 180.52",
+      "cliente_id": "",
+      "inicio": "2026-10-10T09:00",
+      "fim": "2026-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 986,
+      "tipo": "conta",
+      "conta_id": 455,
+      "titulo": "CARTAO C&A PAY – R$ 180.52",
+      "cliente_id": "",
+      "inicio": "2026-11-10T09:00",
+      "fim": "2026-11-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 987,
+      "tipo": "conta",
+      "conta_id": 456,
+      "titulo": "CARTAO C&A PAY – R$ 180.52",
+      "cliente_id": "",
+      "inicio": "2026-12-10T09:00",
+      "fim": "2026-12-10T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -13801,6 +13845,50 @@
       "status": "pendente",
       "obs": "",
       "agendamento_id": 983
+    },
+    {
+      "id": 453,
+      "grupo": "g1788890806824",
+      "eterna": false,
+      "nome": "CARTAO C&A PAY",
+      "valor": 180.52,
+      "venc": "2026-09-10",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 984
+    },
+    {
+      "id": 454,
+      "grupo": "g1788890806824",
+      "eterna": false,
+      "nome": "CARTAO C&A PAY",
+      "valor": 180.52,
+      "venc": "2026-10-10",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 985
+    },
+    {
+      "id": 455,
+      "grupo": "g1788890806824",
+      "eterna": false,
+      "nome": "CARTAO C&A PAY",
+      "valor": 180.52,
+      "venc": "2026-11-10",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 986
+    },
+    {
+      "id": 456,
+      "grupo": "g1788890806824",
+      "eterna": false,
+      "nome": "CARTAO C&A PAY",
+      "valor": 180.52,
+      "venc": "2026-12-10",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 987
     }
   ],
   "config": {
@@ -13817,13 +13905,13 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 984,
+    "ag": 988,
     "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 9,
     "eq": 131,
-    "ca": 453
+    "ca": 457
   }
 }
