@@ -2473,6 +2473,248 @@
       "fim": "2028-04-10T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 654,
+      "tipo": "conta",
+      "conta_id": 123,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2026-09-12T09:00",
+      "fim": "2026-09-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 655,
+      "tipo": "conta",
+      "conta_id": 124,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2026-10-12T09:00",
+      "fim": "2026-10-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 656,
+      "tipo": "conta",
+      "conta_id": 125,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2026-11-12T09:00",
+      "fim": "2026-11-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 657,
+      "tipo": "conta",
+      "conta_id": 126,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2026-12-12T09:00",
+      "fim": "2026-12-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 658,
+      "tipo": "conta",
+      "conta_id": 127,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-01-12T09:00",
+      "fim": "2027-01-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 659,
+      "tipo": "conta",
+      "conta_id": 128,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-02-12T09:00",
+      "fim": "2027-02-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 660,
+      "tipo": "conta",
+      "conta_id": 129,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-03-12T09:00",
+      "fim": "2027-03-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 661,
+      "tipo": "conta",
+      "conta_id": 130,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-04-12T09:00",
+      "fim": "2027-04-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 662,
+      "tipo": "conta",
+      "conta_id": 131,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-05-12T09:00",
+      "fim": "2027-05-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 663,
+      "tipo": "conta",
+      "conta_id": 132,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-06-12T09:00",
+      "fim": "2027-06-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 664,
+      "tipo": "conta",
+      "conta_id": 133,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-07-12T09:00",
+      "fim": "2027-07-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 665,
+      "tipo": "conta",
+      "conta_id": 134,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-08-12T09:00",
+      "fim": "2027-08-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 666,
+      "tipo": "conta",
+      "conta_id": 135,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-09-12T09:00",
+      "fim": "2027-09-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 667,
+      "tipo": "conta",
+      "conta_id": 136,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-10-12T09:00",
+      "fim": "2027-10-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 668,
+      "tipo": "conta",
+      "conta_id": 137,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-11-12T09:00",
+      "fim": "2027-11-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 669,
+      "tipo": "conta",
+      "conta_id": 138,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2027-12-12T09:00",
+      "fim": "2027-12-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 670,
+      "tipo": "conta",
+      "conta_id": 139,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2028-01-12T09:00",
+      "fim": "2028-01-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 671,
+      "tipo": "conta",
+      "conta_id": 140,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2028-02-12T09:00",
+      "fim": "2028-02-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 672,
+      "tipo": "conta",
+      "conta_id": 141,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2028-03-12T09:00",
+      "fim": "2028-03-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 673,
+      "tipo": "conta",
+      "conta_id": 142,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2028-04-12T09:00",
+      "fim": "2028-04-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 674,
+      "tipo": "conta",
+      "conta_id": 143,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2028-05-12T09:00",
+      "fim": "2028-05-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 675,
+      "tipo": "conta",
+      "conta_id": 144,
+      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
+      "cliente_id": "",
+      "inicio": "2028-06-12T09:00",
+      "fim": "2028-06-12T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -6520,6 +6762,248 @@
       "status": "pendente",
       "obs": "",
       "agendamento_id": 653
+    },
+    {
+      "id": 123,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2026-09-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 654
+    },
+    {
+      "id": 124,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2026-10-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 655
+    },
+    {
+      "id": 125,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2026-11-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 656
+    },
+    {
+      "id": 126,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2026-12-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 657
+    },
+    {
+      "id": 127,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-01-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 658
+    },
+    {
+      "id": 128,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-02-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 659
+    },
+    {
+      "id": 129,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-03-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 660
+    },
+    {
+      "id": 130,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-04-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 661
+    },
+    {
+      "id": 131,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-05-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 662
+    },
+    {
+      "id": 132,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-06-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 663
+    },
+    {
+      "id": 133,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-07-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 664
+    },
+    {
+      "id": 134,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-08-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 665
+    },
+    {
+      "id": 135,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-09-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 666
+    },
+    {
+      "id": 136,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-10-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 667
+    },
+    {
+      "id": 137,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-11-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 668
+    },
+    {
+      "id": 138,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2027-12-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 669
+    },
+    {
+      "id": 139,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2028-01-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 670
+    },
+    {
+      "id": 140,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2028-02-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 671
+    },
+    {
+      "id": 141,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2028-03-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 672
+    },
+    {
+      "id": 142,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2028-04-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 673
+    },
+    {
+      "id": 143,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2028-05-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 674
+    },
+    {
+      "id": 144,
+      "grupo": "g1788872919968",
+      "eterna": false,
+      "nome": "ACORDO NEON - SERASA",
+      "valor": 131.94,
+      "venc": "2028-06-12",
+      "status": "pendente",
+      "obs": "",
+      "agendamento_id": 675
     }
   ],
   "config": {
@@ -6536,13 +7020,13 @@
   },
   "seq": {
     "cli": 21,
-    "ag": 654,
+    "ag": 676,
     "nota": 101,
     "serv": 57,
     "ct": 7,
     "cob": 7,
     "rec": 8,
     "eq": 131,
-    "ca": 123
+    "ca": 145
   }
 }
