@@ -13855,7 +13855,8 @@
       "venc": "2026-09-10",
       "status": "pendente",
       "obs": "",
-      "agendamento_id": 984
+      "agendamento_id": 984,
+      "categoria": "CARTAO"
     },
     {
       "id": 454,
@@ -13866,7 +13867,8 @@
       "venc": "2026-10-10",
       "status": "pendente",
       "obs": "",
-      "agendamento_id": 985
+      "agendamento_id": 985,
+      "categoria": "CARTAO"
     },
     {
       "id": 455,
@@ -13877,7 +13879,8 @@
       "venc": "2026-11-10",
       "status": "pendente",
       "obs": "",
-      "agendamento_id": 986
+      "agendamento_id": 986,
+      "categoria": "CARTAO"
     },
     {
       "id": 456,
@@ -13888,7 +13891,8 @@
       "venc": "2026-12-10",
       "status": "pendente",
       "obs": "",
-      "agendamento_id": 987
+      "agendamento_id": 987,
+      "categoria": "CARTAO"
     }
   ],
   "config": {
