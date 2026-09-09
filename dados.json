@@ -6608,6 +6608,17 @@
       "fim": "2026-12-10T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 1031,
+      "tipo": "conta",
+      "conta_id": 498,
+      "titulo": "EMPRESTIMO ML 2",
+      "cliente_id": "",
+      "inicio": "2026-12-16T09:00",
+      "fim": "2026-12-16T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -15072,6 +15083,18 @@
       "obs": "",
       "categoria": "",
       "agendamento_id": 1030
+    },
+    {
+      "id": 498,
+      "grupo": "",
+      "eterna": false,
+      "nome": "EMPRESTIMO ML 2",
+      "valor": 0,
+      "venc": "2026-12-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "EMPRESTIMO",
+      "agendamento_id": 1031
     }
   ],
   "receber_recebidos": [
@@ -15197,14 +15220,14 @@
   },
   "seq": {
     "cli": 22,
-    "ag": 1031,
+    "ag": 1032,
     "nota": 101,
     "serv": 57,
     "ct": 8,
     "cob": 7,
     "rec": 9,
     "eq": 131,
-    "ca": 498
+    "ca": 499
   },
   "_recAte31Ago": true
 }
