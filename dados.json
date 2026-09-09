@@ -8340,6 +8340,14 @@
       "descricao": "VERIFICANDO FALHA AO SALVAR ARQUIVOS ONEDRIVE DO MICHEL",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 58,
+      "cliente_id": "6",
+      "data": "2026-09-08",
+      "descricao": "CONFIGURAÇÃO DE AVISO DE FERIAS DA CAROL",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -15242,7 +15250,7 @@
     "cli": 22,
     "ag": 1033,
     "nota": 101,
-    "serv": 58,
+    "serv": 59,
     "ct": 8,
     "cob": 7,
     "rec": 9,
