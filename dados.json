@@ -15105,7 +15105,9 @@
     "nota:97",
     "nota:98"
   ],
-  "receber_vencimentos": {},
+  "receber_vencimentos": {
+    "nota:7": "2026-08-05"
+  },
   "config": {
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
