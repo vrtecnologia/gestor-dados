@@ -8332,6 +8332,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 100
+    },
+    {
+      "id": 57,
+      "cliente_id": "2",
+      "data": "2026-09-09",
+      "descricao": "VERIFICANDO FALHA AO SALVAR ARQUIVOS ONEDRIVE DO MICHEL",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -15234,7 +15242,7 @@
     "cli": 22,
     "ag": 1033,
     "nota": 101,
-    "serv": 57,
+    "serv": 58,
     "ct": 8,
     "cob": 7,
     "rec": 9,
