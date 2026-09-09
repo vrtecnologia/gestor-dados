@@ -15109,7 +15109,8 @@
     "rec:8"
   ],
   "receber_vencimentos": {
-    "nota:7": "2026-08-05"
+    "nota:7": "2026-08-05",
+    "nota:2": "2026-08-09"
   },
   "config": {
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
