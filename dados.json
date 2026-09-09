@@ -6574,6 +6574,18 @@
       "descricao": "",
       "id": 1024,
       "origem": "app"
+    },
+    {
+      "titulo": "JUMP",
+      "cliente_id": null,
+      "inicio": "2026-09-11T13:00",
+      "fim": "2026-09-11T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "CHEGAR 1 HORA EM PONTO",
+      "id": 1025,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -15139,7 +15151,7 @@
   },
   "seq": {
     "cli": 22,
-    "ag": 1025,
+    "ag": 1026,
     "nota": 101,
     "serv": 57,
     "ct": 8,
