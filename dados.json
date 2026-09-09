@@ -15015,6 +15015,9 @@
       "agendamento_id": 1023
     }
   ],
+  "receber_recebidos": [
+    "rec:5"
+  ],
   "config": {
     "desc": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
     "ctrib": "140101",
