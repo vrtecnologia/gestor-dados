@@ -6586,6 +6586,39 @@
       "descricao": "CHEGAR 1 HORA EM PONTO",
       "id": 1025,
       "origem": "app"
+    },
+    {
+      "id": 1028,
+      "tipo": "conta",
+      "conta_id": 495,
+      "titulo": "EXPLICADORA MILLENA – R$ 350.00",
+      "cliente_id": "",
+      "inicio": "2026-10-10T09:00",
+      "fim": "2026-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1029,
+      "tipo": "conta",
+      "conta_id": 496,
+      "titulo": "EXPLICADORA MILLENA – R$ 350.00",
+      "cliente_id": "",
+      "inicio": "2026-11-10T09:00",
+      "fim": "2026-11-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1030,
+      "tipo": "conta",
+      "conta_id": 497,
+      "titulo": "EXPLICADORA MILLENA – R$ 350.00",
+      "cliente_id": "",
+      "inicio": "2026-12-10T09:00",
+      "fim": "2026-12-10T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -15025,6 +15058,42 @@
       "obs": "",
       "categoria": "MEI",
       "agendamento_id": 1023
+    },
+    {
+      "id": 495,
+      "grupo": "g1788967419455",
+      "eterna": false,
+      "nome": "EXPLICADORA MILLENA",
+      "valor": 350,
+      "venc": "2026-10-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1028
+    },
+    {
+      "id": 496,
+      "grupo": "g1788967419455",
+      "eterna": false,
+      "nome": "EXPLICADORA MILLENA",
+      "valor": 350,
+      "venc": "2026-11-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1029
+    },
+    {
+      "id": 497,
+      "grupo": "g1788967419455",
+      "eterna": false,
+      "nome": "EXPLICADORA MILLENA",
+      "valor": 350,
+      "venc": "2026-12-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1030
     }
   ],
   "receber_recebidos": [
@@ -15150,14 +15219,14 @@
   },
   "seq": {
     "cli": 22,
-    "ag": 1028,
+    "ag": 1031,
     "nota": 101,
     "serv": 57,
     "ct": 8,
     "cob": 7,
     "rec": 9,
     "eq": 131,
-    "ca": 495
+    "ca": 498
   },
   "_recAte31Ago": true
 }
