@@ -6586,6 +6586,28 @@
       "descricao": "CHEGAR 1 HORA EM PONTO",
       "id": 1025,
       "origem": "app"
+    },
+    {
+      "id": 1026,
+      "tipo": "conta",
+      "conta_id": 493,
+      "titulo": "EXPLICADORA MILLENA – R$ 350.00",
+      "cliente_id": "",
+      "inicio": "2026-10-10T09:00",
+      "fim": "2026-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1027,
+      "tipo": "conta",
+      "conta_id": 494,
+      "titulo": "EXPLICADORA MILLENA – R$ 350.00",
+      "cliente_id": "",
+      "inicio": "2026-11-10T09:00",
+      "fim": "2026-11-10T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -15025,6 +15047,30 @@
       "obs": "",
       "categoria": "MEI",
       "agendamento_id": 1023
+    },
+    {
+      "id": 493,
+      "grupo": "g1788967334371",
+      "eterna": false,
+      "nome": "EXPLICADORA MILLENA",
+      "valor": 350,
+      "venc": "2026-10-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1026
+    },
+    {
+      "id": 494,
+      "grupo": "g1788967334371",
+      "eterna": false,
+      "nome": "EXPLICADORA MILLENA",
+      "valor": 350,
+      "venc": "2026-11-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1027
     }
   ],
   "receber_recebidos": [
@@ -15150,14 +15196,14 @@
   },
   "seq": {
     "cli": 22,
-    "ag": 1026,
+    "ag": 1028,
     "nota": 101,
     "serv": 57,
     "ct": 8,
     "cob": 7,
     "rec": 9,
     "eq": 131,
-    "ca": 493
+    "ca": 495
   },
   "_recAte31Ago": true
 }
