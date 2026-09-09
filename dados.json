@@ -6562,6 +6562,18 @@
       "fim": "2028-08-20T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "titulo": "REUNIAO COM DIGISAT",
+      "cliente_id": null,
+      "inicio": "2026-09-10T15:00",
+      "fim": "2026-09-10T16:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1024,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -15017,7 +15029,7 @@
   },
   "seq": {
     "cli": 22,
-    "ag": 1024,
+    "ag": 1025,
     "nota": 101,
     "serv": 57,
     "ct": 8,
