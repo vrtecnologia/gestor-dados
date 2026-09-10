@@ -8654,6 +8654,27 @@
         }
       ],
       "id": 9
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-10",
+      "numero": "10092026-2",
+      "cliente_id": "",
+      "pag_nome": "Mario",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO MARIO NO DIA 10/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-10",
+          "desc": "Servico de informatica",
+          "qtd": "2",
+          "valor": 400
+        }
+      ],
+      "id": 10
     }
   ],
   "equipamentos": [
@@ -15275,7 +15296,7 @@
     "serv": 59,
     "ct": 8,
     "cob": 7,
-    "rec": 10,
+    "rec": 11,
     "eq": 131,
     "ca": 499
   },
