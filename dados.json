@@ -1159,7 +1159,7 @@
       "cliente_id": "",
       "inicio": "2026-09-15T09:00",
       "fim": "2026-09-15T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -9412,7 +9412,7 @@
       "nome": "ACORDO SANTANDER",
       "valor": 220.96,
       "venc": "2026-09-15",
-      "status": "pendente",
+      "status": "pago",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
       "agendamento_id": 532,
       "categoria": "ACORDO"
