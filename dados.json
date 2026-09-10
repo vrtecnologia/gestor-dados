@@ -6640,7 +6640,7 @@
       "cliente_id": "",
       "inicio": "2026-09-10T09:00",
       "fim": "2026-09-10T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -15437,7 +15437,7 @@
       "nome": "LUCIENE PSICOLOGA MILLENA PRIMEIRA 15",
       "valor": 100,
       "venc": "2026-09-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "",
       "agendamento_id": 1033
