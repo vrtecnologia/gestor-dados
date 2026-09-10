@@ -8633,6 +8633,27 @@
         }
       ],
       "id": 8
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-10",
+      "numero": "10092026",
+      "cliente_id": "",
+      "pag_nome": "Maria Tereza",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO MARIA TEREZA NO DIA 10/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-10",
+          "desc": "Config computador novo",
+          "qtd": "2",
+          "valor": 340
+        }
+      ],
+      "id": 9
     }
   ],
   "equipamentos": [
@@ -15253,7 +15274,7 @@
     "serv": 59,
     "ct": 8,
     "cob": 7,
-    "rec": 9,
+    "rec": 10,
     "eq": 131,
     "ca": 499
   },
