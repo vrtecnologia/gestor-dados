@@ -6895,17 +6895,6 @@
       "fim": "2028-08-10T09:30",
       "status": "agendado",
       "origem": "app"
-    },
-    {
-      "id": 1057,
-      "tipo": "conta",
-      "conta_id": 523,
-      "titulo": "LUCIENE PSICOLOGA MILLENA SEGUNDA 15 – R$ 100.00",
-      "cliente_id": "",
-      "inicio": "2026-09-24T09:00",
-      "fim": "2026-09-24T09:30",
-      "status": "agendado",
-      "origem": "app"
     }
   ],
   "notas": [
@@ -15728,18 +15717,6 @@
       "obs": "",
       "categoria": "",
       "agendamento_id": 1056
-    },
-    {
-      "id": 523,
-      "grupo": "",
-      "eterna": false,
-      "nome": "LUCIENE PSICOLOGA MILLENA SEGUNDA 15",
-      "valor": 100,
-      "venc": "2026-09-24",
-      "status": "pendente",
-      "obs": "",
-      "categoria": "",
-      "agendamento_id": 1057
     }
   ],
   "receber_recebidos": [
