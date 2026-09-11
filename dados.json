@@ -5281,7 +5281,7 @@
       "cliente_id": "",
       "inicio": "2026-10-15T09:00",
       "fim": "2026-10-15T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -14371,7 +14371,7 @@
       "nome": "EMPRESTIMO 99",
       "valor": 759.81,
       "venc": "2026-10-15",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "agendamento_id": 905,
       "categoria": "EMPRESTIMO"
