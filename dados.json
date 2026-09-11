@@ -325,6 +325,25 @@
       "uf": "",
       "observacoes": "",
       "id": 21
+    },
+    {
+      "nome": "NOON ARQUITETURA",
+      "tipo_pessoa": "J",
+      "documento": "65.949.862/0001-00",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 22
     }
   ],
   "agendamentos": [
@@ -16420,7 +16439,7 @@
     "emit_cpf": "097.621.867-45"
   },
   "seq": {
-    "cli": 22,
+    "cli": 23,
     "ag": 1082,
     "nota": 101,
     "serv": 59,
