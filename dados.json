@@ -9323,6 +9323,33 @@
         }
       ],
       "id": 11
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-11",
+      "numero": "11092026-2",
+      "cliente_id": "",
+      "pag_nome": "JUMP",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DA",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DA JUMP NO DIA 11/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-11",
+          "desc": "CLONE DOS DADOS DA JULIANA DO HD PARA O SSD",
+          "qtd": "4 HORAS",
+          "valor": 680
+        },
+        {
+          "data": "2026-09-11",
+          "desc": "TROCA DA BATERIA DA CRIS",
+          "qtd": "1 HORA",
+          "valor": 170
+        }
+      ],
+      "id": 12
     }
   ],
   "equipamentos": [
@@ -16547,7 +16574,7 @@
     "serv": 61,
     "ct": 8,
     "cob": 7,
-    "rec": 12,
+    "rec": 13,
     "eq": 131,
     "ca": 548
   },
