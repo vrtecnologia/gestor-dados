@@ -7202,6 +7202,18 @@
       "descricao": "",
       "id": 1083,
       "origem": "app"
+    },
+    {
+      "titulo": "MICHELI ORDALI - ESCRITORIO LUMMI",
+      "cliente_id": null,
+      "inicio": "2026-09-15T09:00",
+      "fim": "2026-09-15T10:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1084,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -16508,7 +16520,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1084,
+    "ag": 1085,
     "nota": 102,
     "serv": 60,
     "ct": 8,
