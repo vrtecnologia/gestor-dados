@@ -7190,6 +7190,18 @@
       "descricao": "",
       "id": 1082,
       "origem": "app"
+    },
+    {
+      "titulo": "FMV",
+      "cliente_id": null,
+      "inicio": "2026-09-14T13:00",
+      "fim": "2026-09-14T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1083,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -16496,7 +16508,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1083,
+    "ag": 1084,
     "nota": 102,
     "serv": 60,
     "ct": 8,
