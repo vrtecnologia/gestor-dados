@@ -8484,6 +8484,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 65949862000100\nNOME: NOON ARQUITETURA\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  10/09/2026 - ACESSO REMOTO A MAQUINA DA FRANCINE PARA SOLUCIONAR PROBLEMAS DE NOTIFICAÇÃO DE VIRUS - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-10"
+    },
+    {
+      "id": 102,
+      "servico_ids": [
+        60
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  11/09/2026 - CONFIGURAÇÃO DOS CERTIFICADOS DIGITAIS NAS MAQUINAS DA TANIA E CAROL - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-11"
     }
   ],
   "servicos": [
@@ -8960,7 +8973,8 @@
       "data": "2026-09-11",
       "descricao": "CONFIGURAÇÃO DOS CERTIFICADOS DIGITAIS NAS MAQUINAS DA TANIA E CAROL",
       "horas": 1,
-      "valor": 130
+      "valor": 130,
+      "nota_id": 102
     }
   ],
   "contratos": [
@@ -16529,7 +16543,7 @@
   "seq": {
     "cli": 23,
     "ag": 1085,
-    "nota": 102,
+    "nota": 103,
     "serv": 61,
     "ct": 8,
     "cob": 7,
