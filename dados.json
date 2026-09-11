@@ -8953,6 +8953,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 101
+    },
+    {
+      "id": 60,
+      "cliente_id": "4",
+      "data": "2026-09-11",
+      "descricao": "CONFIGURAÇÃO DOS CERTIFICADOS DIGITAIS NAS MAQUINAS DA TANIA E CAROL",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -16522,7 +16530,7 @@
     "cli": 23,
     "ag": 1085,
     "nota": 102,
-    "serv": 60,
+    "serv": 61,
     "ct": 8,
     "cob": 7,
     "rec": 12,
