@@ -9244,6 +9244,27 @@
         }
       ],
       "id": 10
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-11",
+      "numero": "11092026",
+      "cliente_id": "",
+      "pag_nome": "Marcia Kemper",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO MARCIA KEMPER NO DIA 11/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-11",
+          "desc": "- REPARO NO CABO HDMI",
+          "qtd": "1",
+          "valor": 170
+        }
+      ],
+      "id": 11
     }
   ],
   "equipamentos": [
@@ -16467,7 +16488,7 @@
     "serv": 60,
     "ct": 8,
     "cob": 7,
-    "rec": 11,
+    "rec": 12,
     "eq": 131,
     "ca": 548
   },
