@@ -8442,10 +8442,10 @@
         59
       ],
       "cliente_id": "22",
-      "numero_nfse": "",
+      "numero_nfse": "452",
       "valor": 130,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 65949862000100\nNOME: NOON ARQUITETURA\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  10/09/2026 - ACESSO REMOTO A MAQUINA DA FRANCINE PARA SOLUCIONAR PROBLEMAS DE NOTIFICAÇÃO DE VIRUS - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-10"
     }
