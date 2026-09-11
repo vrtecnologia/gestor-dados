@@ -7178,6 +7178,18 @@
       "fim": "2028-08-24T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "titulo": "MARQUINHOS RIPPER",
+      "cliente_id": null,
+      "inicio": "2026-09-14T09:00",
+      "fim": "2026-09-14T10:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1082,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -16484,7 +16496,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1082,
+    "ag": 1083,
     "nota": 102,
     "serv": 60,
     "ct": 8,
