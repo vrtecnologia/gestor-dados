@@ -8895,6 +8895,14 @@
       "descricao": "CONFIGURAÇÃO DE AVISO DE FERIAS DA CAROL",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 59,
+      "cliente_id": "22",
+      "data": "2026-09-10",
+      "descricao": "ACESSO REMOTO A MAQUINA DA FRANCINE PARA SOLUCIONAR PROBLEMAS DE NOTIFICAÇÃO DE VIRUS",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -16442,7 +16450,7 @@
     "cli": 23,
     "ag": 1082,
     "nota": 101,
-    "serv": 59,
+    "serv": 60,
     "ct": 8,
     "cob": 7,
     "rec": 11,
