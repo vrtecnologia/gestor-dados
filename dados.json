@@ -9350,6 +9350,27 @@
         }
       ],
       "id": 12
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-12",
+      "numero": "12092026",
+      "cliente_id": "",
+      "pag_nome": "TERESA BERNARDES",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO TERESA BERNARDES NO DIA 12/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-12",
+          "desc": "SERVIÇO REMOTO A MAQUINA DELA - ATUALIZAÇÕES E TUDO MAIS",
+          "qtd": "1",
+          "valor": 130
+        }
+      ],
+      "id": 13
     }
   ],
   "equipamentos": [
@@ -16574,7 +16595,7 @@
     "serv": 61,
     "ct": 8,
     "cob": 7,
-    "rec": 13,
+    "rec": 14,
     "eq": 131,
     "ca": 548
   },
