@@ -7214,6 +7214,18 @@
       "descricao": "",
       "id": 1084,
       "origem": "app"
+    },
+    {
+      "titulo": "Lucia Abduche",
+      "cliente_id": null,
+      "inicio": "2026-09-17T09:00",
+      "fim": "2026-09-17T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1085,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -16643,7 +16655,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1085,
+    "ag": 1086,
     "nota": 104,
     "serv": 63,
     "ct": 8,
