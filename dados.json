@@ -8997,6 +8997,14 @@
       "horas": 2,
       "valor": 340,
       "nota_id": 103
+    },
+    {
+      "id": 62,
+      "cliente_id": "6",
+      "data": "2026-09-14",
+      "descricao": "ACESSO A NATALIA DA FATO CONTABIL PARA CONFIGURAR ACESSO REMOTO AO SERVIDOR DO VBS",
+      "horas": 0,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -16637,7 +16645,7 @@
     "cli": 23,
     "ag": 1085,
     "nota": 104,
-    "serv": 62,
+    "serv": 63,
     "ct": 8,
     "cob": 7,
     "rec": 15,
