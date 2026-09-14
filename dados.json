@@ -8975,6 +8975,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 102
+    },
+    {
+      "id": 61,
+      "cliente_id": "4",
+      "data": "2026-09-14",
+      "descricao": "FORMATAÇÃO DO NOTEBOOK ANTIGO DA CLAUDIA",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -16615,7 +16623,7 @@
     "cli": 23,
     "ag": 1085,
     "nota": 103,
-    "serv": 61,
+    "serv": 62,
     "ct": 8,
     "cob": 7,
     "rec": 15,
