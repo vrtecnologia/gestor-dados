@@ -8497,6 +8497,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  11/09/2026 - CONFIGURAÇÃO DOS CERTIFICADOS DIGITAIS NAS MAQUINAS DA TANIA E CAROL - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-11"
+    },
+    {
+      "id": 103,
+      "servico_ids": [
+        61
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 340,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 340.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  14/09/2026 - FORMATAÇÃO DO NOTEBOOK ANTIGO DA CLAUDIA - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-14"
     }
   ],
   "servicos": [
@@ -8982,7 +8995,8 @@
       "data": "2026-09-14",
       "descricao": "FORMATAÇÃO DO NOTEBOOK ANTIGO DA CLAUDIA",
       "horas": 2,
-      "valor": 340
+      "valor": 340,
+      "nota_id": 103
     }
   ],
   "contratos": [
@@ -16622,7 +16636,7 @@
   "seq": {
     "cli": 23,
     "ag": 1085,
-    "nota": 103,
+    "nota": 104,
     "serv": 62,
     "ct": 8,
     "cob": 7,
