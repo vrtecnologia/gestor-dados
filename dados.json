@@ -3950,7 +3950,7 @@
       "cliente_id": "",
       "inicio": "2026-09-21T09:00",
       "fim": "2026-09-21T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -13094,7 +13094,7 @@
       "nome": "CARTAO ITAU VISA",
       "valor": 400,
       "venc": "2026-09-21",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "agendamento_id": 784,
       "categoria": "CARTAO"
