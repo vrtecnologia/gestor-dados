@@ -8522,6 +8522,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 340.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  14/09/2026 - FORMATAÇÃO DO NOTEBOOK ANTIGO DA CLAUDIA - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-14"
+    },
+    {
+      "id": 104,
+      "servico_ids": [
+        63
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  15/09/2026 - ACESSO A MAQUINA DO PETT PARA INSTALAR O CERTIFICADO DIGITAL/ ACESSO AO PAINEL DO GOOGLE WORKSPACE PARA CONTRATAÇÃO DO ACESSO AMPLIADO IA PARA O LEANDRO - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-15"
     }
   ],
   "servicos": [
@@ -9024,7 +9037,8 @@
       "data": "2026-09-15",
       "descricao": "ACESSO A MAQUINA DO PETT PARA INSTALAR O CERTIFICADO DIGITAL/ ACESSO AO PAINEL DO GOOGLE WORKSPACE PARA CONTRATAÇÃO DO ACESSO AMPLIADO IA PARA O LEANDRO",
       "horas": 1,
-      "valor": 130
+      "valor": 130,
+      "nota_id": 104
     }
   ],
   "contratos": [
@@ -16675,7 +16689,7 @@
   "seq": {
     "cli": 23,
     "ag": 1086,
-    "nota": 104,
+    "nota": 105,
     "serv": 64,
     "ct": 8,
     "cob": 7,
