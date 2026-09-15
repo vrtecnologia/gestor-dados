@@ -9474,6 +9474,27 @@
         }
       ],
       "id": 14
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-15",
+      "numero": "15092026",
+      "cliente_id": "",
+      "pag_nome": "Michelli Ordalhy",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO MICHELLI ORDALHY NO DIA 15/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-15",
+          "desc": "Formatacao de notebook",
+          "qtd": "2",
+          "valor": 340
+        }
+      ],
+      "id": 15
     }
   ],
   "equipamentos": [
@@ -16706,7 +16727,7 @@
     "serv": 64,
     "ct": 8,
     "cob": 7,
-    "rec": 15,
+    "rec": 16,
     "eq": 131,
     "ca": 548
   },
