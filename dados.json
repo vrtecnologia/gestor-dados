@@ -5292,7 +5292,7 @@
       "cliente_id": "",
       "inicio": "2026-09-16T09:00",
       "fim": "2026-09-16T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -5314,7 +5314,7 @@
       "cliente_id": "",
       "inicio": "2026-09-16T09:00",
       "fim": "2026-09-16T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -14558,7 +14558,7 @@
       "nome": "EMPRESTIMO ML",
       "valor": 202.52,
       "venc": "2026-09-16",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "agendamento_id": 906,
       "categoria": "EMPRESTIMO"
@@ -14582,7 +14582,7 @@
       "nome": "EMPRESTIMO ML 2",
       "valor": 24.56,
       "venc": "2026-09-16",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "agendamento_id": 908,
       "categoria": "EMPRESTIMO"
