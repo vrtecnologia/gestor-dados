@@ -9017,6 +9017,14 @@
       "descricao": "ACESSO A NATALIA DA FATO CONTABIL PARA CONFIGURAR ACESSO REMOTO AO SERVIDOR DO VBS",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 63,
+      "cliente_id": "4",
+      "data": "2026-09-15",
+      "descricao": "ACESSO A MAQUINA DO PETT PARA INSTALAR O CERTIFICADO DIGITAL/ ACESSO AO PAINEL DO GOOGLE WORKSPACE PARA CONTRATAÇÃO DO ACESSO AMPLIADO IA PARA O LEANDRO",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -16668,7 +16676,7 @@
     "cli": 23,
     "ag": 1086,
     "nota": 104,
-    "serv": 63,
+    "serv": 64,
     "ct": 8,
     "cob": 7,
     "rec": 15,
