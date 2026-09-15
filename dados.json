@@ -7226,6 +7226,18 @@
       "descricao": "",
       "id": 1085,
       "origem": "app"
+    },
+    {
+      "titulo": "Bia Recreio",
+      "cliente_id": null,
+      "inicio": "2026-09-16T14:00",
+      "fim": "2026-09-16T15:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1086,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -16689,7 +16701,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1086,
+    "ag": 1087,
     "nota": 105,
     "serv": 64,
     "ct": 8,
