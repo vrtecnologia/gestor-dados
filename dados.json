@@ -2762,7 +2762,7 @@
       "cliente_id": "",
       "inicio": "2026-09-19T09:00",
       "fim": "2026-09-19T09:30",
-      "status": "agendado",
+      "status": "pago",
       "origem": "app"
     },
     {
@@ -11858,7 +11858,7 @@
       "nome": "PRESTAÇÃO APT CAIXA",
       "valor": 450,
       "venc": "2026-09-19",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "agendamento_id": 676
     },
