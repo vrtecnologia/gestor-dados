@@ -9491,6 +9491,14 @@
       "descricao": "ACESSO A MAQUINA DO TADEU PARA RECONFIGURAR O GOOGLE DRIVE",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 68,
+      "cliente_id": "2",
+      "data": "2026-09-16",
+      "descricao": "BLOQUEIO DA MAQUINA DO CUBA NO GOOGLE DRIVE",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -17597,7 +17605,7 @@
     "cli": 23,
     "ag": 1124,
     "nota": 105,
-    "serv": 68,
+    "serv": 69,
     "ct": 8,
     "cob": 7,
     "rec": 16,
