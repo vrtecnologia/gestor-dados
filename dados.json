@@ -9459,6 +9459,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 104
+    },
+    {
+      "id": 64,
+      "cliente_id": "2",
+      "data": "2026-09-14",
+      "descricao": "REMOÇÃO DE DISPOSITIVOS ATIVADOS COM O GOOGLE DRIVE ARTE@ QUE NAO ACESSAM A MAIS DE 60 DIAS",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -17565,7 +17573,7 @@
     "cli": 23,
     "ag": 1124,
     "nota": 105,
-    "serv": 64,
+    "serv": 65,
     "ct": 8,
     "cob": 7,
     "rec": 16,
