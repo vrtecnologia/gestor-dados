@@ -9499,6 +9499,14 @@
       "descricao": "BLOQUEIO DA MAQUINA DO CUBA NO GOOGLE DRIVE",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 69,
+      "cliente_id": "4",
+      "data": "2026-09-16",
+      "descricao": "IDA A PETTCAPELLATO PARA CONFIGURAR IMPRESSORA EPSON / ACESSO A PATRICIA PARA SOLUCIONAR FALHA NO OUTLOOK E ACESSO A  JULIANA BRANDAO PARA CONFIGURAÇÃO DO USUARIO COMERCIAL PARA USO DO ARQUITETURA",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -17605,7 +17613,7 @@
     "cli": 23,
     "ag": 1124,
     "nota": 105,
-    "serv": 69,
+    "serv": 70,
     "ct": 8,
     "cob": 7,
     "rec": 16,
