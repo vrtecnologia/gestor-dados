@@ -9467,6 +9467,14 @@
       "descricao": "REMOÇÃO DE DISPOSITIVOS ATIVADOS COM O GOOGLE DRIVE ARTE@ QUE NAO ACESSAM A MAIS DE 60 DIAS",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 65,
+      "cliente_id": "2",
+      "data": "2026-09-12",
+      "descricao": "VERIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
+      "horas": 2,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -17573,7 +17581,7 @@
     "cli": 23,
     "ag": 1124,
     "nota": 105,
-    "serv": 65,
+    "serv": 66,
     "ct": 8,
     "cob": 7,
     "rec": 16,
