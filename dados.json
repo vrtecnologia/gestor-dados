@@ -7238,6 +7238,18 @@
       "descricao": "",
       "id": 1086,
       "origem": "app"
+    },
+    {
+      "titulo": "Reuniao Cintia Colegio Millena",
+      "cliente_id": null,
+      "inicio": "2026-09-24T08:00",
+      "fim": "2026-09-24T09:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1087,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -16723,7 +16735,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1087,
+    "ag": 1088,
     "nota": 105,
     "serv": 64,
     "ct": 8,
