@@ -7658,6 +7658,18 @@
       "descricao": "",
       "id": 1124,
       "origem": "app"
+    },
+    {
+      "titulo": "GUSTAVO ESCRITORIO JULIO TERONI",
+      "cliente_id": null,
+      "inicio": "2026-09-21T13:00",
+      "fim": "2026-09-21T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1125,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17638,7 +17650,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1125,
+    "ag": 1126,
     "nota": 106,
     "serv": 70,
     "ct": 8,
