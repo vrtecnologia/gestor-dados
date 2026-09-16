@@ -9483,6 +9483,14 @@
       "descricao": "ANÁLISE PONTUAL DE INTEGRIDADE DE ACESSOS E LICENCIAMENTO NO GOOGLE WORKSPACE E MICROSOFT 365",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 67,
+      "cliente_id": "2",
+      "data": "2026-09-16",
+      "descricao": "ACESSO A MAQUINA DO TADEU PARA RECONFIGURAR O GOOGLE DRIVE",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -17589,7 +17597,7 @@
     "cli": 23,
     "ag": 1124,
     "nota": 105,
-    "serv": 67,
+    "serv": 68,
     "ct": 8,
     "cob": 7,
     "rec": 16,
