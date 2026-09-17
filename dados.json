@@ -1146,17 +1146,6 @@
       "origem": "app"
     },
     {
-      "id": 532,
-      "tipo": "conta",
-      "conta_id": 1,
-      "titulo": "ACORDO SANTANDER – R$ 220.96",
-      "cliente_id": "",
-      "inicio": "2026-09-15T09:00",
-      "fim": "2026-09-15T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 533,
       "tipo": "conta",
       "conta_id": 2,
@@ -1374,17 +1363,6 @@
       "inicio": "2028-05-15T09:00",
       "fim": "2028-05-15T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 553,
-      "tipo": "conta",
-      "conta_id": 22,
-      "titulo": "CONDOMINIO – R$ 478.00",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -1641,17 +1619,6 @@
       "origem": "app"
     },
     {
-      "id": 577,
-      "tipo": "conta",
-      "conta_id": 46,
-      "titulo": "SAVECAR - SEGURO FORD KA – R$ 268.54",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 578,
       "tipo": "conta",
       "conta_id": 47,
@@ -1902,17 +1869,6 @@
       "inicio": "2028-08-10T09:00",
       "fim": "2028-08-10T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 601,
-      "tipo": "conta",
-      "conta_id": 70,
-      "titulo": "ACORDO NUBANK – R$ 191.11",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -2268,17 +2224,6 @@
       "origem": "app"
     },
     {
-      "id": 634,
-      "tipo": "conta",
-      "conta_id": 103,
-      "titulo": "CARRO – R$ 1073.23",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 635,
       "tipo": "conta",
       "conta_id": 104,
@@ -2485,17 +2430,6 @@
       "inicio": "2028-04-10T09:00",
       "fim": "2028-04-10T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 654,
-      "tipo": "conta",
-      "conta_id": 123,
-      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
-      "cliente_id": "",
-      "inicio": "2026-09-12T09:00",
-      "fim": "2026-09-12T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -2727,17 +2661,6 @@
       "inicio": "2028-06-12T09:00",
       "fim": "2028-06-12T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 676,
-      "tipo": "conta",
-      "conta_id": 145,
-      "titulo": "PRESTAÇÃO APT CAIXA – R$ 450.00",
-      "cliente_id": "",
-      "inicio": "2026-09-19T09:00",
-      "fim": "2026-09-19T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -3390,17 +3313,6 @@
       "origem": "app"
     },
     {
-      "id": 736,
-      "tipo": "conta",
-      "conta_id": 205,
-      "titulo": "CARTAO INTER – R$ 1500.00",
-      "cliente_id": "",
-      "inicio": "2026-09-05T09:00",
-      "fim": "2026-09-05T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 737,
       "tipo": "conta",
       "conta_id": 206,
@@ -3651,17 +3563,6 @@
       "inicio": "2028-08-05T09:00",
       "fim": "2028-08-05T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 760,
-      "tipo": "conta",
-      "conta_id": 229,
-      "titulo": "CARTAO ITI – R$ 900.00",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -3918,17 +3819,6 @@
       "origem": "app"
     },
     {
-      "id": 784,
-      "tipo": "conta",
-      "conta_id": 253,
-      "titulo": "CARTAO ITAU VISA – R$ 400.00",
-      "cliente_id": "",
-      "inicio": "2026-09-21T09:00",
-      "fim": "2026-09-21T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 785,
       "tipo": "conta",
       "conta_id": 254,
@@ -4182,17 +4072,6 @@
       "origem": "app"
     },
     {
-      "id": 808,
-      "tipo": "conta",
-      "conta_id": 277,
-      "titulo": "CARTAO ITAU MASTER – R$ 170.00",
-      "cliente_id": "",
-      "inicio": "2026-09-17T09:00",
-      "fim": "2026-09-17T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 809,
       "tipo": "conta",
       "conta_id": 278,
@@ -4443,17 +4322,6 @@
       "inicio": "2028-08-17T09:00",
       "fim": "2028-08-17T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 832,
-      "tipo": "conta",
-      "conta_id": 301,
-      "titulo": "CARTAO CASAS BAHIA – R$ 469.89",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -5238,39 +5106,6 @@
       "origem": "app"
     },
     {
-      "id": 904,
-      "tipo": "conta",
-      "conta_id": 373,
-      "titulo": "EMPRESTIMO 99 – R$ 759.81",
-      "cliente_id": "",
-      "inicio": "2026-09-15T09:00",
-      "fim": "2026-09-15T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
-      "id": 905,
-      "tipo": "conta",
-      "conta_id": 374,
-      "titulo": "EMPRESTIMO 99 – R$ 759.81",
-      "cliente_id": "",
-      "inicio": "2026-10-15T09:00",
-      "fim": "2026-10-15T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
-      "id": 906,
-      "tipo": "conta",
-      "conta_id": 375,
-      "titulo": "EMPRESTIMO ML – R$ 202.52",
-      "cliente_id": "",
-      "inicio": "2026-09-16T09:00",
-      "fim": "2026-09-16T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 907,
       "tipo": "conta",
       "conta_id": 376,
@@ -5279,17 +5114,6 @@
       "inicio": "2026-10-16T09:00",
       "fim": "2026-10-16T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 908,
-      "tipo": "conta",
-      "conta_id": 377,
-      "titulo": "EMPRESTIMO ML 2 – R$ 24.56",
-      "cliente_id": "",
-      "inicio": "2026-09-16T09:00",
-      "fim": "2026-09-16T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -5312,17 +5136,6 @@
       "inicio": "2026-11-16T09:00",
       "fim": "2026-11-16T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 912,
-      "tipo": "conta",
-      "conta_id": 381,
-      "titulo": "NATURGY – R$ 94.66",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -5576,17 +5389,6 @@
       "inicio": "2028-08-10T09:00",
       "fim": "2028-08-10T09:30",
       "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 936,
-      "tipo": "conta",
-      "conta_id": 405,
-      "titulo": "CELULARES – R$ 135.80",
-      "cliente_id": "",
-      "inicio": "2026-09-12T09:00",
-      "fim": "2026-09-12T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -6107,17 +5909,6 @@
       "origem": "app"
     },
     {
-      "id": 984,
-      "tipo": "conta",
-      "conta_id": 453,
-      "titulo": "CARTAO C&A PAY – R$ 180.52",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
-      "origem": "app"
-    },
-    {
       "id": 985,
       "tipo": "conta",
       "conta_id": 454,
@@ -6624,17 +6415,6 @@
       "local": "",
       "descricao": "",
       "id": 1032,
-      "origem": "app"
-    },
-    {
-      "id": 1033,
-      "tipo": "conta",
-      "conta_id": 499,
-      "titulo": "LUCIENE PSICOLOGA MILLENA PRIMEIRA 15 – R$ 100.00",
-      "cliente_id": "",
-      "inicio": "2026-09-10T09:00",
-      "fim": "2026-09-10T09:30",
-      "status": "pago",
       "origem": "app"
     },
     {
@@ -9544,6 +9324,14 @@
       "horas": 2,
       "valor": 340,
       "nota_id": 105
+    },
+    {
+      "id": 70,
+      "cliente_id": "2",
+      "data": "2026-09-17",
+      "descricao": "IDA A XMARKETING PARA SOLUCIONAR A MAQUINA DA TAIANE/CONFIGURAÇÃO DO EMAIL DA TAINAH",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -10748,7 +10536,7 @@
       "venc": "2026-09-15",
       "status": "pago",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 532,
+      "agendamento_id": null,
       "categoria": "ACORDO"
     },
     {
@@ -11000,7 +10788,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "PROTEST",
-      "agendamento_id": 553
+      "agendamento_id": null
     },
     {
       "id": 23,
@@ -11264,7 +11052,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 577
+      "agendamento_id": null
     },
     {
       "id": 47,
@@ -11528,7 +11316,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 601,
+      "agendamento_id": null,
       "categoria": "ACORDO"
     },
     {
@@ -11924,7 +11712,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 634
+      "agendamento_id": null
     },
     {
       "id": 104,
@@ -12144,7 +11932,7 @@
       "venc": "2026-09-12",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 654,
+      "agendamento_id": null,
       "categoria": "ACORDO"
     },
     {
@@ -12408,7 +12196,7 @@
       "venc": "2026-09-19",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 676
+      "agendamento_id": null
     },
     {
       "id": 146,
@@ -13068,7 +12856,7 @@
       "venc": "2026-09-05",
       "status": "pago",
       "obs": "VARIAVEL",
-      "agendamento_id": 736,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
@@ -13356,7 +13144,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "VARIAVEL - CONFERIR",
-      "agendamento_id": 760,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
@@ -13644,7 +13432,7 @@
       "venc": "2026-09-21",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 784,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
@@ -13932,7 +13720,7 @@
       "venc": "2026-09-17",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 808,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
@@ -14220,7 +14008,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 832,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
@@ -15084,7 +14872,7 @@
       "venc": "2026-09-15",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 904,
+      "agendamento_id": null,
       "categoria": "EMPRESTIMO"
     },
     {
@@ -15096,7 +14884,7 @@
       "venc": "2026-10-15",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 905,
+      "agendamento_id": null,
       "categoria": "EMPRESTIMO"
     },
     {
@@ -15108,7 +14896,7 @@
       "venc": "2026-09-16",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 906,
+      "agendamento_id": null,
       "categoria": "EMPRESTIMO"
     },
     {
@@ -15132,7 +14920,7 @@
       "venc": "2026-09-16",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 908,
+      "agendamento_id": null,
       "categoria": "EMPRESTIMO"
     },
     {
@@ -15168,7 +14956,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 912
+      "agendamento_id": null
     },
     {
       "id": 382,
@@ -15432,7 +15220,7 @@
       "venc": "2026-09-12",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 936,
+      "agendamento_id": null,
       "categoria": ""
     },
     {
@@ -15984,7 +15772,7 @@
       "venc": "2026-09-10",
       "status": "pago",
       "obs": "",
-      "agendamento_id": 984,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
@@ -16513,7 +16301,7 @@
       "status": "pago",
       "obs": "",
       "categoria": "",
-      "agendamento_id": 1033
+      "agendamento_id": null
     },
     {
       "id": 500,
@@ -17651,7 +17439,7 @@
     "cli": 23,
     "ag": 1129,
     "nota": 106,
-    "serv": 70,
+    "serv": 71,
     "ct": 8,
     "cob": 7,
     "rec": 16,
