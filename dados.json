@@ -1075,18 +1075,6 @@
       "origem": "app"
     },
     {
-      "titulo": "LUCIA ABDUCHE",
-      "cliente_id": null,
-      "inicio": "2026-08-24T09:00",
-      "fim": "2026-08-24T10:00",
-      "valor": 0,
-      "status": "agendado",
-      "local": "",
-      "descricao": "",
-      "id": 523,
-      "origem": "app"
-    },
-    {
       "titulo": "Andreia Pett",
       "cliente_id": "4",
       "inicio": "2026-08-26T09:00",
@@ -7213,18 +7201,6 @@
       "local": "",
       "descricao": "",
       "id": 1084,
-      "origem": "app"
-    },
-    {
-      "titulo": "Lucia Abduche",
-      "cliente_id": null,
-      "inicio": "2026-09-17T09:00",
-      "fim": "2026-09-17T10:00",
-      "valor": 0,
-      "status": "agendado",
-      "local": "",
-      "descricao": "",
-      "id": 1085,
       "origem": "app"
     },
     {
