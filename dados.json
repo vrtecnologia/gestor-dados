@@ -553,19 +553,6 @@
       "recorrencia": "r1785714508285"
     },
     {
-      "id": 482,
-      "titulo": "Pafer",
-      "cliente_id": "1",
-      "inicio": "2026-09-18T08:00",
-      "fim": "2026-09-18T12:00",
-      "local": "",
-      "descricao": "",
-      "valor": 0,
-      "status": "agendado",
-      "origem": "app",
-      "recorrencia": "r1785714508285"
-    },
-    {
       "id": 483,
       "titulo": "Pafer",
       "cliente_id": "1",
