@@ -4842,17 +4842,6 @@
       "origem": "app"
     },
     {
-      "id": 880,
-      "tipo": "conta",
-      "conta_id": 349,
-      "titulo": "CARTAO CARREFOUR – R$ 522.49",
-      "cliente_id": "",
-      "inicio": "2026-09-21T09:00",
-      "fim": "2026-09-21T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 881,
       "tipo": "conta",
       "conta_id": 350,
@@ -14582,9 +14571,9 @@
       "nome": "CARTAO CARREFOUR",
       "valor": 522.49,
       "venc": "2026-09-21",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 880,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
