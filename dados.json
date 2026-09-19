@@ -7450,6 +7450,18 @@
       "descricao": "",
       "id": 1129,
       "origem": "app"
+    },
+    {
+      "titulo": "Inspeção Naturgy",
+      "cliente_id": null,
+      "inicio": "2026-09-30T12:00",
+      "fim": "2026-09-30T16:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1130,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17442,7 +17454,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1130,
+    "ag": 1131,
     "nota": 106,
     "serv": 71,
     "ct": 8,
