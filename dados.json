@@ -7484,6 +7484,17 @@
       "fim": "2026-10-19T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 1133,
+      "tipo": "conta",
+      "conta_id": 586,
+      "titulo": "SEGURO AEROX – R$ 262.78",
+      "cliente_id": "",
+      "inicio": "2026-11-18T09:00",
+      "fim": "2026-11-18T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17378,6 +17389,18 @@
       "obs": "",
       "categoria": "",
       "agendamento_id": 1132
+    },
+    {
+      "id": 586,
+      "grupo": "",
+      "eterna": false,
+      "nome": "SEGURO AEROX",
+      "valor": 262.78,
+      "venc": "2026-11-18",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1133
     }
   ],
   "receber_recebidos": [
@@ -17522,14 +17545,14 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1133,
+    "ag": 1134,
     "nota": 106,
     "serv": 71,
     "ct": 8,
     "cob": 7,
     "rec": 17,
     "eq": 131,
-    "ca": 586
+    "ca": 587
   },
   "_recAte31Ago": true
 }
