@@ -7605,6 +7605,18 @@
       "fim": "2027-07-16T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "titulo": "Claudia confirmar visita",
+      "cliente_id": null,
+      "inicio": "2026-09-21T09:00",
+      "fim": "2026-09-21T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1144,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17775,7 +17787,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1144,
+    "ag": 1145,
     "nota": 106,
     "serv": 71,
     "ct": 8,
