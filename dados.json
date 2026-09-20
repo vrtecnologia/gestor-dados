@@ -9789,6 +9789,27 @@
         }
       ],
       "id": 15
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-18",
+      "numero": "18092026",
+      "cliente_id": "",
+      "pag_nome": "BIA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO BIA NO DIA 18/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-18",
+          "desc": "SERVICO DE INFORMATICA",
+          "qtd": "1",
+          "valor": 170
+        }
+      ],
+      "id": 16
     }
   ],
   "equipamentos": [
@@ -17459,7 +17480,7 @@
     "serv": 71,
     "ct": 8,
     "cob": 7,
-    "rec": 16,
+    "rec": 17,
     "eq": 131,
     "ca": 584
   },
