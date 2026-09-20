@@ -7495,6 +7495,116 @@
       "fim": "2026-11-18T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "id": 1134,
+      "tipo": "conta",
+      "conta_id": 587,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2026-10-16T09:00",
+      "fim": "2026-10-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1135,
+      "tipo": "conta",
+      "conta_id": 588,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2026-11-16T09:00",
+      "fim": "2026-11-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1136,
+      "tipo": "conta",
+      "conta_id": 589,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2026-12-16T09:00",
+      "fim": "2026-12-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1137,
+      "tipo": "conta",
+      "conta_id": 590,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2027-01-16T09:00",
+      "fim": "2027-01-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1138,
+      "tipo": "conta",
+      "conta_id": 591,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2027-02-16T09:00",
+      "fim": "2027-02-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1139,
+      "tipo": "conta",
+      "conta_id": 592,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2027-03-16T09:00",
+      "fim": "2027-03-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1140,
+      "tipo": "conta",
+      "conta_id": 593,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2027-04-16T09:00",
+      "fim": "2027-04-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1141,
+      "tipo": "conta",
+      "conta_id": 594,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2027-05-16T09:00",
+      "fim": "2027-05-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1142,
+      "tipo": "conta",
+      "conta_id": 595,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2027-06-16T09:00",
+      "fim": "2027-06-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1143,
+      "tipo": "conta",
+      "conta_id": 596,
+      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
+      "cliente_id": "",
+      "inicio": "2027-07-16T09:00",
+      "fim": "2027-07-16T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17401,6 +17511,126 @@
       "obs": "",
       "categoria": "",
       "agendamento_id": 1133
+    },
+    {
+      "id": 587,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2026-10-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1134
+    },
+    {
+      "id": 588,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2026-11-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1135
+    },
+    {
+      "id": 589,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2026-12-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1136
+    },
+    {
+      "id": 590,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2027-01-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1137
+    },
+    {
+      "id": 591,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2027-02-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1138
+    },
+    {
+      "id": 592,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2027-03-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1139
+    },
+    {
+      "id": 593,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2027-04-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1140
+    },
+    {
+      "id": 594,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2027-05-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1141
+    },
+    {
+      "id": 595,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2027-06-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1142
+    },
+    {
+      "id": 596,
+      "grupo": "g1789900228527",
+      "eterna": false,
+      "nome": "SEGURO MELETRICA - KAMILLE",
+      "valor": 81,
+      "venc": "2027-07-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1143
     }
   ],
   "receber_recebidos": [
@@ -17545,14 +17775,14 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1134,
+    "ag": 1144,
     "nota": 106,
     "serv": 71,
     "ct": 8,
     "cob": 7,
     "rec": 17,
     "eq": 131,
-    "ca": 587
+    "ca": 597
   },
   "_recAte31Ago": true
 }
