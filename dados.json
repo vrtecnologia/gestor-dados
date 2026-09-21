@@ -7442,17 +7442,6 @@
       "origem": "app"
     },
     {
-      "id": 1131,
-      "tipo": "conta",
-      "conta_id": 584,
-      "titulo": "SEGURO AEROX – R$ 262.77",
-      "cliente_id": "",
-      "inicio": "2026-09-23T09:00",
-      "fim": "2026-09-23T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 1132,
       "tipo": "conta",
       "conta_id": 585,
@@ -17502,10 +17491,10 @@
       "nome": "SEGURO AEROX",
       "valor": 262.77,
       "venc": "2026-09-23",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "",
-      "agendamento_id": 1131
+      "agendamento_id": null
     },
     {
       "id": 585,
