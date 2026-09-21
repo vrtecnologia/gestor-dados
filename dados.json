@@ -4578,17 +4578,6 @@
       "origem": "app"
     },
     {
-      "id": 856,
-      "tipo": "conta",
-      "conta_id": 325,
-      "titulo": "CARTAO MERCADO PAGO – R$ 1300.00",
-      "cliente_id": "",
-      "inicio": "2026-09-23T09:00",
-      "fim": "2026-09-23T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 857,
       "tipo": "conta",
       "conta_id": 326,
@@ -14483,9 +14472,9 @@
       "nome": "CARTAO MERCADO PAGO",
       "valor": 1300,
       "venc": "2026-09-23",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 856,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
