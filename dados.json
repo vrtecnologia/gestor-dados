@@ -9962,6 +9962,27 @@
         }
       ],
       "id": 16
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-21",
+      "numero": "21092026",
+      "cliente_id": "",
+      "pag_nome": "TIO RENATO",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO TIO RENATO NO DIA 21/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-21",
+          "desc": "SERVIÇO DE INFROMATICA",
+          "qtd": "1",
+          "valor": 150
+        }
+      ],
+      "id": 17
     }
   ],
   "equipamentos": [
@@ -17790,7 +17811,7 @@
     "serv": 72,
     "ct": 8,
     "cob": 7,
-    "rec": 17,
+    "rec": 18,
     "eq": 131,
     "ca": 597
   },
