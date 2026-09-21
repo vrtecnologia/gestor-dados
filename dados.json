@@ -9489,6 +9489,14 @@
       "descricao": "IDA A XMARKETING PARA SOLUCIONAR A MAQUINA DA TAIANE/CONFIGURAÇÃO DO EMAIL DA TAINAH",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 71,
+      "cliente_id": "2",
+      "data": "2026-09-21",
+      "descricao": "Reconexao do google drive felipe",
+      "horas": 0,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -17779,7 +17787,7 @@
     "cli": 23,
     "ag": 1145,
     "nota": 106,
-    "serv": 71,
+    "serv": 72,
     "ct": 8,
     "cob": 7,
     "rec": 17,
