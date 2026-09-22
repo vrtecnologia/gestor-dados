@@ -9464,6 +9464,14 @@
       "descricao": "Reconexao do google drive felipe",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 72,
+      "cliente_id": "4",
+      "data": "2026-09-22",
+      "descricao": "TROCA DA BATERIA DA MAQUINA DA CLAUDIA",
+      "horas": 1,
+      "valor": 170
     }
   ],
   "contratos": [
@@ -17777,7 +17785,7 @@
     "cli": 23,
     "ag": 1145,
     "nota": 106,
-    "serv": 72,
+    "serv": 73,
     "ct": 8,
     "cob": 7,
     "rec": 18,
