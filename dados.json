@@ -9486,6 +9486,14 @@
       "horas": 1,
       "valor": 170,
       "nota_id": 106
+    },
+    {
+      "id": 73,
+      "cliente_id": "4",
+      "data": "2026-09-22",
+      "descricao": "SERVIÇO REMOTO NA MAQUINA DA CAROL - REINSTALAÇÃO DO JAVA",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -17799,7 +17807,7 @@
     "cli": 23,
     "ag": 1145,
     "nota": 107,
-    "serv": 73,
+    "serv": 74,
     "ct": 8,
     "cob": 7,
     "rec": 18,
