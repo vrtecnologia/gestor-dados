@@ -6041,17 +6041,6 @@
       "origem": "app"
     },
     {
-      "id": 1000,
-      "tipo": "conta",
-      "conta_id": 469,
-      "titulo": "MEI KAMILLE E VINICIUS – R$ 170.00",
-      "cliente_id": "",
-      "inicio": "2026-09-20T09:00",
-      "fim": "2026-09-20T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 1001,
       "tipo": "conta",
       "conta_id": 470,
@@ -16147,10 +16136,10 @@
       "nome": "MEI KAMILLE E VINICIUS",
       "valor": 170,
       "venc": "2026-09-20",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "MEI",
-      "agendamento_id": 1000
+      "agendamento_id": null
     },
     {
       "id": 470,
