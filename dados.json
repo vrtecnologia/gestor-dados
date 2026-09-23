@@ -7597,6 +7597,18 @@
       "descricao": "",
       "id": 1146,
       "origem": "app"
+    },
+    {
+      "titulo": "VISTORIA NATURGY",
+      "cliente_id": null,
+      "inicio": "2026-09-25T09:00",
+      "fim": "2026-09-25T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1147,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17873,7 +17885,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1147,
+    "ag": 1148,
     "nota": 108,
     "serv": 75,
     "ct": 8,
