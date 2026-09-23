@@ -7601,8 +7601,8 @@
     {
       "titulo": "VISTORIA NATURGY",
       "cliente_id": null,
-      "inicio": "2026-09-25T09:00",
-      "fim": "2026-09-25T10:00",
+      "inicio": "2026-10-01T09:00",
+      "fim": "2026-10-01T10:00",
       "valor": 0,
       "status": "agendado",
       "local": "",
