@@ -7585,6 +7585,18 @@
       "descricao": "",
       "id": 1145,
       "origem": "app"
+    },
+    {
+      "titulo": "GINA",
+      "cliente_id": null,
+      "inicio": "2026-09-24T10:30",
+      "fim": "2026-09-24T11:30",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1146,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17861,7 +17873,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1146,
+    "ag": 1147,
     "nota": 108,
     "serv": 75,
     "ct": 8,
