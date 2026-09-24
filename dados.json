@@ -10099,6 +10099,27 @@
         }
       ],
       "id": 18
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-24",
+      "numero": "24092026",
+      "cliente_id": "",
+      "pag_nome": "Gina",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO GINA NO DIA 24/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-24",
+          "desc": "Instalacao de ssd. Troca de fonte e etc",
+          "qtd": "1",
+          "valor": 820
+        }
+      ],
+      "id": 19
     }
   ],
   "equipamentos": [
@@ -17930,7 +17951,7 @@
     "serv": 78,
     "ct": 8,
     "cob": 7,
-    "rec": 19,
+    "rec": 20,
     "eq": 131,
     "ca": 597
   },
