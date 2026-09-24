@@ -9560,6 +9560,14 @@
       "descricao": "SERVIÇO REMOTO COM A FRANCINE - GESTÃO DO GOOGLE DRIVE",
       "horas": 2,
       "valor": 260
+    },
+    {
+      "id": 76,
+      "cliente_id": "22",
+      "data": "2026-09-24",
+      "descricao": "ATENDIMENTO PRESENCIAL - REORGANIZAÇÃO DOS COMPUTADORES E EXPORTAÇÃO DE CONTATOS DOS GOOGLE DRIVES",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -17895,7 +17903,7 @@
     "cli": 23,
     "ag": 1148,
     "nota": 108,
-    "serv": 76,
+    "serv": 77,
     "ct": 8,
     "cob": 7,
     "rec": 19,
