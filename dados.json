@@ -8965,10 +8965,10 @@
         76
       ],
       "cliente_id": "22",
-      "numero_nfse": "",
+      "numero_nfse": "459",
       "valor": 600,
       "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
+      "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 65949862000100\nNOME: NOON ARQUITETURA\nVALOR: R$ 600.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  23/09/2026 - SERVIÇO REMOTO COM A FRANCINE - GESTÃO DO GOOGLE DRIVE - R$ 260.00\n  24/09/2026 - ATENDIMENTO PRESENCIAL - REORGANIZAÇÃO DOS COMPUTADORES E EXPORTAÇÃO DE CONTATOS DOS GOOGLE DRIVES - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-24"
     }
