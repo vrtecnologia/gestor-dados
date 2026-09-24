@@ -8957,6 +8957,20 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  22/09/2026 - SERVIÇO REMOTO NA MAQUINA DA CAROL - REINSTALAÇÃO DO JAVA - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-22"
+    },
+    {
+      "id": 108,
+      "servico_ids": [
+        75,
+        76
+      ],
+      "cliente_id": "22",
+      "numero_nfse": "",
+      "valor": 600,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 65949862000100\nNOME: NOON ARQUITETURA\nVALOR: R$ 600.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  23/09/2026 - SERVIÇO REMOTO COM A FRANCINE - GESTÃO DO GOOGLE DRIVE - R$ 260.00\n  24/09/2026 - ATENDIMENTO PRESENCIAL - REORGANIZAÇÃO DOS COMPUTADORES E EXPORTAÇÃO DE CONTATOS DOS GOOGLE DRIVES - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-24"
     }
   ],
   "servicos": [
@@ -9559,7 +9573,8 @@
       "data": "2026-09-23",
       "descricao": "SERVIÇO REMOTO COM A FRANCINE - GESTÃO DO GOOGLE DRIVE",
       "horas": 2,
-      "valor": 260
+      "valor": 260,
+      "nota_id": 108
     },
     {
       "id": 76,
@@ -9567,7 +9582,8 @@
       "data": "2026-09-24",
       "descricao": "ATENDIMENTO PRESENCIAL - REORGANIZAÇÃO DOS COMPUTADORES E EXPORTAÇÃO DE CONTATOS DOS GOOGLE DRIVES",
       "horas": 2,
-      "valor": 340
+      "valor": 340,
+      "nota_id": 108
     }
   ],
   "contratos": [
@@ -17902,7 +17918,7 @@
   "seq": {
     "cli": 23,
     "ag": 1148,
-    "nota": 108,
+    "nota": 109,
     "serv": 77,
     "ct": 8,
     "cob": 7,
