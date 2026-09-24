@@ -9584,6 +9584,14 @@
       "horas": 2,
       "valor": 340,
       "nota_id": 108
+    },
+    {
+      "id": 77,
+      "cliente_id": "2",
+      "data": "2026-09-24",
+      "descricao": "ATENDIMENTO REMOTO AO FELIPE - PROBLEMA PARA ABRIR ARQUIVO DE EXTENSAO HEIC",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -17919,7 +17927,7 @@
     "cli": 23,
     "ag": 1148,
     "nota": 109,
-    "serv": 77,
+    "serv": 78,
     "ct": 8,
     "cob": 7,
     "rec": 19,
