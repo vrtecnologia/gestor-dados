@@ -7610,6 +7610,18 @@
       "descricao": "",
       "id": 1148,
       "origem": "app"
+    },
+    {
+      "titulo": "RIOFARMES",
+      "cliente_id": null,
+      "inicio": "2026-10-05T10:00",
+      "fim": "2026-10-05T11:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1149,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17948,7 +17960,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1149,
+    "ag": 1150,
     "nota": 109,
     "serv": 78,
     "ct": 8,
