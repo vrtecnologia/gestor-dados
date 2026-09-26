@@ -10133,6 +10133,27 @@
         }
       ],
       "id": 19
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-26",
+      "numero": "26092026",
+      "cliente_id": "",
+      "pag_nome": "Andreia",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO ANDREIA NO DIA 26/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-26",
+          "desc": "Ativacao autocad",
+          "qtd": "1",
+          "valor": 130
+        }
+      ],
+      "id": 20
     }
   ],
   "equipamentos": [
@@ -17965,7 +17986,7 @@
     "serv": 78,
     "ct": 8,
     "cob": 7,
-    "rec": 20,
+    "rec": 21,
     "eq": 131,
     "ca": 597
   },
