@@ -7622,6 +7622,18 @@
       "descricao": "",
       "id": 1149,
       "origem": "app"
+    },
+    {
+      "titulo": "Clinderm Madureira",
+      "cliente_id": null,
+      "inicio": "2026-09-29T13:00",
+      "fim": "2026-09-29T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1150,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -17981,7 +17993,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1150,
+    "ag": 1151,
     "nota": 109,
     "serv": 78,
     "ct": 8,
