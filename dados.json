@@ -7408,10 +7408,10 @@
       "origem": "app"
     },
     {
-      "titulo": "Inspeção Naturgy",
+      "titulo": "Clinderm Barra",
       "cliente_id": null,
-      "inicio": "2026-09-30T12:00",
-      "fim": "2026-09-30T16:00",
+      "inicio": "2026-09-30T09:00",
+      "fim": "2026-09-30T13:00",
       "valor": 0,
       "status": "agendado",
       "local": "",
