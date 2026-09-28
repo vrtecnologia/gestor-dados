@@ -7622,6 +7622,18 @@
       "descricao": "",
       "id": 1149,
       "origem": "app"
+    },
+    {
+      "titulo": "MARCIA LEBLON",
+      "cliente_id": null,
+      "inicio": "2026-09-30T13:30",
+      "fim": "2026-09-30T14:30",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1151,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -18006,7 +18018,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1151,
+    "ag": 1152,
     "nota": 109,
     "serv": 78,
     "ct": 8,
