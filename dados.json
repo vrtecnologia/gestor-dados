@@ -10166,6 +10166,27 @@
         }
       ],
       "id": 20
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-28",
+      "numero": "28092026",
+      "cliente_id": "",
+      "pag_nome": "LELE",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO LELE NO DIA 28/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-28",
+          "desc": "INSTALAÇÃO DO FIRE TV",
+          "qtd": "1",
+          "valor": 170
+        }
+      ],
+      "id": 21
     }
   ],
   "equipamentos": [
@@ -18001,7 +18022,7 @@
     "serv": 78,
     "ct": 8,
     "cob": 7,
-    "rec": 21,
+    "rec": 22,
     "eq": 131,
     "ca": 597
   },
