@@ -7410,8 +7410,8 @@
     {
       "titulo": "Clinderm Barra",
       "cliente_id": null,
-      "inicio": "2026-09-30T09:00",
-      "fim": "2026-09-30T13:00",
+      "inicio": "2026-09-29T09:00",
+      "fim": "2026-09-29T13:00",
       "valor": 0,
       "status": "agendado",
       "local": "",
