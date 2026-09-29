@@ -9605,6 +9605,14 @@
       "descricao": "ATENDIMENTO REMOTO AO FELIPE - PROBLEMA PARA ABRIR ARQUIVO DE EXTENSAO HEIC",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 78,
+      "cliente_id": "19",
+      "data": "2026-09-29",
+      "descricao": "IDA A FARMERS PARA SOLUCIONAR PROBLEMAS NA WIFI",
+      "horas": 1,
+      "valor": 120
     }
   ],
   "contratos": [
@@ -18008,7 +18016,7 @@
     "cli": 23,
     "ag": 1152,
     "nota": 109,
-    "serv": 78,
+    "serv": 79,
     "ct": 8,
     "cob": 7,
     "rec": 22,
