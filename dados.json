@@ -8984,6 +8984,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 65949862000100\nNOME: NOON ARQUITETURA\nVALOR: R$ 600.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  23/09/2026 - SERVIÇO REMOTO COM A FRANCINE - GESTÃO DO GOOGLE DRIVE - R$ 260.00\n  24/09/2026 - ATENDIMENTO PRESENCIAL - REORGANIZAÇÃO DOS COMPUTADORES E EXPORTAÇÃO DE CONTATOS DOS GOOGLE DRIVES - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-24"
+    },
+    {
+      "id": 109,
+      "servico_ids": [
+        79
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  30/09/2026 - ACESSO A MAQUINA DA PATRICIA PARA SOLUCIONAR TRAVAMENTO DO OUTLOOK E GOOGLE DRIVE - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-30"
     }
   ],
   "servicos": [
@@ -9620,7 +9633,8 @@
       "data": "2026-09-30",
       "descricao": "ACESSO A MAQUINA DA PATRICIA PARA SOLUCIONAR TRAVAMENTO DO OUTLOOK E GOOGLE DRIVE",
       "horas": 1,
-      "valor": 130
+      "valor": 130,
+      "nota_id": 109
     }
   ],
   "contratos": [
@@ -18046,7 +18060,7 @@
   "seq": {
     "cli": 23,
     "ag": 1152,
-    "nota": 109,
+    "nota": 110,
     "serv": 80,
     "ct": 8,
     "cob": 7,
