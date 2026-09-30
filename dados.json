@@ -9613,6 +9613,14 @@
       "descricao": "IDA A FARMERS PARA SOLUCIONAR PROBLEMAS NA WIFI",
       "horas": 1,
       "valor": 120
+    },
+    {
+      "id": 79,
+      "cliente_id": "4",
+      "data": "2026-09-30",
+      "descricao": "ACESSO A MAQUINA DA PATRICIA PARA SOLUCIONAR TRAVAMENTO DO OUTLOOK E GOOGLE DRIVE",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -18039,7 +18047,7 @@
     "cli": 23,
     "ag": 1152,
     "nota": 109,
-    "serv": 79,
+    "serv": 80,
     "ct": 8,
     "cob": 7,
     "rec": 23,
