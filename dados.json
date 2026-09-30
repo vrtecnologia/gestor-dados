@@ -9635,6 +9635,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 109
+    },
+    {
+      "id": 80,
+      "cliente_id": "6",
+      "data": "2026-09-30",
+      "descricao": "ACESSO A MAQUINA DO MARCO SIQUEIRA PARA SOLUCIONAR FALHA DO ITAU E ATUALIZAÇÃO DO WINDOWS 11",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -18083,7 +18091,7 @@
     "cli": 23,
     "ag": 1152,
     "nota": 110,
-    "serv": 80,
+    "serv": 81,
     "ct": 8,
     "cob": 7,
     "rec": 24,
