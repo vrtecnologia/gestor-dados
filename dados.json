@@ -10226,6 +10226,27 @@
         }
       ],
       "id": 22
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-09-30",
+      "numero": "30092026-2",
+      "cliente_id": "",
+      "pag_nome": "WALDECIR",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO WALDECIR NO DIA 30/09/2026",
+      "itens": [
+        {
+          "data": "2026-09-30",
+          "desc": "ATUALIZAÇÃO DO WINDOWS 11",
+          "qtd": "1",
+          "valor": 130
+        }
+      ],
+      "id": 23
     }
   ],
   "equipamentos": [
@@ -18064,7 +18085,7 @@
     "serv": 80,
     "ct": 8,
     "cob": 7,
-    "rec": 23,
+    "rec": 24,
     "eq": 131,
     "ca": 597
   },
