@@ -8997,18 +8997,6 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  30/09/2026 - ACESSO A MAQUINA DA PATRICIA PARA SOLUCIONAR TRAVAMENTO DO OUTLOOK E GOOGLE DRIVE - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-30"
-    },
-    {
-      "id": 121,
-      "contrato_id": 4,
-      "competencia": "2026-09",
-      "cliente_id": "6",
-      "numero_nfse": "",
-      "valor": 2167.1,
-      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
-      "resumo": "TOMADOR (CNPJ): 41191027000196\nNOME: REM MARKETING LTDA\nVALOR: R$ 2167.10\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: 15/10/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
-      "emitida_em": "2026-09-30"
     }
   ],
   "servicos": [
@@ -9791,17 +9779,6 @@
       "status": "enviado",
       "valor": 400,
       "gerado_em": "2026-09-01"
-    },
-    {
-      "id": 18,
-      "contrato_id": 4,
-      "competencia": "2026-09",
-      "tipo": "nfse",
-      "status": "portal",
-      "nota_id": 121,
-      "numero_nfse": "",
-      "valor": 2167.1,
-      "gerado_em": "2026-09-30"
     }
   ],
   "recibos": [
