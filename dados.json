@@ -9021,30 +9021,6 @@
       "status": "portal",
       "resumo": "TOMADOR (CPF): 72460881720\nNOME: ELIZABETH\nVALOR: R$ 468.80\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: 05/10/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-30"
-    },
-    {
-      "id": 124,
-      "contrato_id": 3,
-      "competencia": "2026-09",
-      "cliente_id": "8",
-      "numero_nfse": "",
-      "valor": 430.5,
-      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
-      "resumo": "TOMADOR (CPF): 41271980797\nNOME: JORGE LUIZ GONCALVES BRAGA\nVALOR: R$ 430.50\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: 15/10/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
-      "emitida_em": "2026-09-30"
-    },
-    {
-      "id": 125,
-      "contrato_id": 4,
-      "competencia": "2026-09",
-      "cliente_id": "6",
-      "numero_nfse": "",
-      "valor": 2167.1,
-      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
-      "resumo": "TOMADOR (CNPJ): 41191027000196\nNOME: REM MARKETING LTDA\nVALOR: R$ 2167.10\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: 15/10/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
-      "emitida_em": "2026-09-30"
     }
   ],
   "servicos": [
@@ -9848,28 +9824,6 @@
       "nota_id": 123,
       "numero_nfse": "",
       "valor": 468.8,
-      "gerado_em": "2026-09-30"
-    },
-    {
-      "id": 21,
-      "contrato_id": 3,
-      "competencia": "2026-09",
-      "tipo": "nfse",
-      "status": "portal",
-      "nota_id": 124,
-      "numero_nfse": "",
-      "valor": 430.5,
-      "gerado_em": "2026-09-30"
-    },
-    {
-      "id": 22,
-      "contrato_id": 4,
-      "competencia": "2026-09",
-      "tipo": "nfse",
-      "status": "portal",
-      "nota_id": 125,
-      "numero_nfse": "",
-      "valor": 2167.1,
       "gerado_em": "2026-09-30"
     }
   ],
