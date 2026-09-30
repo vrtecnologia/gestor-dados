@@ -9871,6 +9871,33 @@
       "numero_nfse": "462",
       "valor": 2167.1,
       "gerado_em": "2026-09-30"
+    },
+    {
+      "id": 27,
+      "contrato_id": 5,
+      "competencia": "2026-09",
+      "tipo": "comunicado",
+      "status": "enviado",
+      "valor": 825,
+      "gerado_em": "2026-09-30"
+    },
+    {
+      "id": 28,
+      "contrato_id": 6,
+      "competencia": "2026-09",
+      "tipo": "comunicado",
+      "status": "enviado",
+      "valor": 400,
+      "gerado_em": "2026-09-30"
+    },
+    {
+      "id": 29,
+      "contrato_id": 7,
+      "competencia": "2026-09",
+      "tipo": "comunicado",
+      "status": "enviado",
+      "valor": 2750,
+      "gerado_em": "2026-09-30"
     }
   ],
   "recibos": [
@@ -18185,7 +18212,7 @@
     "nota": 130,
     "serv": 81,
     "ct": 8,
-    "cob": 27,
+    "cob": 30,
     "rec": 24,
     "eq": 131,
     "ca": 597
