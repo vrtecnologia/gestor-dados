@@ -8999,18 +8999,6 @@
       "emitida_em": "2026-09-30"
     },
     {
-      "id": 118,
-      "contrato_id": 1,
-      "competencia": "2026-09",
-      "cliente_id": "9",
-      "numero_nfse": "",
-      "valor": 860,
-      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
-      "status": "portal",
-      "resumo": "TOMADOR (CNPJ): 18695876000165\nNOME: CEM SERVICOS LTDA\nVALOR: R$ 860.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: 20/10/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
-      "emitida_em": "2026-09-30"
-    },
-    {
       "id": 119,
       "contrato_id": 2,
       "competencia": "2026-09",
@@ -9827,17 +9815,6 @@
       "status": "enviado",
       "valor": 400,
       "gerado_em": "2026-09-01"
-    },
-    {
-      "id": 15,
-      "contrato_id": 1,
-      "competencia": "2026-09",
-      "tipo": "nfse",
-      "status": "portal",
-      "nota_id": 118,
-      "numero_nfse": "",
-      "valor": 860,
-      "gerado_em": "2026-09-30"
     },
     {
       "id": 16,
