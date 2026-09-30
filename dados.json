@@ -9045,6 +9045,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 41191027000196\nNOME: REM MARKETING LTDA\nVALOR: R$ 2167.10\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: 15/10/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-30"
+    },
+    {
+      "id": 130,
+      "servico_ids": [
+        78
+      ],
+      "cliente_id": "19",
+      "numero_nfse": "",
+      "valor": 120,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 40587886000136\nNOME: FARMERSGROUP\nVALOR: R$ 120.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  29/09/2026 - IDA A FARMERS PARA SOLUCIONAR PROBLEMAS NA WIFI - R$ 120.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-09-30"
     }
   ],
   "servicos": [
@@ -9673,7 +9686,8 @@
       "data": "2026-09-29",
       "descricao": "IDA A FARMERS PARA SOLUCIONAR PROBLEMAS NA WIFI",
       "horas": 1,
-      "valor": 120
+      "valor": 120,
+      "nota_id": 130
     },
     {
       "id": 79,
@@ -18209,7 +18223,7 @@
   "seq": {
     "cli": 23,
     "ag": 1152,
-    "nota": 130,
+    "nota": 131,
     "serv": 81,
     "ct": 8,
     "cob": 30,
