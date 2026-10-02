@@ -18565,7 +18565,8 @@
     "pix_cpf": "PIX CPF 097.621.867-45",
     "banco": "Banco Itau:\nAG 2971\nConta Poupança 16877-4/500\nVinicius da Rocha Nascimento\nPix CPF 097.621.867-45\n",
     "emit_nome": "VINICIUS DA ROCHA NASCIMENTO",
-    "emit_cpf": "097.621.867-45"
+    "emit_cpf": "097.621.867-45",
+    "ms_client_id": ""
   },
   "seq": {
     "cli": 23,
