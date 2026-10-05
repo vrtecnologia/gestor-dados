@@ -10566,6 +10566,27 @@
         }
       ],
       "id": 23
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-05",
+      "numero": "05102026",
+      "cliente_id": "",
+      "pag_nome": "SARAH",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO SARAH NO DIA 05/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-05",
+          "desc": "RECUPERAÇÃO DA CONTA GOOGLE",
+          "qtd": "1",
+          "valor": 150
+        }
+      ],
+      "id": 24
     }
   ],
   "equipamentos": [
@@ -18592,7 +18613,7 @@
     "serv": 81,
     "ct": 8,
     "cob": 30,
-    "rec": 24,
+    "rec": 25,
     "eq": 131,
     "ca": 612
   },
