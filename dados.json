@@ -7799,6 +7799,18 @@
       "descricao": "",
       "id": 1167,
       "origem": "app"
+    },
+    {
+      "titulo": "Gabriel Curi",
+      "cliente_id": null,
+      "inicio": "2026-10-07T09:30",
+      "fim": "2026-10-07T10:30",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1168,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -18582,7 +18594,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1168,
+    "ag": 1169,
     "nota": 131,
     "serv": 81,
     "ct": 8,
