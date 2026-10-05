@@ -7787,6 +7787,18 @@
       "fim": "2028-09-24T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "titulo": "RioFarmes",
+      "cliente_id": null,
+      "inicio": "2027-01-05T10:00",
+      "fim": "2027-01-05T11:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1167,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -18570,7 +18582,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1167,
+    "ag": 1168,
     "nota": 131,
     "serv": 81,
     "ct": 8,
