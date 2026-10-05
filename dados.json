@@ -3313,17 +3313,6 @@
       "origem": "app"
     },
     {
-      "id": 737,
-      "tipo": "conta",
-      "conta_id": 206,
-      "titulo": "CARTAO INTER – R$ 2478.33",
-      "cliente_id": "",
-      "inicio": "2026-10-05T09:00",
-      "fim": "2026-10-05T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 738,
       "tipo": "conta",
       "conta_id": 207,
@@ -13667,9 +13656,9 @@
       "nome": "CARTAO INTER",
       "valor": 2478.33,
       "venc": "2026-10-05",
-      "status": "pendente",
+      "status": "pago",
       "obs": "VARIAVEL",
-      "agendamento_id": 737,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
