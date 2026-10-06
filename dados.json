@@ -10599,6 +10599,27 @@
         }
       ],
       "id": 24
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-06",
+      "numero": "06102026",
+      "cliente_id": "",
+      "pag_nome": "GABRIEL CURI",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO GABRIEL CURI NO DIA 06/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-06",
+          "desc": "SERVIÇO REALIZADO",
+          "qtd": "2 HORAS",
+          "valor": 340
+        }
+      ],
+      "id": 25
     }
   ],
   "equipamentos": [
@@ -18627,7 +18648,7 @@
     "serv": 81,
     "ct": 8,
     "cob": 30,
-    "rec": 25,
+    "rec": 26,
     "eq": 131,
     "ca": 612
   },
