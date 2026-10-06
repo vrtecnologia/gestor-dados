@@ -5898,17 +5898,6 @@
       "origem": "app"
     },
     {
-      "id": 988,
-      "tipo": "conta",
-      "conta_id": 457,
-      "titulo": "ACORDO PICPAY - SERASA – R$ 305.43",
-      "cliente_id": "",
-      "inicio": "2026-10-09T09:00",
-      "fim": "2026-10-09T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 989,
       "tipo": "conta",
       "conta_id": 458,
@@ -16683,10 +16672,10 @@
       "nome": "ACORDO PICPAY - SERASA",
       "valor": 305.43,
       "venc": "2026-10-09",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "ACORDO",
-      "agendamento_id": 988
+      "agendamento_id": null
     },
     {
       "id": 458,
