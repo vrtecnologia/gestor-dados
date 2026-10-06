@@ -8054,6 +8054,18 @@
       "fim": "2028-09-05T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "titulo": "SKIRIZI TOMAR VACINA",
+      "cliente_id": null,
+      "inicio": "2026-11-05T09:00",
+      "fim": "2026-11-05T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1194,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19211,7 +19223,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1194,
+    "ag": 1195,
     "nota": 131,
     "serv": 83,
     "ct": 8,
