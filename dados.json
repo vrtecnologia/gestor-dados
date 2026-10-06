@@ -10145,6 +10145,14 @@
       "descricao": "CONFIGURAÇÃO DO GOOGLE DRIVE DA AGENCIA PARA O EDUARDINHO",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 82,
+      "cliente_id": "6",
+      "data": "2026-10-06",
+      "descricao": "APONTAMENTO DE DNS DA REM-MKT.COM.BR",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19205,7 +19213,7 @@
     "cli": 23,
     "ag": 1194,
     "nota": 131,
-    "serv": 82,
+    "serv": 83,
     "ct": 8,
     "cob": 30,
     "rec": 27,
