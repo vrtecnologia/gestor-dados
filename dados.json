@@ -7803,17 +7803,6 @@
       "origem": "app"
     },
     {
-      "id": 1170,
-      "tipo": "conta",
-      "conta_id": 612,
-      "titulo": "PLANO DE SAUDE – R$ 305.24",
-      "cliente_id": "",
-      "inicio": "2026-10-05T09:00",
-      "fim": "2026-10-05T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 1171,
       "tipo": "conta",
       "conta_id": 613,
@@ -18760,10 +18749,10 @@
       "nome": "PLANO DE SAUDE",
       "valor": 305.24,
       "venc": "2026-10-05",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "PLANO DE SAUDE",
-      "agendamento_id": 1170
+      "agendamento_id": null
     },
     {
       "id": 613,
@@ -19882,6 +19871,10 @@
     "conta-611": "8f48cf51",
     "ag-1168": "3ce28b47",
     "ag-1167": "1e05da6f",
-    "ag-1169": "70dd6f"
+    "ag-1169": "70dd6f",
+    "conta-615": "6b2ae8e6",
+    "conta-614": "7a8fb788",
+    "conta-613": "6aa39f16",
+    "conta-616": "2a5875e8"
   }
 }
