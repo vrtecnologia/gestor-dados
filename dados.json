@@ -10620,6 +10620,27 @@
         }
       ],
       "id": 25
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-06",
+      "numero": "06102026-2",
+      "cliente_id": "",
+      "pag_nome": "ROMULO",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO ROMULO NO DIA 06/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-06",
+          "desc": "SUCATA",
+          "qtd": "1",
+          "valor": 100
+        }
+      ],
+      "id": 26
     }
   ],
   "equipamentos": [
@@ -18648,7 +18669,7 @@
     "serv": 81,
     "ct": 8,
     "cob": 30,
-    "rec": 26,
+    "rec": 27,
     "eq": 131,
     "ca": 612
   },
