@@ -10137,6 +10137,14 @@
       "descricao": "ACESSO A MAQUINA DO MARCO SIQUEIRA PARA SOLUCIONAR FALHA DO ITAU E ATUALIZAÇÃO DO WINDOWS 11",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 81,
+      "cliente_id": "6",
+      "data": "2026-10-05",
+      "descricao": "CONFIGURAÇÃO DO GOOGLE DRIVE DA AGENCIA PARA O EDUARDINHO",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19197,7 +19205,7 @@
     "cli": 23,
     "ag": 1194,
     "nota": 131,
-    "serv": 81,
+    "serv": 82,
     "ct": 8,
     "cob": 30,
     "rec": 27,
