@@ -7779,18 +7779,6 @@
       "origem": "app"
     },
     {
-      "titulo": "Gabriel Curi",
-      "cliente_id": null,
-      "inicio": "2026-10-07T09:30",
-      "fim": "2026-10-07T10:30",
-      "valor": 0,
-      "status": "agendado",
-      "local": "",
-      "descricao": "",
-      "id": 1168,
-      "origem": "app"
-    },
-    {
       "titulo": "Revisao Yamaha",
       "cliente_id": null,
       "inicio": "2026-10-08T15:00",
