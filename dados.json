@@ -7800,6 +7800,18 @@
       "descricao": "",
       "id": 1168,
       "origem": "app"
+    },
+    {
+      "titulo": "Revisao Yamaha",
+      "cliente_id": null,
+      "inicio": "2026-10-08T15:00",
+      "fim": "2026-10-08T16:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1169,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -18610,7 +18622,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1169,
+    "ag": 1170,
     "nota": 131,
     "serv": 81,
     "ct": 8,
