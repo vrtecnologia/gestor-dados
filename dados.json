@@ -10911,6 +10911,27 @@
         }
       ],
       "id": 26
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-07",
+      "numero": "07102026",
+      "cliente_id": "",
+      "pag_nome": "BRUNO",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO BRUNO NO DIA 07/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-08",
+          "desc": "- TROCA DO SSD E INSTALAÇÃO DE WINDOWS E OFFICE",
+          "qtd": "2",
+          "valor": 340
+        }
+      ],
+      "id": 27
     }
   ],
   "equipamentos": [
@@ -19229,7 +19250,7 @@
     "serv": 83,
     "ct": 8,
     "cob": 30,
-    "rec": 27,
+    "rec": 28,
     "eq": 131,
     "ca": 636
   },
