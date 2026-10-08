@@ -8078,6 +8078,18 @@
       "descricao": "",
       "id": 1196,
       "origem": "app"
+    },
+    {
+      "titulo": "CASA DA ANA ANTES PASSAR NO CENTRO",
+      "cliente_id": null,
+      "inicio": "2026-10-08T09:00",
+      "fim": "2026-10-08T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1197,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19279,7 +19291,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1197,
+    "ag": 1198,
     "nota": 131,
     "serv": 83,
     "ct": 8,
