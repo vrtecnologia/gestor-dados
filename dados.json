@@ -10201,6 +10201,14 @@
       "descricao": "APONTAMENTO DE DNS DA REM-MKT.COM.BR",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 83,
+      "cliente_id": "6",
+      "data": "2026-10-08",
+      "descricao": "ACESSO A CAMILA DA FATO PARA CONFIGURA ACESSO AO VBS",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19306,7 +19314,7 @@
     "cli": 23,
     "ag": 1199,
     "nota": 131,
-    "serv": 83,
+    "serv": 84,
     "ct": 8,
     "cob": 30,
     "rec": 29,
