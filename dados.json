@@ -8090,6 +8090,18 @@
       "descricao": "",
       "id": 1197,
       "origem": "app"
+    },
+    {
+      "titulo": "Ricardo Recreio",
+      "cliente_id": null,
+      "inicio": "2026-10-09T14:00",
+      "fim": "2026-10-09T15:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1198,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19291,7 +19303,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1198,
+    "ag": 1199,
     "nota": 131,
     "serv": 83,
     "ct": 8,
