@@ -1608,17 +1608,6 @@
       "origem": "app"
     },
     {
-      "id": 578,
-      "tipo": "conta",
-      "conta_id": 47,
-      "titulo": "SAVECAR - SEGURO FORD KA – R$ 268.54",
-      "cliente_id": "",
-      "inicio": "2026-10-10T09:00",
-      "fim": "2026-10-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 579,
       "tipo": "conta",
       "conta_id": 48,
@@ -12295,9 +12284,9 @@
       "nome": "SAVECAR - SEGURO FORD KA",
       "valor": 268.54,
       "venc": "2026-10-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 578
+      "agendamento_id": null
     },
     {
       "id": 48,
