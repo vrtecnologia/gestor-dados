@@ -2202,17 +2202,6 @@
       "origem": "app"
     },
     {
-      "id": 635,
-      "tipo": "conta",
-      "conta_id": 104,
-      "titulo": "CARRO – R$ 1073.23",
-      "cliente_id": "",
-      "inicio": "2026-10-10T09:00",
-      "fim": "2026-10-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 636,
       "tipo": "conta",
       "conta_id": 105,
@@ -12944,9 +12933,9 @@
       "nome": "CARRO",
       "valor": 1073.23,
       "venc": "2026-10-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 635
+      "agendamento_id": null
     },
     {
       "id": 105,
