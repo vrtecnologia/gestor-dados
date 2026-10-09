@@ -1850,17 +1850,6 @@
       "origem": "app"
     },
     {
-      "id": 602,
-      "tipo": "conta",
-      "conta_id": 71,
-      "titulo": "ACORDO NUBANK – R$ 191.11",
-      "cliente_id": "",
-      "inicio": "2026-10-10T09:00",
-      "fim": "2026-10-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 603,
       "tipo": "conta",
       "conta_id": 72,
@@ -12538,9 +12527,9 @@
       "nome": "ACORDO NUBANK",
       "valor": 191.11,
       "venc": "2026-10-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 602,
+      "agendamento_id": null,
       "categoria": "ACORDO"
     },
     {
