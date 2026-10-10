@@ -5821,17 +5821,6 @@
       "origem": "app"
     },
     {
-      "id": 985,
-      "tipo": "conta",
-      "conta_id": 454,
-      "titulo": "CARTAO C&A PAY – R$ 55.46",
-      "cliente_id": "",
-      "inicio": "2026-10-10T09:00",
-      "fim": "2026-10-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 986,
       "tipo": "conta",
       "conta_id": 455,
@@ -17009,9 +16998,9 @@
       "nome": "CARTAO C&A PAY",
       "valor": 55.46,
       "venc": "2026-10-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 985,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
