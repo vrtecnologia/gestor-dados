@@ -6252,17 +6252,6 @@
       "origem": "app"
     },
     {
-      "id": 1028,
-      "tipo": "conta",
-      "conta_id": 495,
-      "titulo": "EXPLICADORA MILLENA 05495758714 – R$ 350.00",
-      "cliente_id": "",
-      "inicio": "2026-10-10T09:00",
-      "fim": "2026-10-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 1029,
       "tipo": "conta",
       "conta_id": 496,
@@ -17493,10 +17482,10 @@
       "nome": "EXPLICADORA MILLENA 05495758714",
       "valor": 350,
       "venc": "2026-10-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "05495758714",
       "categoria": "",
-      "agendamento_id": 1028
+      "agendamento_id": null
     },
     {
       "id": 496,
