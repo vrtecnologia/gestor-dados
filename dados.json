@@ -6297,17 +6297,6 @@
       "origem": "app"
     },
     {
-      "id": 1034,
-      "tipo": "conta",
-      "conta_id": 500,
-      "titulo": "LUCIENE PSICOLOGA MILLENA PRIMEIRA 15 – R$ 100.00",
-      "cliente_id": "",
-      "inicio": "2026-10-10T09:00",
-      "fim": "2026-10-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 1035,
       "tipo": "conta",
       "conta_id": 501,
@@ -17542,10 +17531,10 @@
       "nome": "LUCIENE PSICOLOGA MILLENA PRIMEIRA 15",
       "valor": 100,
       "venc": "2026-10-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "",
-      "agendamento_id": 1034
+      "agendamento_id": null
     },
     {
       "id": 501,
