@@ -10974,6 +10974,27 @@
         }
       ],
       "id": 29
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-10",
+      "numero": "10102026",
+      "cliente_id": "",
+      "pag_nome": "Vitor",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO VITOR NO DIA 10/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-10",
+          "desc": "Diagnostivo",
+          "qtd": "",
+          "valor": 120
+        }
+      ],
+      "id": 30
     }
   ],
   "equipamentos": [
@@ -19319,7 +19340,7 @@
     "serv": 84,
     "ct": 8,
     "cob": 30,
-    "rec": 30,
+    "rec": 31,
     "eq": 131,
     "ca": 636
   },
