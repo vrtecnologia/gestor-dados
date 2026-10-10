@@ -2389,17 +2389,6 @@
       "origem": "app"
     },
     {
-      "id": 655,
-      "tipo": "conta",
-      "conta_id": 124,
-      "titulo": "ACORDO NEON - SERASA – R$ 131.94",
-      "cliente_id": "",
-      "inicio": "2026-10-12T09:00",
-      "fim": "2026-10-12T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 656,
       "tipo": "conta",
       "conta_id": 125,
@@ -13152,9 +13141,9 @@
       "nome": "ACORDO NEON - SERASA",
       "valor": 131.94,
       "venc": "2026-10-12",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 655,
+      "agendamento_id": null,
       "categoria": "ACORDO"
     },
     {
