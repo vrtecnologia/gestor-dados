@@ -3514,7 +3514,7 @@
       "id": 761,
       "tipo": "conta",
       "conta_id": 230,
-      "titulo": "CARTAO ITI – R$ 878.29",
+      "titulo": "CARTAO ITI – falta R$ 578.29",
       "cliente_id": "",
       "inicio": "2026-10-10T09:00",
       "fim": "2026-10-10T09:30",
@@ -14375,10 +14375,16 @@
       "nome": "CARTAO ITI",
       "valor": 878.29,
       "venc": "2026-10-10",
-      "status": "pendente",
+      "status": "parcial",
       "obs": "VARIAVEL - CONFERIR",
       "agendamento_id": 761,
-      "categoria": "CARTAO"
+      "categoria": "CARTAO",
+      "pagamentos": [
+        {
+          "data": "2026-10-10",
+          "valor": 300
+        }
+      ]
     },
     {
       "id": 231,
