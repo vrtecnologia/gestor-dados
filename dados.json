@@ -10145,6 +10145,14 @@
       "descricao": "ACESSO A CAMILA DA FATO PARA CONFIGURA ACESSO AO VBS",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 84,
+      "cliente_id": "4",
+      "data": "2026-10-13",
+      "descricao": "ACESSO A MAQUINA DA EVELYN PARA CONFIGURAR O USUARIO COMERCIAL@PETT-DRIVE",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -19325,7 +19333,7 @@
     "cli": 23,
     "ag": 1201,
     "nota": 131,
-    "serv": 84,
+    "serv": 85,
     "ct": 8,
     "cob": 30,
     "rec": 31,
