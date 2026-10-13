@@ -8050,6 +8050,18 @@
       "descricao": "",
       "id": 1201,
       "origem": "app"
+    },
+    {
+      "titulo": "PETT CAPELLATO",
+      "cliente_id": null,
+      "inicio": "2026-10-14T13:00",
+      "fim": "2026-10-14T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1202,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19343,7 +19355,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1202,
+    "ag": 1203,
     "nota": 131,
     "serv": 85,
     "ct": 8,
