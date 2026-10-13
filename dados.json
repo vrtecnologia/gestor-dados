@@ -8038,6 +8038,18 @@
       "descricao": "",
       "id": 1200,
       "origem": "app"
+    },
+    {
+      "titulo": "JULIO",
+      "cliente_id": null,
+      "inicio": "2026-10-15T08:00",
+      "fim": "2026-10-15T09:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1201,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19331,7 +19343,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1201,
+    "ag": 1202,
     "nota": 131,
     "serv": 85,
     "ct": 8,
