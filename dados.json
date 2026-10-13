@@ -11007,6 +11007,27 @@
         }
       ],
       "id": 30
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-13",
+      "numero": "13102026",
+      "cliente_id": "",
+      "pag_nome": "CONTABILITA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO CONTABILITA NO DIA 13/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-13",
+          "desc": "SERVIÇO REMOTO CAROL",
+          "qtd": "1 HORA",
+          "valor": 130
+        }
+      ],
+      "id": 31
     }
   ],
   "equipamentos": [
@@ -19360,7 +19381,7 @@
     "serv": 85,
     "ct": 8,
     "cob": 30,
-    "rec": 31,
+    "rec": 32,
     "eq": 131,
     "ca": 636
   },
