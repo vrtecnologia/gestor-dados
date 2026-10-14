@@ -10177,6 +10177,14 @@
       "descricao": "ACESSO A MAQUINA DA EVELYN PARA CONFIGURAR O USUARIO COMERCIAL@PETT-DRIVE",
       "horas": 1,
       "valor": 130
+    },
+    {
+      "id": 85,
+      "cliente_id": "4",
+      "data": "2026-10-14",
+      "descricao": "RESET DA SENHA DA CLAUDIA NO NOTEBOOK ASUS",
+      "horas": 1,
+      "valor": 170
     }
   ],
   "contratos": [
@@ -19379,7 +19387,7 @@
     "cli": 23,
     "ag": 1203,
     "nota": 131,
-    "serv": 85,
+    "serv": 86,
     "ct": 8,
     "cob": 30,
     "rec": 32,
