@@ -8062,6 +8062,18 @@
       "descricao": "",
       "id": 1202,
       "origem": "app"
+    },
+    {
+      "titulo": "TIO RENATO",
+      "cliente_id": null,
+      "inicio": "2026-10-16T13:00",
+      "fim": "2026-10-16T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1203,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19411,7 +19423,7 @@
   },
   "seq": {
     "cli": 23,
-    "ag": 1203,
+    "ag": 1204,
     "nota": 132,
     "serv": 87,
     "ct": 8,
