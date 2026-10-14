@@ -9498,6 +9498,21 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 40587886000136\nNOME: FARMERSGROUP\nVALOR: R$ 120.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  29/09/2026 - IDA A FARMERS PARA SOLUCIONAR PROBLEMAS NA WIFI - R$ 120.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 09/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-09-30"
+    },
+    {
+      "id": 131,
+      "servico_ids": [
+        84,
+        85,
+        86
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 640,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 640.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (3):\n  13/10/2026 - ACESSO A MAQUINA DA EVELYN PARA CONFIGURAR O USUARIO COMERCIAL@PETT-DRIVE - R$ 130.00\n  14/10/2026 - RESET DA SENHA DA CLAUDIA NO NOTEBOOK ASUS - R$ 170.00\n  14/10/2026 - IDA A PETT CAPELLATO PARA INSTALAR IMPRESSORA EPSON EM TODAS AS MAQUINAS, CONFIGURAÇÃO DO OUTLOOK DA TANIA PARA BAIXAR EMAILS EM MENOS TEMPO, VERIFICAÇÃO DO OUTLOOK DO GERALDO E REINSTALAÇÃO DO NOTEBOOK DO CELSO - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-14"
     }
   ],
   "servicos": [
@@ -10176,7 +10191,8 @@
       "data": "2026-10-13",
       "descricao": "ACESSO A MAQUINA DA EVELYN PARA CONFIGURAR O USUARIO COMERCIAL@PETT-DRIVE",
       "horas": 1,
-      "valor": 130
+      "valor": 130,
+      "nota_id": 131
     },
     {
       "id": 85,
@@ -10184,7 +10200,8 @@
       "data": "2026-10-14",
       "descricao": "RESET DA SENHA DA CLAUDIA NO NOTEBOOK ASUS",
       "horas": 1,
-      "valor": 170
+      "valor": 170,
+      "nota_id": 131
     },
     {
       "id": 86,
@@ -10192,7 +10209,8 @@
       "data": "2026-10-14",
       "descricao": "IDA A PETT CAPELLATO PARA INSTALAR IMPRESSORA EPSON EM TODAS AS MAQUINAS, CONFIGURAÇÃO DO OUTLOOK DA TANIA PARA BAIXAR EMAILS EM MENOS TEMPO, VERIFICAÇÃO DO OUTLOOK DO GERALDO E REINSTALAÇÃO DO NOTEBOOK DO CELSO",
       "horas": 2,
-      "valor": 340
+      "valor": 340,
+      "nota_id": 131
     }
   ],
   "contratos": [
@@ -19394,7 +19412,7 @@
   "seq": {
     "cli": 23,
     "ag": 1203,
-    "nota": 131,
+    "nota": 132,
     "serv": 87,
     "ct": 8,
     "cob": 30,
