@@ -10185,6 +10185,14 @@
       "descricao": "RESET DA SENHA DA CLAUDIA NO NOTEBOOK ASUS",
       "horas": 1,
       "valor": 170
+    },
+    {
+      "id": 86,
+      "cliente_id": "4",
+      "data": "2026-10-14",
+      "descricao": "IDA A PETT CAPELLATO PARA INSTALAR IMPRESSORA EPSON EM TODAS AS MAQUINAS, CONFIGURAÇÃO DO OUTLOOK DA TANIA PARA BAIXAR EMAILS EM MENOS TEMPO, VERIFICAÇÃO DO OUTLOOK DO GERALDO E REINSTALAÇÃO DO NOTEBOOK DO CELSO",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -19387,7 +19395,7 @@
     "cli": 23,
     "ag": 1203,
     "nota": 131,
-    "serv": 86,
+    "serv": 87,
     "ct": 8,
     "cob": 30,
     "rec": 32,
