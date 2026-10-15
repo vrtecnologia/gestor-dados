@@ -4993,28 +4993,6 @@
       "origem": "app"
     },
     {
-      "id": 907,
-      "tipo": "conta",
-      "conta_id": 376,
-      "titulo": "EMPRESTIMO ML – R$ 202.52",
-      "cliente_id": "",
-      "inicio": "2026-10-16T09:00",
-      "fim": "2026-10-16T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
-      "id": 909,
-      "tipo": "conta",
-      "conta_id": 378,
-      "titulo": "EMPRESTIMO ML 2 – R$ 24.56",
-      "cliente_id": "",
-      "inicio": "2026-10-16T09:00",
-      "fim": "2026-10-16T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 910,
       "tipo": "conta",
       "conta_id": 379,
@@ -16218,9 +16196,9 @@
       "nome": "EMPRESTIMO ML",
       "valor": 202.52,
       "venc": "2026-10-16",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 907,
+      "agendamento_id": null,
       "categoria": "EMPRESTIMO"
     },
     {
@@ -16242,9 +16220,9 @@
       "nome": "EMPRESTIMO ML 2",
       "valor": 24.56,
       "venc": "2026-10-16",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 909,
+      "agendamento_id": null,
       "categoria": "EMPRESTIMO"
     },
     {
