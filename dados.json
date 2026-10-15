@@ -3761,17 +3761,6 @@
       "origem": "app"
     },
     {
-      "id": 785,
-      "tipo": "conta",
-      "conta_id": 254,
-      "titulo": "CARTAO ITAU VISA – R$ 565.76",
-      "cliente_id": "",
-      "inicio": "2026-10-21T09:00",
-      "fim": "2026-10-21T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 786,
       "tipo": "conta",
       "conta_id": 255,
@@ -14765,9 +14754,9 @@
       "nome": "CARTAO ITAU VISA",
       "valor": 565.76,
       "venc": "2026-10-21",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 785,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
@@ -19777,7 +19766,6 @@
     "conta-298": "faf2502",
     "conta-299": "bfe8252c",
     "conta-300": "3b316b52",
-    "conta-302": "caa0dbd0",
     "conta-303": "eacbcf1b",
     "conta-304": "27717995",
     "conta-305": "ec4067b3",
