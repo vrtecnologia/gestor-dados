@@ -344,6 +344,25 @@
       "uf": "",
       "observacoes": "",
       "id": 22
+    },
+    {
+      "nome": "CLINDERM CENTRO DERMATOLOGICO LTDA",
+      "tipo_pessoa": "J",
+      "documento": "",
+      "email": "",
+      "telefone": "",
+      "inscricao_municipal": "",
+      "venc_dia": "",
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "complemento": "",
+      "bairro": "",
+      "municipio": "",
+      "codigo_municipio_ibge": "",
+      "uf": "",
+      "observacoes": "",
+      "id": 23
     }
   ],
   "agendamentos": [
@@ -19403,7 +19422,7 @@
     "g_cal_id": "c29d09c9cf371513aee9d4040e802250c787e2410029bf459ec8a7b79f4d91f6@group.calendar.google.com"
   },
   "seq": {
-    "cli": 23,
+    "cli": 24,
     "ag": 1204,
     "nota": 132,
     "serv": 87,
