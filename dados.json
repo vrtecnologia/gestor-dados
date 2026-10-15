@@ -19414,7 +19414,10 @@
     "rec:30",
     "com:28",
     "rec:31",
-    "rec:32"
+    "rec:32",
+    "nota:128",
+    "nota:130",
+    "nota:129"
   ],
   "receber_vencimentos": {
     "nota:7": "2026-08-05",
