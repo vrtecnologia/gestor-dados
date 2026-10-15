@@ -6808,17 +6808,6 @@
       "origem": "app"
     },
     {
-      "id": 1088,
-      "tipo": "conta",
-      "conta_id": 548,
-      "titulo": "PRESTAÇÃO YAMAHA – R$ 547.50",
-      "cliente_id": "",
-      "inicio": "2026-10-16T09:00",
-      "fim": "2026-10-16T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 1089,
       "tipo": "conta",
       "conta_id": 549,
@@ -18201,10 +18190,10 @@
       "nome": "PRESTAÇÃO YAMAHA",
       "valor": 547.5,
       "venc": "2026-10-16",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "",
-      "agendamento_id": 1088
+      "agendamento_id": null
     },
     {
       "id": 549,
