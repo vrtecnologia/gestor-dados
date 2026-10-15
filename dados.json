@@ -1146,17 +1146,6 @@
       "origem": "app"
     },
     {
-      "id": 533,
-      "tipo": "conta",
-      "conta_id": 2,
-      "titulo": "ACORDO SANTANDER – R$ 220.96",
-      "cliente_id": "",
-      "inicio": "2026-10-15T09:00",
-      "fim": "2026-10-15T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 534,
       "tipo": "conta",
       "conta_id": 3,
@@ -11865,9 +11854,9 @@
       "nome": "ACORDO SANTANDER",
       "valor": 220.96,
       "venc": "2026-10-15",
-      "status": "pendente",
+      "status": "pago",
       "obs": "ACORDO FEITO EM JULHO DE 2026",
-      "agendamento_id": 533,
+      "agendamento_id": null,
       "categoria": "ACORDO"
     },
     {
