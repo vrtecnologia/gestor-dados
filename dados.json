@@ -10270,6 +10270,16 @@
       "descricao": "",
       "obs": "",
       "id": 7
+    },
+    {
+      "cliente_id": "23",
+      "valor": 1000,
+      "venc_dia": 5,
+      "tipo": "comunicado",
+      "ativo": true,
+      "descricao": "VRMEDSUITE + CONTRATO MENSAL",
+      "obs": "",
+      "id": 8
     }
   ],
   "cobrancas": [
@@ -19426,7 +19436,7 @@
     "ag": 1204,
     "nota": 132,
     "serv": 87,
-    "ct": 8,
+    "ct": 9,
     "cob": 30,
     "rec": 33,
     "eq": 131,
