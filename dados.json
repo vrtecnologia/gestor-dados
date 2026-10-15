@@ -11074,6 +11074,27 @@
         }
       ],
       "id": 31
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-15",
+      "numero": "15102026",
+      "cliente_id": "",
+      "pag_nome": "JORGE",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO JORGE NO DIA 15/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-15",
+          "desc": "INSTALAÇÃO DE MEMORIA",
+          "qtd": "1",
+          "valor": 170
+        }
+      ],
+      "id": 32
     }
   ],
   "equipamentos": [
@@ -19428,7 +19449,7 @@
     "serv": 87,
     "ct": 8,
     "cob": 30,
-    "rec": 32,
+    "rec": 33,
     "eq": 131,
     "ca": 636
   },
