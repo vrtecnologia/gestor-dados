@@ -10162,6 +10162,14 @@
       "descricao": "ACESSO A MAQUINA DO MARCO SIQUEIRA PARA REMOVER O TEAMS DO INICIALIZAR",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 88,
+      "cliente_id": "6",
+      "data": "2026-10-15",
+      "descricao": "ACESSO A MAQUINA DO RAMON PARA ACHAR ARQUIVO PERDIDO NO ONEDRIVE",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19399,7 +19407,7 @@
     "cli": 24,
     "ag": 1204,
     "nota": 132,
-    "serv": 88,
+    "serv": 89,
     "ct": 9,
     "cob": 30,
     "rec": 33,
