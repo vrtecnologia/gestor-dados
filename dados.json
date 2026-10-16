@@ -11052,6 +11052,27 @@
         }
       ],
       "id": 32
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-16",
+      "numero": "16102026",
+      "cliente_id": "",
+      "pag_nome": "RENATO",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO RENATO NO DIA 16/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-16",
+          "desc": "TIO RENATO",
+          "qtd": "1 HORA",
+          "valor": 200
+        }
+      ],
+      "id": 33
     }
   ],
   "equipamentos": [
@@ -19410,7 +19431,7 @@
     "serv": 89,
     "ct": 9,
     "cob": 30,
-    "rec": 33,
+    "rec": 34,
     "eq": 131,
     "ca": 636
   },
