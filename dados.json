@@ -10182,6 +10182,14 @@
       "descricao": "ACESSO A MAQUINA DO RAMON PARA ACHAR ARQUIVO PERDIDO NO ONEDRIVE",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 89,
+      "cliente_id": "5",
+      "data": "2026-10-16",
+      "descricao": "AUXILIO A COMPRA DE NOTEBOOK COM A CRISTIANE E FLAVIO",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -19441,7 +19449,7 @@
     "cli": 24,
     "ag": 1205,
     "nota": 132,
-    "serv": 89,
+    "serv": 90,
     "ct": 9,
     "cob": 30,
     "rec": 34,
