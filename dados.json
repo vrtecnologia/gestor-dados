@@ -8005,6 +8005,18 @@
       "descricao": "",
       "id": 1203,
       "origem": "app"
+    },
+    {
+      "titulo": "FLAVIO CLD",
+      "cliente_id": null,
+      "inicio": "2026-10-20T14:00",
+      "fim": "2026-10-20T15:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1204,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19427,7 +19439,7 @@
   },
   "seq": {
     "cli": 24,
-    "ag": 1204,
+    "ag": 1205,
     "nota": 132,
     "serv": 89,
     "ct": 9,
