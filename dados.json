@@ -10154,6 +10154,14 @@
       "horas": 2,
       "valor": 340,
       "nota_id": 131
+    },
+    {
+      "id": 87,
+      "cliente_id": "6",
+      "data": "2026-10-14",
+      "descricao": "ACESSO A MAQUINA DO MARCO SIQUEIRA PARA REMOVER O TEAMS DO INICIALIZAR",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19391,7 +19399,7 @@
     "cli": 24,
     "ag": 1204,
     "nota": 132,
-    "serv": 87,
+    "serv": 88,
     "ct": 9,
     "cob": 30,
     "rec": 33,
