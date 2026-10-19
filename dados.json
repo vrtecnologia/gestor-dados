@@ -2617,17 +2617,6 @@
       "origem": "app"
     },
     {
-      "id": 677,
-      "tipo": "conta",
-      "conta_id": 146,
-      "titulo": "PRESTAÇÃO APE – R$ 450.00",
-      "cliente_id": "",
-      "inicio": "2026-10-19T09:00",
-      "fim": "2026-10-19T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 678,
       "tipo": "conta",
       "conta_id": 147,
@@ -13569,9 +13558,9 @@
       "nome": "PRESTAÇÃO APE",
       "valor": 450,
       "venc": "2026-10-19",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 677
+      "agendamento_id": null
     },
     {
       "id": 147,
