@@ -8007,6 +8007,18 @@
       "valor": 0,
       "status": "agendado",
       "origem": "google"
+    },
+    {
+      "titulo": "JUMP",
+      "cliente_id": null,
+      "inicio": "2026-10-22T10:00",
+      "fim": "2026-10-22T11:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1206,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19459,7 +19471,7 @@
   },
   "seq": {
     "cli": 24,
-    "ag": 1206,
+    "ag": 1207,
     "nota": 133,
     "serv": 91,
     "ct": 9,
