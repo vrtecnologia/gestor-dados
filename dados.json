@@ -8017,6 +8017,18 @@
       "descricao": "",
       "id": 1204,
       "origem": "app"
+    },
+    {
+      "id": 1205,
+      "titulo": "Rogerio Pett",
+      "cliente_id": null,
+      "inicio": "2026-10-21T09:00",
+      "fim": "2026-10-21T10:00",
+      "local": "",
+      "descricao": "",
+      "valor": 0,
+      "status": "agendado",
+      "origem": "google"
     }
   ],
   "notas": [
@@ -19447,7 +19459,7 @@
   },
   "seq": {
     "cli": 24,
-    "ag": 1205,
+    "ag": 1206,
     "nota": 132,
     "serv": 90,
     "ct": 9,
@@ -20140,6 +20152,7 @@
     "ag-1201": "ef2149f8",
     "ag-1202": "445899d",
     "ag-1203": "32bc9314",
-    "ag-1204": "b9759f93"
+    "ag-1204": "b9759f93",
+    "ag-1205": "9e58eae0"
   }
 }
