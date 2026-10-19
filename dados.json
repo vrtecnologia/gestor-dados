@@ -10202,6 +10202,14 @@
       "descricao": "AUXILIO A COMPRA DE NOTEBOOK COM A CRISTIANE E FLAVIO",
       "horas": 1,
       "valor": 130
+    },
+    {
+      "id": 90,
+      "cliente_id": "4",
+      "data": "2026-10-19",
+      "descricao": "ACESSO A MAQUINA DO CELSO PARA LOCALIZAR AQUIVO DE PROGRAMAÇÃO DE MONTADORES PERDIDO",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -19461,7 +19469,7 @@
     "cli": 24,
     "ag": 1206,
     "nota": 132,
-    "serv": 90,
+    "serv": 91,
     "ct": 9,
     "cob": 30,
     "rec": 34,
