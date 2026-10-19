@@ -9480,6 +9480,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 640.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (3):\n  13/10/2026 - ACESSO A MAQUINA DA EVELYN PARA CONFIGURAR O USUARIO COMERCIAL@PETT-DRIVE - R$ 130.00\n  14/10/2026 - RESET DA SENHA DA CLAUDIA NO NOTEBOOK ASUS - R$ 170.00\n  14/10/2026 - IDA A PETT CAPELLATO PARA INSTALAR IMPRESSORA EPSON EM TODAS AS MAQUINAS, CONFIGURAÇÃO DO OUTLOOK DA TANIA PARA BAIXAR EMAILS EM MENOS TEMPO, VERIFICAÇÃO DO OUTLOOK DO GERALDO E REINSTALAÇÃO DO NOTEBOOK DO CELSO - R$ 340.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-10-14"
+    },
+    {
+      "id": 132,
+      "servico_ids": [
+        90
+      ],
+      "cliente_id": "4",
+      "numero_nfse": "",
+      "valor": 130,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  19/10/2026 - ACESSO A MAQUINA DO CELSO PARA LOCALIZAR AQUIVO DE PROGRAMAÇÃO DE MONTADORES PERDIDO - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-19"
     }
   ],
   "servicos": [
@@ -10209,7 +10222,8 @@
       "data": "2026-10-19",
       "descricao": "ACESSO A MAQUINA DO CELSO PARA LOCALIZAR AQUIVO DE PROGRAMAÇÃO DE MONTADORES PERDIDO",
       "horas": 1,
-      "valor": 130
+      "valor": 130,
+      "nota_id": 132
     }
   ],
   "contratos": [
@@ -19468,7 +19482,7 @@
   "seq": {
     "cli": 24,
     "ag": 1206,
-    "nota": 132,
+    "nota": 133,
     "serv": 91,
     "ct": 9,
     "cob": 30,
