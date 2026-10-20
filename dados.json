@@ -7208,17 +7208,6 @@
       "origem": "app"
     },
     {
-      "id": 1134,
-      "tipo": "conta",
-      "conta_id": 587,
-      "titulo": "SEGURO MELETRICA - KAMILLE – R$ 81.00",
-      "cliente_id": "",
-      "inicio": "2026-10-21T09:00",
-      "fim": "2026-10-21T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 1135,
       "tipo": "conta",
       "conta_id": 588,
@@ -18686,10 +18675,10 @@
       "nome": "SEGURO MELETRICA - KAMILLE",
       "valor": 81,
       "venc": "2026-10-21",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
       "categoria": "",
-      "agendamento_id": 1134
+      "agendamento_id": null
     },
     {
       "id": 588,
