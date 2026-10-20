@@ -11073,6 +11073,27 @@
         }
       ],
       "id": 33
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-20",
+      "numero": "20102026",
+      "cliente_id": "20",
+      "pag_nome": "CONDOMINIO DO EDIFICIO PALACIO DI RIETI",
+      "pag_doc": "40.257.024/0001-45",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "RECEBI A IMPORTANCIA ACIMA DO CONDOMINIO DO EDIFICIO PALACIO DI RIETI DE CNPJ 40.257.024/0001-45",
+      "itens": [
+        {
+          "data": "2026-10-20",
+          "desc": "Reconfiguracao da impressora",
+          "qtd": "1",
+          "valor": 170
+        }
+      ],
+      "id": 34
     }
   ],
   "equipamentos": [
@@ -19440,7 +19461,7 @@
     "serv": 91,
     "ct": 9,
     "cob": 30,
-    "rec": 34,
+    "rec": 35,
     "eq": 131,
     "ca": 636
   },
