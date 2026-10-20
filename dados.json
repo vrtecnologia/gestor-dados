@@ -4479,7 +4479,7 @@
       "id": 857,
       "tipo": "conta",
       "conta_id": 326,
-      "titulo": "CARTAO MERCADO PAGO – R$ 863.09",
+      "titulo": "CARTAO MERCADO PAGO – falta R$ 563.09",
       "cliente_id": "",
       "inicio": "2026-10-23T09:00",
       "fim": "2026-10-23T09:30",
@@ -15677,10 +15677,16 @@
       "nome": "CARTAO MERCADO PAGO",
       "valor": 863.09,
       "venc": "2026-10-23",
-      "status": "pendente",
+      "status": "parcial",
       "obs": "",
       "agendamento_id": 857,
-      "categoria": "CARTAO"
+      "categoria": "CARTAO",
+      "pagamentos": [
+        {
+          "data": "2026-10-20",
+          "valor": 300
+        }
+      ]
     },
     {
       "id": 327,
