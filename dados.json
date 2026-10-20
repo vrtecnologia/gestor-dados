@@ -5235,17 +5235,6 @@
       "origem": "app"
     },
     {
-      "id": 937,
-      "tipo": "conta",
-      "conta_id": 406,
-      "titulo": "CELULARES – R$ 135.80",
-      "cliente_id": "",
-      "inicio": "2026-10-12T09:00",
-      "fim": "2026-10-12T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 938,
       "tipo": "conta",
       "conta_id": 407,
@@ -16585,9 +16574,9 @@
       "nome": "CELULARES",
       "valor": 135.8,
       "venc": "2026-10-12",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 937,
+      "agendamento_id": null,
       "categoria": ""
     },
     {
