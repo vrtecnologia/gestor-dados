@@ -11094,6 +11094,27 @@
         }
       ],
       "id": 34
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-21",
+      "numero": "21102026",
+      "cliente_id": "",
+      "pag_nome": "Rogerio",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO ROGERIO NO DIA 21/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-21",
+          "desc": "Config email mac",
+          "qtd": "2",
+          "valor": 340
+        }
+      ],
+      "id": 35
     }
   ],
   "equipamentos": [
@@ -19462,7 +19483,7 @@
     "serv": 91,
     "ct": 9,
     "cob": 30,
-    "rec": 35,
+    "rec": 36,
     "eq": 131,
     "ca": 636
   },
