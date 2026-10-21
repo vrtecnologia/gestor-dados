@@ -4732,7 +4732,7 @@
       "id": 881,
       "tipo": "conta",
       "conta_id": 350,
-      "titulo": "CARTAO CARREFOUR – R$ 636.00",
+      "titulo": "CARTAO CARREFOUR – falta R$ 336.00",
       "cliente_id": "",
       "inicio": "2026-10-21T09:00",
       "fim": "2026-10-21T09:30",
@@ -15969,10 +15969,16 @@
       "nome": "CARTAO CARREFOUR",
       "valor": 636,
       "venc": "2026-10-21",
-      "status": "pendente",
+      "status": "parcial",
       "obs": "",
       "agendamento_id": 881,
-      "categoria": "CARTAO"
+      "categoria": "CARTAO",
+      "pagamentos": [
+        {
+          "data": "2026-10-21",
+          "valor": 300
+        }
+      ]
     },
     {
       "id": 351,
