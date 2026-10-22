@@ -7987,6 +7987,18 @@
       "descricao": "",
       "id": 1207,
       "origem": "app"
+    },
+    {
+      "titulo": "MARCO MARAMAR - MONTAR PC",
+      "cliente_id": null,
+      "inicio": "2026-10-26T09:00",
+      "fim": "2026-10-26T12:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1208,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19522,7 +19534,7 @@
   },
   "seq": {
     "cli": 24,
-    "ag": 1208,
+    "ag": 1209,
     "nota": 134,
     "serv": 92,
     "ct": 9,
