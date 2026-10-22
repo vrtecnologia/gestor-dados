@@ -10170,6 +10170,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 132
+    },
+    {
+      "id": 91,
+      "cliente_id": "5",
+      "data": "2026-10-22",
+      "descricao": "CONFIGURAÇÃO DE NOTEBOOK NOVO DA CRISTIANE",
+      "horas": 3,
+      "valor": 510
     }
   ],
   "contratos": [
@@ -19487,7 +19495,7 @@
     "cli": 24,
     "ag": 1207,
     "nota": 133,
-    "serv": 91,
+    "serv": 92,
     "ct": 9,
     "cob": 30,
     "rec": 37,
