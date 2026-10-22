@@ -11115,27 +11115,6 @@
         }
       ],
       "id": 35
-    },
-    {
-      "tipo": "servico",
-      "data": "2026-10-22",
-      "numero": "22102026",
-      "cliente_id": "5",
-      "pag_nome": "CLD ENGENHARIA LTDA",
-      "pag_doc": "40.167.546/0001-56",
-      "pag_end": "",
-      "prep": "DO",
-      "pix": true,
-      "decl": "RECEBI A IMPORTANCIA ACIMA DO CLD ENGENHARIA LTDA DE CNPJ 40.167.546/0001-56",
-      "itens": [
-        {
-          "data": "2026-10-22",
-          "desc": "CONFIGURAÇÃO DE NOTEBOOK NOVO DA CRISTIANE",
-          "qtd": "3 HORAS",
-          "valor": 510
-        }
-      ],
-      "id": 36
     }
   ],
   "equipamentos": [
