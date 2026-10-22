@@ -9439,6 +9439,20 @@
       "status": "portal",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  19/10/2026 - ACESSO A MAQUINA DO CELSO PARA LOCALIZAR AQUIVO DE PROGRAMAÇÃO DE MONTADORES PERDIDO - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-10-19"
+    },
+    {
+      "id": 133,
+      "servico_ids": [
+        89,
+        91
+      ],
+      "cliente_id": "5",
+      "numero_nfse": "",
+      "valor": 640,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 40167546000156\nNOME: CLD ENGENHARIA LTDA\nVALOR: R$ 640.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  16/10/2026 - AUXILIO A COMPRA DE NOTEBOOK COM A CRISTIANE E FLAVIO - R$ 130.00\n  22/10/2026 - CONFIGURAÇÃO DE NOTEBOOK NOVO DA CRISTIANE - R$ 510.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-22"
     }
   ],
   "servicos": [
@@ -10160,7 +10174,8 @@
       "data": "2026-10-16",
       "descricao": "AUXILIO A COMPRA DE NOTEBOOK COM A CRISTIANE E FLAVIO",
       "horas": 1,
-      "valor": 130
+      "valor": 130,
+      "nota_id": 133
     },
     {
       "id": 90,
@@ -10177,7 +10192,8 @@
       "data": "2026-10-22",
       "descricao": "CONFIGURAÇÃO DE NOTEBOOK NOVO DA CRISTIANE",
       "horas": 3,
-      "valor": 510
+      "valor": 510,
+      "nota_id": 133
     }
   ],
   "contratos": [
@@ -19494,7 +19510,7 @@
   "seq": {
     "cli": 24,
     "ag": 1207,
-    "nota": 133,
+    "nota": 134,
     "serv": 92,
     "ct": 9,
     "cob": 30,
