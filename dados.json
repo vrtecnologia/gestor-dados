@@ -7975,6 +7975,18 @@
       "descricao": "",
       "id": 1206,
       "origem": "app"
+    },
+    {
+      "titulo": "REUNIAO",
+      "cliente_id": "23",
+      "inicio": "2026-10-23T13:00",
+      "fim": "2026-10-23T14:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1207,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19510,7 +19522,7 @@
   },
   "seq": {
     "cli": 24,
-    "ag": 1207,
+    "ag": 1208,
     "nota": 134,
     "serv": 92,
     "ct": 9,
