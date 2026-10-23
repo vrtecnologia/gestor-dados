@@ -10218,6 +10218,14 @@
       "horas": 3,
       "valor": 510,
       "nota_id": 133
+    },
+    {
+      "id": 92,
+      "cliente_id": "6",
+      "data": "2026-10-23",
+      "descricao": "LIBERAÇÃO DE ACESSO AO DRIVE PARA ALEX FREELA",
+      "horas": 1,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19536,7 +19544,7 @@
     "cli": 24,
     "ag": 1209,
     "nota": 134,
-    "serv": 92,
+    "serv": 93,
     "ct": 9,
     "cob": 30,
     "rec": 37,
