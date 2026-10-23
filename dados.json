@@ -10234,6 +10234,14 @@
       "descricao": "VERIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 94,
+      "cliente_id": "2",
+      "data": "2026-10-10",
+      "descricao": "TESTE DE ACESSOS EXTERNOS DO GOOGLE DRIVE E CONSISTENCIA DE COMPARTILHAMENTOS PARA PROTEGER DE POSSIVEIS FALHAS DE SEGURANÇA",
+      "horas": 4,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19552,7 +19560,7 @@
     "cli": 24,
     "ag": 1209,
     "nota": 134,
-    "serv": 94,
+    "serv": 95,
     "ct": 9,
     "cob": 30,
     "rec": 37,
