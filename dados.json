@@ -11176,6 +11176,27 @@
         }
       ],
       "id": 35
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-26",
+      "numero": "26102026",
+      "cliente_id": "",
+      "pag_nome": "TANIA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO TANIA NO DIA 26/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-26",
+          "desc": "CONFIGURAÇÃO DE COMPUTADOR NOVO",
+          "qtd": "2",
+          "valor": 340
+        }
+      ],
+      "id": 37
     }
   ],
   "equipamentos": [
@@ -19552,7 +19573,7 @@
     "serv": 95,
     "ct": 9,
     "cob": 30,
-    "rec": 37,
+    "rec": 38,
     "eq": 131,
     "ca": 636
   },
