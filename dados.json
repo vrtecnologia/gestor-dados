@@ -11197,6 +11197,27 @@
         }
       ],
       "id": 37
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-10-27",
+      "numero": "27102026",
+      "cliente_id": "",
+      "pag_nome": "KARINA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO KARINA NO DIA 27/10/2026",
+      "itens": [
+        {
+          "data": "2026-10-26",
+          "desc": "INSTALACAO DE SKET E PROMOB",
+          "qtd": "1",
+          "valor": 130
+        }
+      ],
+      "id": 38
     }
   ],
   "equipamentos": [
@@ -19573,7 +19594,7 @@
     "serv": 95,
     "ct": 9,
     "cob": 30,
-    "rec": 38,
+    "rec": 39,
     "eq": 131,
     "ca": 636
   },
