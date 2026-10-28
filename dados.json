@@ -10255,6 +10255,14 @@
       "descricao": "TESTE DE ACESSOS EXTERNOS DO GOOGLE DRIVE E CONSISTENCIA DE COMPARTILHAMENTOS PARA PROTEGER DE POSSIVEIS FALHAS DE SEGURANÇA DEVIDO A RUMORES DE FALHAS",
       "horas": 4,
       "valor": 0
+    },
+    {
+      "id": 95,
+      "cliente_id": "2",
+      "data": "2026-10-28",
+      "descricao": "CONFIGURAÇÃO DA CAMERA WIFI/ ATUALIZAÇÃO DAS MAQUINAS",
+      "horas": 4,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19618,7 +19626,7 @@
     "cli": 24,
     "ag": 1211,
     "nota": 134,
-    "serv": 95,
+    "serv": 96,
     "ct": 9,
     "cob": 30,
     "rec": 39,
