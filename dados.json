@@ -8000,6 +8000,18 @@
       "descricao": "",
       "id": 1209,
       "origem": "app"
+    },
+    {
+      "titulo": "Dra Cely",
+      "cliente_id": null,
+      "inicio": "2026-10-30T14:00",
+      "fim": "2026-10-30T15:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1210,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19604,7 +19616,7 @@
   },
   "seq": {
     "cli": 24,
-    "ag": 1210,
+    "ag": 1211,
     "nota": 134,
     "serv": 95,
     "ct": 9,
