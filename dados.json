@@ -10263,6 +10263,14 @@
       "descricao": "CONFIGURAÇÃO DA CAMERA WIFI/ ATUALIZAÇÃO DAS MAQUINAS",
       "horas": 4,
       "valor": 0
+    },
+    {
+      "id": 96,
+      "cliente_id": "6",
+      "data": "2026-10-30",
+      "descricao": "CONFIGURAÇÃO DE FREELA DANIEL DONADO",
+      "horas": 0,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19626,7 +19634,7 @@
     "cli": 24,
     "ag": 1211,
     "nota": 134,
-    "serv": 96,
+    "serv": 97,
     "ct": 9,
     "cob": 30,
     "rec": 39,
