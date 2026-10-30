@@ -10298,6 +10298,14 @@
       "descricao": "CRIACAO DE NOVO EMAIL PARA USAR NO CELULAR DO CONSULTORIO E BACKUP DO WHATSAPP PARA ESSE EMAIL NOVO E GARANTIA DE FUNCIONAMENTO DO WHATSAPP SEM PERDA DE DADOS",
       "horas": 2,
       "valor": 340
+    },
+    {
+      "id": 98,
+      "cliente_id": "24",
+      "data": "2026-10-30",
+      "descricao": "REMOÇÃO DE ANTIVIRUS AVAST PREMIUM, CANCELAMENTO DE ASSINATURA DE ANTIVIRUS, LIMPEZA DA MAQUINA E ATUALIZAÇÃO",
+      "horas": 1,
+      "valor": 170
     }
   ],
   "contratos": [
@@ -19661,7 +19669,7 @@
     "cli": 25,
     "ag": 1211,
     "nota": 134,
-    "serv": 98,
+    "serv": 99,
     "ct": 9,
     "cob": 30,
     "rec": 39,
