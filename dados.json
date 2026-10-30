@@ -10290,6 +10290,14 @@
       "descricao": "CONFIGURAÇÃO DE FREELA DANIEL DONADO",
       "horas": 1,
       "valor": 0
+    },
+    {
+      "id": 97,
+      "cliente_id": "24",
+      "data": "2026-10-30",
+      "descricao": "CRIACAO DE NOVO EMAIL PARA USAR NO CELULAR DO CONSULTORIO E BACKUP DO WHATSAPP PARA ESSE EMAIL NOVO E GARANTIA DE FUNCIONAMENTO DO WHATSAPP SEM PERDA DE DADOS",
+      "horas": 2,
+      "valor": 340
     }
   ],
   "contratos": [
@@ -19653,7 +19661,7 @@
     "cli": 25,
     "ag": 1211,
     "nota": 134,
-    "serv": 97,
+    "serv": 98,
     "ct": 9,
     "cob": 30,
     "rec": 39,
