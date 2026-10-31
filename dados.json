@@ -9523,6 +9523,66 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CPF): \nNOME: DRA CELY\nVALOR: R$ 510.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (2):\n  30/10/2026 - CRIACAO DE NOVO EMAIL PARA USAR NO CELULAR DO CONSULTORIO E BACKUP DO WHATSAPP PARA ESSE EMAIL NOVO E GARANTIA DE FUNCIONAMENTO DO WHATSAPP SEM PERDA DE DADOS - R$ 340.00\n  30/10/2026 - REMOÇÃO DE ANTIVIRUS AVAST PREMIUM, CANCELAMENTO DE ASSINATURA DE ANTIVIRUS, LIMPEZA DA MAQUINA E ATUALIZAÇÃO - R$ 170.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-10-30"
+    },
+    {
+      "id": 135,
+      "contrato_id": 1,
+      "competencia": "2026-10",
+      "cliente_id": "9",
+      "numero_nfse": "",
+      "valor": 860,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 18695876000165\nNOME: CEM SERVICOS LTDA\nVALOR: R$ 860.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: 20/11/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-31"
+    },
+    {
+      "id": 136,
+      "contrato_id": 2,
+      "competencia": "2026-10",
+      "cliente_id": "7",
+      "numero_nfse": "",
+      "valor": 468.8,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CPF): 72460881720\nNOME: ELIZABETH\nVALOR: R$ 468.80\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: 05/11/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-31"
+    },
+    {
+      "id": 137,
+      "contrato_id": 3,
+      "competencia": "2026-10",
+      "cliente_id": "8",
+      "numero_nfse": "",
+      "valor": 430.5,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CPF): 41271980797\nNOME: JORGE LUIZ GONCALVES BRAGA\nVALOR: R$ 430.50\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: 15/11/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-31"
+    },
+    {
+      "id": 138,
+      "contrato_id": 4,
+      "competencia": "2026-10",
+      "cliente_id": "6",
+      "numero_nfse": "",
+      "valor": 2167.1,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): 41191027000196\nNOME: REM MARKETING LTDA\nVALOR: R$ 2167.10\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 10/2026\nVENCIMENTO: 15/11/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-31"
+    },
+    {
+      "id": 139,
+      "contrato_id": 8,
+      "competencia": "2026-10",
+      "cliente_id": "23",
+      "numero_nfse": "",
+      "valor": 1000,
+      "descricao": "VRMEDSUITE + CONTRATO MENSAL",
+      "status": "portal",
+      "resumo": "TOMADOR (CNPJ): \nNOME: CLINDERM CENTRO DERMATOLOGICO LTDA\nVALOR: R$ 1000.00\nCODIGO DE TRIBUTACAO: 140101\n\nDISCRIMINACAO / MENSAGEM:\nVRMEDSUITE + CONTRATO MENSAL REF. 10/2026\nVENCIMENTO: 05/11/2026\nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
+      "emitida_em": "2026-10-31"
     }
   ],
   "servicos": [
@@ -10565,6 +10625,61 @@
       "tipo": "comunicado",
       "status": "enviado",
       "valor": 400,
+      "gerado_em": "2026-10-31"
+    },
+    {
+      "id": 33,
+      "contrato_id": 1,
+      "competencia": "2026-10",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 135,
+      "numero_nfse": "",
+      "valor": 860,
+      "gerado_em": "2026-10-31"
+    },
+    {
+      "id": 34,
+      "contrato_id": 2,
+      "competencia": "2026-10",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 136,
+      "numero_nfse": "",
+      "valor": 468.8,
+      "gerado_em": "2026-10-31"
+    },
+    {
+      "id": 35,
+      "contrato_id": 3,
+      "competencia": "2026-10",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 137,
+      "numero_nfse": "",
+      "valor": 430.5,
+      "gerado_em": "2026-10-31"
+    },
+    {
+      "id": 36,
+      "contrato_id": 4,
+      "competencia": "2026-10",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 138,
+      "numero_nfse": "",
+      "valor": 2167.1,
+      "gerado_em": "2026-10-31"
+    },
+    {
+      "id": 37,
+      "contrato_id": 8,
+      "competencia": "2026-10",
+      "tipo": "nfse",
+      "status": "portal",
+      "nota_id": 139,
+      "numero_nfse": "",
+      "valor": 1000,
       "gerado_em": "2026-10-31"
     }
   ],
@@ -19712,10 +19827,10 @@
   "seq": {
     "cli": 25,
     "ag": 1211,
-    "nota": 135,
+    "nota": 140,
     "serv": 99,
     "ct": 9,
-    "cob": 33,
+    "cob": 38,
     "rec": 39,
     "eq": 131,
     "ca": 636
