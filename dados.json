@@ -10399,7 +10399,7 @@
       "cliente_id": "23",
       "valor": 1000,
       "venc_dia": 5,
-      "tipo": "comunicado",
+      "tipo": "nfse",
       "ativo": true,
       "descricao": "VRMEDSUITE + CONTRATO MENSAL",
       "obs": "",
