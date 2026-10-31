@@ -10548,6 +10548,24 @@
       "status": "enviado",
       "valor": 2750,
       "gerado_em": "2026-10-31"
+    },
+    {
+      "id": 31,
+      "contrato_id": 5,
+      "competencia": "2026-10",
+      "tipo": "comunicado",
+      "status": "enviado",
+      "valor": 825,
+      "gerado_em": "2026-10-31"
+    },
+    {
+      "id": 32,
+      "contrato_id": 6,
+      "competencia": "2026-10",
+      "tipo": "comunicado",
+      "status": "enviado",
+      "valor": 400,
+      "gerado_em": "2026-10-31"
     }
   ],
   "recibos": [
@@ -19697,7 +19715,7 @@
     "nota": 135,
     "serv": 99,
     "ct": 9,
-    "cob": 31,
+    "cob": 33,
     "rec": 39,
     "eq": 131,
     "ca": 636
