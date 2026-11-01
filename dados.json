@@ -3516,21 +3516,10 @@
       "origem": "app"
     },
     {
-      "id": 761,
-      "tipo": "conta",
-      "conta_id": 230,
-      "titulo": "CARTAO ITI – falta R$ 578.29",
-      "cliente_id": "",
-      "inicio": "2026-10-10T09:00",
-      "fim": "2026-10-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 762,
       "tipo": "conta",
       "conta_id": 231,
-      "titulo": "CARTAO ITI – R$ 900.00",
+      "titulo": "CARTAO ITI – R$ 1478.29",
       "cliente_id": "",
       "inicio": "2026-11-10T09:00",
       "fim": "2026-11-10T09:30",
@@ -4495,21 +4484,10 @@
       "origem": "app"
     },
     {
-      "id": 857,
-      "tipo": "conta",
-      "conta_id": 326,
-      "titulo": "CARTAO MERCADO PAGO – falta R$ 563.09",
-      "cliente_id": "",
-      "inicio": "2026-10-23T09:00",
-      "fim": "2026-10-23T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 858,
       "tipo": "conta",
       "conta_id": 327,
-      "titulo": "CARTAO MERCADO PAGO – R$ 863.09",
+      "titulo": "CARTAO MERCADO PAGO – R$ 1426.18",
       "cliente_id": "",
       "inicio": "2026-11-23T09:00",
       "fim": "2026-11-23T09:30",
@@ -4748,21 +4726,10 @@
       "origem": "app"
     },
     {
-      "id": 881,
-      "tipo": "conta",
-      "conta_id": 350,
-      "titulo": "CARTAO CARREFOUR – falta R$ 336.00",
-      "cliente_id": "",
-      "inicio": "2026-10-21T09:00",
-      "fim": "2026-10-21T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 882,
       "tipo": "conta",
       "conta_id": 351,
-      "titulo": "CARTAO CARREFOUR – R$ 522.49",
+      "titulo": "CARTAO CARREFOUR – R$ 858.49",
       "cliente_id": "",
       "inicio": "2026-11-21T09:00",
       "fim": "2026-11-21T09:30",
@@ -8030,6 +7997,182 @@
       "local": "",
       "descricao": "",
       "id": 1210,
+      "origem": "app"
+    },
+    {
+      "id": 1211,
+      "tipo": "conta",
+      "conta_id": 636,
+      "titulo": "CONDOMINIO – R$ 518.00",
+      "cliente_id": "",
+      "inicio": "2028-10-10T09:00",
+      "fim": "2028-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1212,
+      "tipo": "conta",
+      "conta_id": 637,
+      "titulo": "SAVECAR - SEGURO FORD KA – R$ 268.54",
+      "cliente_id": "",
+      "inicio": "2028-10-10T09:00",
+      "fim": "2028-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1213,
+      "tipo": "conta",
+      "conta_id": 638,
+      "titulo": "CARTAO INTER – R$ 1500.00",
+      "cliente_id": "",
+      "inicio": "2028-10-05T09:00",
+      "fim": "2028-10-05T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1214,
+      "tipo": "conta",
+      "conta_id": 639,
+      "titulo": "CARTAO ITI – R$ 900.00",
+      "cliente_id": "",
+      "inicio": "2028-10-10T09:00",
+      "fim": "2028-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1215,
+      "tipo": "conta",
+      "conta_id": 640,
+      "titulo": "CARTAO ITAU VISA – R$ 400.00",
+      "cliente_id": "",
+      "inicio": "2028-10-21T09:00",
+      "fim": "2028-10-21T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1216,
+      "tipo": "conta",
+      "conta_id": 641,
+      "titulo": "CARTAO ITAU MASTER – R$ 170.00",
+      "cliente_id": "",
+      "inicio": "2028-10-17T09:00",
+      "fim": "2028-10-17T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1217,
+      "tipo": "conta",
+      "conta_id": 642,
+      "titulo": "CARTAO CASAS BAHIA – R$ 469.89",
+      "cliente_id": "",
+      "inicio": "2028-10-10T09:00",
+      "fim": "2028-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1218,
+      "tipo": "conta",
+      "conta_id": 643,
+      "titulo": "CARTAO MERCADO PAGO – R$ 863.09",
+      "cliente_id": "",
+      "inicio": "2028-10-23T09:00",
+      "fim": "2028-10-23T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1219,
+      "tipo": "conta",
+      "conta_id": 644,
+      "titulo": "CARTAO CARREFOUR – R$ 522.49",
+      "cliente_id": "",
+      "inicio": "2028-10-21T09:00",
+      "fim": "2028-10-21T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1220,
+      "tipo": "conta",
+      "conta_id": 645,
+      "titulo": "NATURGY – R$ 94.66",
+      "cliente_id": "",
+      "inicio": "2028-10-10T09:00",
+      "fim": "2028-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1221,
+      "tipo": "conta",
+      "conta_id": 646,
+      "titulo": "CELULARES – R$ 135.80",
+      "cliente_id": "",
+      "inicio": "2028-10-12T09:00",
+      "fim": "2028-10-12T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1222,
+      "tipo": "conta",
+      "conta_id": 647,
+      "titulo": "INTERNET – R$ 112.39",
+      "cliente_id": "",
+      "inicio": "2028-10-20T09:00",
+      "fim": "2028-10-20T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1223,
+      "tipo": "conta",
+      "conta_id": 648,
+      "titulo": "MEI KAMILLE E VINICIUS – R$ 170.00",
+      "cliente_id": "",
+      "inicio": "2028-10-20T09:00",
+      "fim": "2028-10-20T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1224,
+      "tipo": "conta",
+      "conta_id": 649,
+      "titulo": "LUCIENE PSICOLOGA MILLENA PRIMEIRA 15 – R$ 100.00",
+      "cliente_id": "",
+      "inicio": "2028-10-10T09:00",
+      "fim": "2028-10-10T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1225,
+      "tipo": "conta",
+      "conta_id": 650,
+      "titulo": "LUCIENE PSICOLOGA MILLENA SEGUNDA 15 – R$ 100.00",
+      "cliente_id": "",
+      "inicio": "2028-10-24T09:00",
+      "fim": "2028-10-24T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1226,
+      "tipo": "conta",
+      "conta_id": 651,
+      "titulo": "PLANO DE SAUDE – R$ 305.24",
+      "cliente_id": "",
+      "inicio": "2028-10-05T09:00",
+      "fim": "2028-10-05T09:30",
+      "status": "agendado",
       "origem": "app"
     }
   ],
@@ -14851,30 +14994,37 @@
       "grupo": "g1788882659778",
       "eterna": true,
       "nome": "CARTAO ITI",
-      "valor": 878.29,
+      "valor": 300,
       "venc": "2026-10-10",
-      "status": "parcial",
+      "status": "pago",
       "obs": "VARIAVEL - CONFERIR",
-      "agendamento_id": 761,
+      "agendamento_id": null,
       "categoria": "CARTAO",
       "pagamentos": [
         {
           "data": "2026-10-10",
           "valor": 300
         }
-      ]
+      ],
+      "rolado": {
+        "falta": 578.29,
+        "para_id": 231,
+        "valor_original": 878.29,
+        "nota": "Saldo de Outubro/2026: R$ 578.29"
+      }
     },
     {
       "id": 231,
       "grupo": "g1788882659778",
       "eterna": true,
       "nome": "CARTAO ITI",
-      "valor": 900,
+      "valor": 1478.29,
       "venc": "2026-11-10",
       "status": "pendente",
-      "obs": "VARIAVEL - CONFERIR",
+      "obs": "VARIAVEL - CONFERIR | Saldo de Outubro/2026: R$ 578.29",
       "agendamento_id": 762,
-      "categoria": "CARTAO"
+      "categoria": "CARTAO",
+      "saldo_anterior": 578.29
     },
     {
       "id": 232,
@@ -16009,30 +16159,37 @@
       "grupo": "g1788882783502",
       "eterna": true,
       "nome": "CARTAO MERCADO PAGO",
-      "valor": 863.09,
+      "valor": 300,
       "venc": "2026-10-23",
-      "status": "parcial",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 857,
+      "agendamento_id": null,
       "categoria": "CARTAO",
       "pagamentos": [
         {
           "data": "2026-10-20",
           "valor": 300
         }
-      ]
+      ],
+      "rolado": {
+        "falta": 563.09,
+        "para_id": 327,
+        "valor_original": 863.09,
+        "nota": "Saldo de Outubro/2026: R$ 563.09"
+      }
     },
     {
       "id": 327,
       "grupo": "g1788882783502",
       "eterna": true,
       "nome": "CARTAO MERCADO PAGO",
-      "valor": 863.09,
+      "valor": 1426.18,
       "venc": "2026-11-23",
       "status": "pendente",
-      "obs": "",
+      "obs": "Saldo de Outubro/2026: R$ 563.09",
       "agendamento_id": 858,
-      "categoria": "CARTAO"
+      "categoria": "CARTAO",
+      "saldo_anterior": 563.09
     },
     {
       "id": 328,
@@ -16303,30 +16460,37 @@
       "grupo": "g1788882821106",
       "eterna": true,
       "nome": "CARTAO CARREFOUR",
-      "valor": 636,
+      "valor": 300,
       "venc": "2026-10-21",
-      "status": "parcial",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 881,
+      "agendamento_id": null,
       "categoria": "CARTAO",
       "pagamentos": [
         {
           "data": "2026-10-21",
           "valor": 300
         }
-      ]
+      ],
+      "rolado": {
+        "falta": 336,
+        "para_id": 351,
+        "valor_original": 636,
+        "nota": "Saldo de Outubro/2026: R$ 336.00"
+      }
     },
     {
       "id": 351,
       "grupo": "g1788882821106",
       "eterna": true,
       "nome": "CARTAO CARREFOUR",
-      "valor": 522.49,
+      "valor": 858.49,
       "venc": "2026-11-21",
       "status": "pendente",
-      "obs": "",
+      "obs": "Saldo de Outubro/2026: R$ 336.00",
       "agendamento_id": 882,
-      "categoria": "CARTAO"
+      "categoria": "CARTAO",
+      "saldo_anterior": 336
     },
     {
       "id": 352,
@@ -19639,6 +19803,198 @@
       "obs": "",
       "categoria": "PLANO DE SAUDE",
       "agendamento_id": 1193
+    },
+    {
+      "id": 636,
+      "grupo": "g1788871043445",
+      "eterna": true,
+      "nome": "CONDOMINIO",
+      "valor": 518,
+      "venc": "2028-10-10",
+      "status": "pendente",
+      "obs": "PROTEST",
+      "categoria": "",
+      "agendamento_id": 1211
+    },
+    {
+      "id": 637,
+      "grupo": "g1788871065241",
+      "eterna": true,
+      "nome": "SAVECAR - SEGURO FORD KA",
+      "valor": 268.54,
+      "venc": "2028-10-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1212
+    },
+    {
+      "id": 638,
+      "grupo": "g1788882607764",
+      "eterna": true,
+      "nome": "CARTAO INTER",
+      "valor": 1500,
+      "venc": "2028-10-05",
+      "status": "pendente",
+      "obs": "VARIAVEL",
+      "categoria": "CARTAO",
+      "agendamento_id": 1213
+    },
+    {
+      "id": 639,
+      "grupo": "g1788882659778",
+      "eterna": true,
+      "nome": "CARTAO ITI",
+      "valor": 900,
+      "venc": "2028-10-10",
+      "status": "pendente",
+      "obs": "VARIAVEL - CONFERIR",
+      "categoria": "CARTAO",
+      "agendamento_id": 1214
+    },
+    {
+      "id": 640,
+      "grupo": "g1788882693197",
+      "eterna": true,
+      "nome": "CARTAO ITAU VISA",
+      "valor": 400,
+      "venc": "2028-10-21",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "CARTAO",
+      "agendamento_id": 1215
+    },
+    {
+      "id": 641,
+      "grupo": "g1788882725691",
+      "eterna": true,
+      "nome": "CARTAO ITAU MASTER",
+      "valor": 170,
+      "venc": "2028-10-17",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "CARTAO",
+      "agendamento_id": 1216
+    },
+    {
+      "id": 642,
+      "grupo": "g1788882742805",
+      "eterna": true,
+      "nome": "CARTAO CASAS BAHIA",
+      "valor": 469.89,
+      "venc": "2028-10-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "CARTAO",
+      "agendamento_id": 1217
+    },
+    {
+      "id": 643,
+      "grupo": "g1788882783502",
+      "eterna": true,
+      "nome": "CARTAO MERCADO PAGO",
+      "valor": 863.09,
+      "venc": "2028-10-23",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "CARTAO",
+      "agendamento_id": 1218
+    },
+    {
+      "id": 644,
+      "grupo": "g1788882821106",
+      "eterna": true,
+      "nome": "CARTAO CARREFOUR",
+      "valor": 522.49,
+      "venc": "2028-10-21",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "CARTAO",
+      "agendamento_id": 1219
+    },
+    {
+      "id": 645,
+      "grupo": "g1788883271252",
+      "eterna": true,
+      "nome": "NATURGY",
+      "valor": 94.66,
+      "venc": "2028-10-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1220
+    },
+    {
+      "id": 646,
+      "grupo": "g1788883431508",
+      "eterna": true,
+      "nome": "CELULARES",
+      "valor": 135.8,
+      "venc": "2028-10-12",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1221
+    },
+    {
+      "id": 647,
+      "grupo": "g1788883591745",
+      "eterna": true,
+      "nome": "INTERNET",
+      "valor": 112.39,
+      "venc": "2028-10-20",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1222
+    },
+    {
+      "id": 648,
+      "grupo": "g1788905205998",
+      "eterna": true,
+      "nome": "MEI KAMILLE E VINICIUS",
+      "valor": 170,
+      "venc": "2028-10-20",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "MEI",
+      "agendamento_id": 1223
+    },
+    {
+      "id": 649,
+      "grupo": "g1789076581132",
+      "eterna": true,
+      "nome": "LUCIENE PSICOLOGA MILLENA PRIMEIRA 15",
+      "valor": 100,
+      "venc": "2028-10-10",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1224
+    },
+    {
+      "id": 650,
+      "grupo": "g1789076668434",
+      "eterna": true,
+      "nome": "LUCIENE PSICOLOGA MILLENA SEGUNDA 15",
+      "valor": 100,
+      "venc": "2028-10-24",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "",
+      "agendamento_id": 1225
+    },
+    {
+      "id": 651,
+      "grupo": "g1791305590015",
+      "eterna": true,
+      "nome": "PLANO DE SAUDE",
+      "valor": 305.24,
+      "venc": "2028-10-05",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "PLANO DE SAUDE",
+      "agendamento_id": 1226
     }
   ],
   "receber_recebidos": [
@@ -19826,14 +20182,14 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1211,
+    "ag": 1227,
     "nota": 140,
     "serv": 99,
     "ct": 9,
     "cob": 38,
     "rec": 39,
     "eq": 131,
-    "ca": 636
+    "ca": 652
   },
   "_recAte31Ago": true,
   "agenda_estado": {
