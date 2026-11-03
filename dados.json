@@ -11594,6 +11594,27 @@
         }
       ],
       "id": 38
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-11-03",
+      "numero": "03112026",
+      "cliente_id": "",
+      "pag_nome": "Dr Claudio",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO DR CLAUDIO NO DIA 03/11/2026",
+      "itens": [
+        {
+          "data": "2026-11-03",
+          "desc": "Instalcao de internet",
+          "qtd": "4",
+          "valor": 680
+        }
+      ],
+      "id": 39
     }
   ],
   "equipamentos": [
@@ -20187,7 +20208,7 @@
     "serv": 99,
     "ct": 9,
     "cob": 38,
-    "rec": 39,
+    "rec": 40,
     "eq": 131,
     "ca": 652
   },
