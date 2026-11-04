@@ -10525,6 +10525,14 @@
       "horas": 1,
       "valor": 170,
       "nota_id": 134
+    },
+    {
+      "id": 99,
+      "cliente_id": "4",
+      "data": "2026-11-04",
+      "descricao": "ACESSO A MAQUINA DO ESCRITORIO PARA LIMPEZA E RECONFIGURAÇÃO DO GOOGLE DRIVE",
+      "horas": 1,
+      "valor": 130
     }
   ],
   "contratos": [
@@ -20206,7 +20214,7 @@
     "cli": 25,
     "ag": 1227,
     "nota": 140,
-    "serv": 99,
+    "serv": 100,
     "ct": 9,
     "cob": 38,
     "rec": 40,
