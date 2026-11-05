@@ -11649,6 +11649,27 @@
         }
       ],
       "id": 39
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-11-05",
+      "numero": "05112026",
+      "cliente_id": "",
+      "pag_nome": "Guilherme",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO GUILHERME NO DIA 05/11/2026",
+      "itens": [
+        {
+          "data": "2026-11-05",
+          "desc": "GUILHERME ROCHA\nCLARIDADE DO MONITOR/TAMANHO DA LETRA/ASSINATURA DO OFFICE/",
+          "qtd": "1 HORA",
+          "valor": 170
+        }
+      ],
+      "id": 40
     }
   ],
   "equipamentos": [
@@ -20244,7 +20265,7 @@
     "serv": 100,
     "ct": 9,
     "cob": 38,
-    "rec": 40,
+    "rec": 41,
     "eq": 131,
     "ca": 652
   },
