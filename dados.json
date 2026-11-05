@@ -8174,6 +8174,18 @@
       "fim": "2028-10-05T09:30",
       "status": "agendado",
       "origem": "app"
+    },
+    {
+      "titulo": "GUILHERME ROCHA",
+      "cliente_id": null,
+      "inicio": "2026-11-05T12:00",
+      "fim": "2026-11-05T13:00",
+      "valor": 170,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1227,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -20226,7 +20238,7 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1227,
+    "ag": 1228,
     "nota": 141,
     "serv": 100,
     "ct": 9,
