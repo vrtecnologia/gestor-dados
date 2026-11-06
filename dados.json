@@ -7618,6 +7618,18 @@
       "descricao": "CLARIDADE DO MONITOR/TAMANHO DA LETRA/ASSINATURA DO OFFICE/",
       "id": 1227,
       "origem": "app"
+    },
+    {
+      "titulo": "SR WILSON",
+      "cliente_id": null,
+      "inicio": "2026-11-10T09:00",
+      "fim": "2026-11-10T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "VERIFICAR CONEXAO DA INTERNET COM HUB INTELBRAS",
+      "id": 1228,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19718,7 +19730,7 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1228,
+    "ag": 1229,
     "nota": 141,
     "serv": 100,
     "ct": 9,
