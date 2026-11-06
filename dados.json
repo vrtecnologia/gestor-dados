@@ -10003,6 +10003,14 @@
       "horas": 1,
       "valor": 130,
       "nota_id": 140
+    },
+    {
+      "id": 100,
+      "cliente_id": "6",
+      "data": "2026-11-06",
+      "descricao": "ATUALIZAÇÃO DE FIRMWARE DA MAQUINA DO MAURICIO",
+      "horas": 2,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19732,7 +19740,7 @@
     "cli": 25,
     "ag": 1229,
     "nota": 141,
-    "serv": 100,
+    "serv": 101,
     "ct": 9,
     "cob": 38,
     "rec": 42,
