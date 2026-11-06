@@ -3274,17 +3274,6 @@
       "origem": "app"
     },
     {
-      "id": 738,
-      "tipo": "conta",
-      "conta_id": 207,
-      "titulo": "CARTAO INTER – R$ 2078.00",
-      "cliente_id": "",
-      "inicio": "2026-11-05T09:00",
-      "fim": "2026-11-05T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 739,
       "tipo": "conta",
       "conta_id": 208,
@@ -14817,9 +14806,9 @@
       "nome": "CARTAO INTER",
       "valor": 2078,
       "venc": "2026-11-05",
-      "status": "pendente",
+      "status": "pago",
       "obs": "VARIAVEL",
-      "agendamento_id": 738,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
