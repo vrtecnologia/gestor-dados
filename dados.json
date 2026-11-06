@@ -7630,6 +7630,18 @@
       "descricao": "VERIFICAR CONEXAO DA INTERNET COM HUB INTELBRAS",
       "id": 1228,
       "origem": "app"
+    },
+    {
+      "titulo": "FATIMA RENE SIMOES",
+      "cliente_id": null,
+      "inicio": "2026-11-09T14:00",
+      "fim": "2026-11-09T15:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1229,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19804,7 +19816,7 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1229,
+    "ag": 1230,
     "nota": 141,
     "serv": 101,
     "ct": 9,
