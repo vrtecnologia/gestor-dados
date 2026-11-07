@@ -2951,7 +2951,7 @@
       "id": 762,
       "tipo": "conta",
       "conta_id": 231,
-      "titulo": "CARTAO ITI – R$ 1478.29",
+      "titulo": "CARTAO ITI – falta R$ 778.29",
       "cliente_id": "",
       "inicio": "2026-11-10T09:00",
       "fim": "2026-11-10T09:30",
@@ -14633,11 +14633,17 @@
       "nome": "CARTAO ITI",
       "valor": 1478.29,
       "venc": "2026-11-10",
-      "status": "pendente",
+      "status": "parcial",
       "obs": "VARIAVEL - CONFERIR | Saldo de Outubro/2026: R$ 578.29",
       "agendamento_id": 762,
       "categoria": "CARTAO",
-      "saldo_anterior": 578.29
+      "saldo_anterior": 578.29,
+      "pagamentos": [
+        {
+          "data": "2026-11-07",
+          "valor": 700
+        }
+      ]
     },
     {
       "id": 232,
