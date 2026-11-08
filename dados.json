@@ -7631,6 +7631,18 @@
       "descricao": "",
       "id": 1229,
       "origem": "app"
+    },
+    {
+      "titulo": "Medico Millena - Madureira",
+      "cliente_id": null,
+      "inicio": "2026-11-13T12:00",
+      "fim": "2026-11-13T13:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1230,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19812,7 +19824,7 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1230,
+    "ag": 1231,
     "nota": 141,
     "serv": 101,
     "ct": 9,
