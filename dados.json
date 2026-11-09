@@ -7609,18 +7609,6 @@
       "origem": "app"
     },
     {
-      "titulo": "SR WILSON",
-      "cliente_id": null,
-      "inicio": "2026-11-10T08:30",
-      "fim": "2026-11-10T09:30",
-      "valor": 0,
-      "status": "agendado",
-      "local": "",
-      "descricao": "VERIFICAR CONEXAO DA INTERNET COM HUB INTELBRAS",
-      "id": 1228,
-      "origem": "app"
-    },
-    {
       "titulo": "FATIMA RENE SIMOES",
       "cliente_id": null,
       "inicio": "2026-11-09T14:00",
