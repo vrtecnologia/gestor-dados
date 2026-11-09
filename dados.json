@@ -11185,6 +11185,27 @@
         }
       ],
       "id": 44
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-11-09",
+      "numero": "09112026",
+      "cliente_id": "",
+      "pag_nome": "FATIMA SIMOES",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO FATIMA SIMOES NO DIA 09/11/2026",
+      "itens": [
+        {
+          "data": "2026-11-09",
+          "desc": "FATIMA RENE SIMOES\nATUALIZAÇÃO DO COMPUTADOR",
+          "qtd": "1 HORA",
+          "valor": 170
+        }
+      ],
+      "id": 45
     }
   ],
   "equipamentos": [
@@ -19759,7 +19780,7 @@
     "serv": 101,
     "ct": 9,
     "cob": 38,
-    "rec": 45,
+    "rec": 46,
     "eq": 131,
     "ca": 652
   },
