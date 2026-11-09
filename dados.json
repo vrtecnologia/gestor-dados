@@ -9990,6 +9990,14 @@
       "descricao": "ATUALIZAÇÃO DE FIRMWARE DA MAQUINA DO MAURICIO",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 101,
+      "cliente_id": "6",
+      "data": "2026-11-09",
+      "descricao": "TROCA DO SSD DO MAURICIO E FORMATAÇÃO DO ALIENWARE COM PEN DRIVE DA PROPRIA DELL",
+      "horas": 4,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19778,7 +19786,7 @@
     "cli": 25,
     "ag": 1231,
     "nota": 141,
-    "serv": 101,
+    "serv": 102,
     "ct": 9,
     "cob": 38,
     "rec": 46,
