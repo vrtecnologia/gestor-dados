@@ -7554,6 +7554,39 @@
       "descricao": "",
       "id": 1230,
       "origem": "app"
+    },
+    {
+      "id": 1231,
+      "tipo": "conta",
+      "conta_id": 652,
+      "titulo": "EMPRESTIMO ML – R$ 233.08",
+      "cliente_id": "",
+      "inicio": "2026-11-16T09:00",
+      "fim": "2026-11-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1232,
+      "tipo": "conta",
+      "conta_id": 653,
+      "titulo": "EMPRESTIMO ML – R$ 233.08",
+      "cliente_id": "",
+      "inicio": "2026-12-16T09:00",
+      "fim": "2026-12-16T09:30",
+      "status": "agendado",
+      "origem": "app"
+    },
+    {
+      "id": 1233,
+      "tipo": "conta",
+      "conta_id": 654,
+      "titulo": "EMPRESTIMO ML – R$ 233.08",
+      "cliente_id": "",
+      "inicio": "2027-01-16T09:00",
+      "fim": "2027-01-16T09:30",
+      "status": "agendado",
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19530,6 +19563,42 @@
       "obs": "",
       "categoria": "PLANO DE SAUDE",
       "agendamento_id": 1226
+    },
+    {
+      "id": 652,
+      "grupo": "g1794312393613",
+      "eterna": false,
+      "nome": "EMPRESTIMO ML",
+      "valor": 233.08,
+      "venc": "2026-11-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "EMPRESTIMO",
+      "agendamento_id": 1231
+    },
+    {
+      "id": 653,
+      "grupo": "g1794312393613",
+      "eterna": false,
+      "nome": "EMPRESTIMO ML",
+      "valor": 233.08,
+      "venc": "2026-12-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "EMPRESTIMO",
+      "agendamento_id": 1232
+    },
+    {
+      "id": 654,
+      "grupo": "g1794312393613",
+      "eterna": false,
+      "nome": "EMPRESTIMO ML",
+      "valor": 233.08,
+      "venc": "2027-01-16",
+      "status": "pendente",
+      "obs": "",
+      "categoria": "EMPRESTIMO",
+      "agendamento_id": 1233
     }
   ],
   "receber_recebidos": [
@@ -19729,14 +19798,14 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1231,
+    "ag": 1234,
     "nota": 141,
     "serv": 102,
     "ct": 9,
     "cob": 38,
     "rec": 46,
     "eq": 131,
-    "ca": 652
+    "ca": 655
   },
   "_recAte31Ago": true,
   "agenda_estado": {
