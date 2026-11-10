@@ -847,17 +847,6 @@
       "origem": "app"
     },
     {
-      "id": 555,
-      "tipo": "conta",
-      "conta_id": 24,
-      "titulo": "CONDOMINIO – R$ 518.00",
-      "cliente_id": "",
-      "inicio": "2026-11-10T09:00",
-      "fim": "2026-11-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 556,
       "tipo": "conta",
       "conta_id": 25,
@@ -12248,9 +12237,9 @@
       "nome": "CONDOMINIO",
       "valor": 518,
       "venc": "2026-11-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "PROTEST",
-      "agendamento_id": 555,
+      "agendamento_id": null,
       "categoria": ""
     },
     {
