@@ -3652,17 +3652,6 @@
       "origem": "app"
     },
     {
-      "id": 834,
-      "tipo": "conta",
-      "conta_id": 303,
-      "titulo": "CARTAO CASAS BAHIA – R$ 469.89",
-      "cliente_id": "",
-      "inicio": "2026-11-10T09:00",
-      "fim": "2026-11-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 835,
       "tipo": "conta",
       "conta_id": 304,
@@ -15467,9 +15456,9 @@
       "nome": "CARTAO CASAS BAHIA",
       "valor": 469.89,
       "venc": "2026-11-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 834,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
