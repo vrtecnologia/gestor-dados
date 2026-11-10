@@ -4389,17 +4389,6 @@
       "origem": "app"
     },
     {
-      "id": 914,
-      "tipo": "conta",
-      "conta_id": 383,
-      "titulo": "NATURGY – R$ 94.66",
-      "cliente_id": "",
-      "inicio": "2026-11-10T09:00",
-      "fim": "2026-11-10T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 915,
       "tipo": "conta",
       "conta_id": 384,
@@ -16461,9 +16450,9 @@
       "nome": "NATURGY",
       "valor": 94.66,
       "venc": "2026-11-10",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 914
+      "agendamento_id": null
     },
     {
       "id": 384,
