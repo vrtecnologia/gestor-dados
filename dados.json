@@ -9973,6 +9973,14 @@
       "descricao": "RIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
       "horas": 2,
       "valor": 0
+    },
+    {
+      "id": 103,
+      "cliente_id": "6",
+      "data": "2026-11-12",
+      "descricao": "ACESSO A MAQUINA DO BATATA PARA ATUALIZAÇÃO DO MAC E DO ADOBE",
+      "horas": 3,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19798,7 +19806,7 @@
     "cli": 25,
     "ag": 1234,
     "nota": 141,
-    "serv": 103,
+    "serv": 104,
     "ct": 9,
     "cob": 38,
     "rec": 46,
