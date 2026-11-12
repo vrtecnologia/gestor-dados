@@ -9965,6 +9965,14 @@
       "descricao": "TROCA DO SSD DO MAURICIO E FORMATAÇÃO DO ALIENWARE COM PEN DRIVE DA PROPRIA DELL",
       "horas": 4,
       "valor": 0
+    },
+    {
+      "id": 102,
+      "cliente_id": "2",
+      "data": "2026-11-12",
+      "descricao": "RIFICAÇÃO TÉCNICA DE USUÁRIOS E CONSISTÊNCIA DE LICENÇAS NAS PLATAFORMAS GOOGLE E MICROSOFT",
+      "horas": 2,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19790,7 +19798,7 @@
     "cli": 25,
     "ag": 1234,
     "nota": 141,
-    "serv": 102,
+    "serv": 103,
     "ct": 9,
     "cob": 38,
     "rec": 46,
