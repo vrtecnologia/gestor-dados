@@ -3410,17 +3410,6 @@
       "origem": "app"
     },
     {
-      "id": 810,
-      "tipo": "conta",
-      "conta_id": 279,
-      "titulo": "CARTAO ITAU MASTER – R$ 170.00",
-      "cliente_id": "",
-      "inicio": "2026-11-17T09:00",
-      "fim": "2026-11-17T09:30",
-      "status": "agendado",
-      "origem": "app"
-    },
-    {
       "id": 811,
       "tipo": "conta",
       "conta_id": 280,
@@ -15163,9 +15152,9 @@
       "nome": "CARTAO ITAU MASTER",
       "valor": 170,
       "venc": "2026-11-17",
-      "status": "pendente",
+      "status": "pago",
       "obs": "",
-      "agendamento_id": 810,
+      "agendamento_id": null,
       "categoria": "CARTAO"
     },
     {
