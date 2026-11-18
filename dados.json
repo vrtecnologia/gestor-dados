@@ -9928,6 +9928,14 @@
       "descricao": "ACESSO A MAQUINA DO BATATA PARA ATUALIZAÇÃO DO MAC E DO ADOBE",
       "horas": 3,
       "valor": 0
+    },
+    {
+      "id": 104,
+      "cliente_id": "2",
+      "data": "2026-11-18",
+      "descricao": "AUXILIO AO MICHEL PARA RENOVAÇÃO DO REGISTRO.BR/ CONTRATAÇÃO DO CLAUDE PARA EQUIPES E CONFIGURAÇÃO EM TODA A EQUIPE DE PRODUCAO E CRIACAO",
+      "horas": 4,
+      "valor": 0
     }
   ],
   "contratos": [
@@ -19753,7 +19761,7 @@
     "cli": 25,
     "ag": 1236,
     "nota": 141,
-    "serv": 104,
+    "serv": 105,
     "ct": 9,
     "cob": 38,
     "rec": 46,
