@@ -7523,6 +7523,18 @@
       "descricao": "",
       "id": 1235,
       "origem": "app"
+    },
+    {
+      "titulo": "LUXO BRASIL",
+      "cliente_id": null,
+      "inicio": "2026-11-19T16:30",
+      "fim": "2026-11-19T17:30",
+      "valor": 0,
+      "status": "agendado",
+      "local": "AV PEPE 1120",
+      "descricao": "",
+      "id": 1236,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19817,7 +19829,7 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1236,
+    "ag": 1237,
     "nota": 142,
     "serv": 105,
     "ct": 9,
