@@ -9088,6 +9088,19 @@
       "status": "autorizada",
       "resumo": "TOMADOR (CNPJ): 05292903000107\nNOME: PETT CAPELLATO\nVALOR: R$ 130.00\nCODIGO DE TRIBUTACAO: 140101\n\nOS INCLUIDAS (1):\n  04/11/2026 - ACESSO A MAQUINA DO ESCRITORIO PARA LIMPEZA E RECONFIGURAÇÃO DO GOOGLE DRIVE - R$ 130.00\n\nDISCRIMINACAO / MENSAGEM (cole no campo de descricao do servico):\nREPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 11/2026\nVENCIMENTO: \nDADOS PARA PAGAMENTO:\nPIX CNPJ 42.612.058/0001-36",
       "emitida_em": "2026-11-04"
+    },
+    {
+      "id": 141,
+      "cliente_id": "",
+      "cliente_nome_xml": "MC LINK ENGENHARIA LTDA",
+      "cliente_doc_xml": "04246593000121",
+      "competencia": "2026-11",
+      "numero_nfse": "477",
+      "valor": 170,
+      "descricao": "REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES REF. 11/2026\r\nOS INCLUIDAS (1):\r\n  18/11/2026 - SERVIÇO DE REDE - REMOÇÃO DO ROTEADOR APPLE E CONFIGURAÇÃO DO APARELHO DA CLARO COMO ROTEADOR - R$ 170.00\r\n\r\nVENCIMENTO: 19/11/2026\r\nDADOS PARA PAGAMENTO:\r\nPIX CNPJ 42.612.058/0001-36",
+      "status": "autorizada",
+      "origem": "xml",
+      "emitida_em": "18/11/2026"
     }
   ],
   "servicos": [
@@ -19805,7 +19818,7 @@
   "seq": {
     "cli": 25,
     "ag": 1236,
-    "nota": 141,
+    "nota": 142,
     "serv": 105,
     "ct": 9,
     "cob": 38,
