@@ -7511,6 +7511,18 @@
       "descricao": "",
       "id": 1234,
       "origem": "app"
+    },
+    {
+      "titulo": "XMARKETING",
+      "cliente_id": "2",
+      "inicio": "2026-11-23T09:00",
+      "fim": "2026-11-23T10:00",
+      "valor": 0,
+      "status": "agendado",
+      "local": "",
+      "descricao": "",
+      "id": 1235,
+      "origem": "app"
     }
   ],
   "notas": [
@@ -19739,7 +19751,7 @@
   },
   "seq": {
     "cli": 25,
-    "ag": 1235,
+    "ag": 1236,
     "nota": 141,
     "serv": 104,
     "ct": 9,
