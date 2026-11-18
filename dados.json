@@ -11152,6 +11152,27 @@
         }
       ],
       "id": 45
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-11-18",
+      "numero": "18112026",
+      "cliente_id": "",
+      "pag_nome": "VIZINHA DA NATALIA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO VIZINHA DA NATALIA NO DIA 18/11/2026",
+      "itens": [
+        {
+          "data": "2026-11-16",
+          "desc": "SERVIÇO NO CELULAR",
+          "qtd": "1",
+          "valor": 170
+        }
+      ],
+      "id": 46
     }
   ],
   "equipamentos": [
@@ -19764,7 +19785,7 @@
     "serv": 105,
     "ct": 9,
     "cob": 38,
-    "rec": 46,
+    "rec": 47,
     "eq": 131,
     "ca": 655
   },
