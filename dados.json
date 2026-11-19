@@ -11219,6 +11219,27 @@
         }
       ],
       "id": 47
+    },
+    {
+      "tipo": "servico",
+      "data": "2026-11-19",
+      "numero": "19112026",
+      "cliente_id": "",
+      "pag_nome": "ANGELICA",
+      "pag_doc": "",
+      "pag_end": "",
+      "prep": "DO",
+      "pix": true,
+      "decl": "EU VINICIUS DA ROCHA NASCIMENTO DE CPF 097.621.867-45 RECEBI ESSA IMPORTANCIA ACIMA DO ANGELICA NO DIA 19/11/2026",
+      "itens": [
+        {
+          "data": "2026-11-19",
+          "desc": "REINSTAÇLAÇAO DO AUTOCAD",
+          "qtd": "2 HORAS",
+          "valor": 260
+        }
+      ],
+      "id": 48
     }
   ],
   "equipamentos": [
@@ -19799,7 +19820,8 @@
     "rec:46",
     "rec:47",
     "nota:138",
-    "nota:137"
+    "nota:137",
+    "rec:48"
   ],
   "receber_vencimentos": {
     "nota:7": "2026-08-05",
@@ -19836,7 +19858,7 @@
     "serv": 105,
     "ct": 9,
     "cob": 38,
-    "rec": 48,
+    "rec": 49,
     "eq": 131,
     "ca": 655
   },
